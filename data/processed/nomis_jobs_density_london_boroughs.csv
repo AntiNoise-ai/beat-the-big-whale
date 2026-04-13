@@ -1,0 +1,67 @@
+DATE_NAME,GEOGRAPHY_NAME,GEOGRAPHY_CODE,ITEM_NAME,OBS_VALUE
+2023,City of London,E09000001,Total jobs,759000
+2023,City of London,E09000001,Jobs density,66.46
+2023,Barking and Dagenham,E09000002,Total jobs,68000
+2023,Barking and Dagenham,E09000002,Jobs density,0.45
+2023,Barnet,E09000003,Total jobs,159000
+2023,Barnet,E09000003,Jobs density,0.62
+2023,Bexley,E09000004,Total jobs,89000
+2023,Bexley,E09000004,Jobs density,0.56
+2023,Brent,E09000005,Total jobs,153000
+2023,Brent,E09000005,Jobs density,0.64
+2023,Bromley,E09000006,Total jobs,130000
+2023,Bromley,E09000006,Jobs density,0.62
+2023,Camden,E09000007,Total jobs,442000
+2023,Camden,E09000007,Jobs density,2.77
+2023,Croydon,E09000008,Total jobs,149000
+2023,Croydon,E09000008,Jobs density,0.56
+2023,Ealing,E09000009,Total jobs,168000
+2023,Ealing,E09000009,Jobs density,0.65
+2023,Enfield,E09000010,Total jobs,133000
+2023,Enfield,E09000010,Jobs density,0.63
+2023,Greenwich,E09000011,Total jobs,105000
+2023,Greenwich,E09000011,Jobs density,0.51
+2023,Hackney,E09000012,Total jobs,198000
+2023,Hackney,E09000012,Jobs density,1.02
+2023,Hammersmith and Fulham,E09000013,Total jobs,161000
+2023,Hammersmith and Fulham,E09000013,Jobs density,1.16
+2023,Haringey,E09000014,Total jobs,96000
+2023,Haringey,E09000014,Jobs density,0.51
+2023,Harrow,E09000015,Total jobs,98000
+2023,Harrow,E09000015,Jobs density,0.57
+2023,Havering,E09000016,Total jobs,105000
+2023,Havering,E09000016,Jobs density,0.63
+2023,Hillingdon,E09000017,Total jobs,206000
+2023,Hillingdon,E09000017,Jobs density,0.97
+2023,Hounslow,E09000018,Total jobs,180000
+2023,Hounslow,E09000018,Jobs density,0.90
+2023,Islington,E09000019,Total jobs,280000
+2023,Islington,E09000019,Jobs density,1.65
+2023,Kensington and Chelsea,E09000020,Total jobs,153000
+2023,Kensington and Chelsea,E09000020,Jobs density,1.47
+2023,Kingston upon Thames,E09000021,Total jobs,92000
+2023,Kingston upon Thames,E09000021,Jobs density,0.82
+2023,Lambeth,E09000022,Total jobs,180000
+2023,Lambeth,E09000022,Jobs density,0.74
+2023,Lewisham,E09000023,Total jobs,91000
+2023,Lewisham,E09000023,Jobs density,0.42
+2023,Merton,E09000024,Total jobs,105000
+2023,Merton,E09000024,Jobs density,0.72
+2023,Newham,E09000025,Total jobs,156000
+2023,Newham,E09000025,Jobs density,0.59
+2023,Redbridge,E09000026,Total jobs,98000
+2023,Redbridge,E09000026,Jobs density,0.47
+2023,Richmond upon Thames,E09000027,Total jobs,93000
+2023,Richmond upon Thames,E09000027,Jobs density,0.75
+2023,Southwark,E09000028,Total jobs,363000
+2023,Southwark,E09000028,Jobs density,1.54
+2023,Sutton,E09000029,Total jobs,84000
+2023,Sutton,E09000029,Jobs density,0.63
+2023,Tower Hamlets,E09000030,Total jobs,370000
+2023,Tower Hamlets,E09000030,Jobs density,1.46
+2023,Waltham Forest,E09000031,Total jobs,112000
+2023,Waltham Forest,E09000031,Jobs density,0.58
+2023,Wandsworth,E09000032,Total jobs,151000
+2023,Wandsworth,E09000032,Jobs density,0.61
+2023,Westminster,E09000033,Total jobs,846000
+2023,Westminster,E09000033,Jobs density,5.35

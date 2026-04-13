@@ -15,19 +15,21 @@ Done:
 - Joined station metadata to station counts into `data/processed/station_reference_with_counts.csv`
 - Matched 272/272 station rows after normalization/alias handling
 - Downloaded the Greater London OSM PBF extract
+- Created a local `.venv` with pandas/geopandas/shapely/pyproj/pyogrio
+- Aggregated first-pass OSM point-based POI counts into `data/processed/station_poi_counts_osm_points.csv`
+- Pulled first NOMIS London borough extracts into `nomis_jobs_density_london_boroughs.csv` and `nomis_population_london_boroughs.csv`
 - Added `docs/data_sources.md` with access notes and registration requirements
 
 In progress:
-- OSM catchment and POI aggregation
-- demographic/workplace source selection
+- borough assignment for stations
 - station-level feature engineering from real public inputs
+- extending OSM aggregation beyond point features
 
 Next:
-- aggregate nearby POIs by category
+- map stations to boroughs and join NOMIS borough features
 - convert joined station counts into normalized footfall features
-- pull initial demographic/workplace proxies from NOMIS
-- join public demographic/workplace proxies
+- extend OSM aggregation to polygon features and shopping centres/offices
+- build first real station feature table for ranking
 
 Blocking items:
-- none yet for transport and OSM layers
-- later, a Nomis account may help for larger demographic/workplace pulls
+- none currently

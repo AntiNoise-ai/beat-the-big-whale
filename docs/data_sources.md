@@ -65,6 +65,7 @@ Notes:
 - API works anonymously
 - anonymous access is limited to 25,000 cells
 - for larger pulls, create an account and use a Nomis UID/signature
+- local scripts should read `NOMIS_UID` from the environment and must not commit credentials or keys
 
 If needed later, registration page is:
 - https://www.nomisweb.co.uk/

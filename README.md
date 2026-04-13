@@ -9,13 +9,19 @@ Current status:
 - MVP concept defined
 - seed scoring engine built
 - Phase 1 started: real public-data ingestion scaffold
+- real TfL station metadata and station counts ingested
+- initial OSM point-based POI aggregation completed
+- initial NOMIS London borough extracts completed
 
 Contents:
 - `STATUS.md` — concise progress log
 - `docs/` — MVP and public-data planning docs
 - `src/tube_london_ads/` — starter code for scoring and Phase 1 ingestion
 - `data/sample_stations.json` — seed station features used by the current demo
-- `scripts/download_public_inputs.py` — starter downloader for public datasets
+- `data/processed/station_reference_with_counts.csv` — joined station metadata + footfall proxy input
+- `data/processed/station_poi_counts_osm_points.csv` — initial OSM POI counts around stations
+- `data/processed/nomis_jobs_density_london_boroughs.csv` — first workplace proxy extract
+- `scripts/download_public_inputs.py` — downloader for public datasets
 
 Quick demo:
 ```bash

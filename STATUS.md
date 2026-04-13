@@ -18,18 +18,22 @@ Done:
 - Created a local `.venv` with pandas/geopandas/shapely/pyproj/pyogrio
 - Aggregated first-pass OSM point-based POI counts into `data/processed/station_poi_counts_osm_points.csv`
 - Pulled first NOMIS London borough extracts into `nomis_jobs_density_london_boroughs.csv` and `nomis_population_london_boroughs.csv`
+- Downloaded London borough boundaries and assigned stations to boroughs
+- Built `data/processed/station_feature_table_real.csv`
+- Built `data/processed/station_feature_vectors_real.json`
+- Added a real-data runnable demo script
 - Added `docs/data_sources.md` with access notes and registration requirements
 
 In progress:
-- borough assignment for stations
-- station-level feature engineering from real public inputs
 - extending OSM aggregation beyond point features
+- improving proxy quality for affluence and family/student segmentation
+- refining station feature engineering
 
 Next:
-- map stations to boroughs and join NOMIS borough features
-- convert joined station counts into normalized footfall features
 - extend OSM aggregation to polygon features and shopping centres/offices
-- build first real station feature table for ranking
+- add borough-level enrichment into the ranking explanations
+- improve affluence/family/student proxies from additional public datasets
+- compare real-data output against manual expectations for key stations
 
 Blocking items:
 - none currently

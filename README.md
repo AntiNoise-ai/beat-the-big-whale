@@ -21,12 +21,16 @@ Contents:
 - `data/processed/station_reference_with_counts.csv` — joined station metadata + footfall proxy input
 - `data/processed/station_poi_counts_osm_points.csv` — initial OSM POI counts around stations
 - `data/processed/nomis_jobs_density_london_boroughs.csv` — first workplace proxy extract
+- `data/processed/station_feature_table_real.csv` — first real station-level feature table
 - `scripts/download_public_inputs.py` — downloader for public datasets
 
 Quick demo:
 ```bash
 cd london-tube-advertising
-python -m src.tube_london_ads.phase1_demo --industry luxury_retail --top-k 5
+python -m venv .venv
+. .venv/bin/activate
+pip install -r requirements.txt
+python scripts/run_real_data_demo.py --industry luxury_retail --top-k 5
 ```
 
 Important:

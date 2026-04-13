@@ -30,11 +30,16 @@ def load_station_vectors(path: Path = DATA_PATH) -> list[StationFeatureVector]:
     return [StationFeatureVector(**row) for row in rows]
 
 
-def recommend(industry: str, top_k: int = 5) -> RecommendationBundle:
+def recommend(
+    industry: str,
+    top_k: int = 5,
+    stations: list[StationFeatureVector] | None = None,
+) -> RecommendationBundle:
     weights = profile_for(industry)
     request = BusinessRequest(industry=industry)
     ranked = []
-    for station in load_station_vectors():
+    station_vectors = stations or load_station_vectors()
+    for station in station_vectors:
         breakdown = {
             feature: round(station.features[feature] * weights.get(feature, 0.0), 3)
             for feature in station.features

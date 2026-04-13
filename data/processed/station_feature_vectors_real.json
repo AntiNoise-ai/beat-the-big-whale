@@ -1,0 +1,5846 @@
+[
+  {
+    "station_name": "Acton Town",
+    "lines": [
+      "District",
+      "Piccadilly"
+    ],
+    "zone": 3,
+    "features": {
+      "resident_density": 3.497,
+      "daytime_workers": 0.027,
+      "retail_intensity": 0.381,
+      "dining_intensity": 0.414,
+      "tourism_intensity": 0.887,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 3.497,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 0.634,
+      "zone_centrality": 6.0
+    }
+  },
+  {
+    "station_name": "Aldgate",
+    "lines": [
+      "Circle",
+      "Metropolitan"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 1.834,
+      "daytime_workers": 10.0,
+      "retail_intensity": 2.803,
+      "dining_intensity": 5.816,
+      "tourism_intensity": 10.0,
+      "office_intensity": 5.056,
+      "student_presence": 2.059,
+      "family_presence": 1.834,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 0.923,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Aldgate East",
+    "lines": [
+      "District",
+      "Hammersmith & City"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 10.0,
+      "daytime_workers": 0.15,
+      "retail_intensity": 2.249,
+      "dining_intensity": 4.678,
+      "tourism_intensity": 6.21,
+      "office_intensity": 4.382,
+      "student_presence": 1.765,
+      "family_presence": 10.0,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 1.486,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Alperton",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.026,
+      "retail_intensity": 0.138,
+      "dining_intensity": 0.115,
+      "tourism_intensity": 0.081,
+      "office_intensity": 0.0,
+      "student_presence": 0.294,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.324,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "Amersham",
+    "lines": [
+      "Metropolitan"
+    ],
+    "zone": 9,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 0.0,
+      "dining_intensity": 0.0,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.203,
+      "zone_centrality": 0.0
+    }
+  },
+  {
+    "station_name": "Angel",
+    "lines": [
+      "Northern"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 9.707,
+      "daytime_workers": 0.179,
+      "retail_intensity": 2.111,
+      "dining_intensity": 1.954,
+      "tourism_intensity": 4.919,
+      "office_intensity": 0.225,
+      "student_presence": 0.588,
+      "family_presence": 9.707,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 1.669,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Archway",
+    "lines": [
+      "Northern"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 9.707,
+      "daytime_workers": 0.179,
+      "retail_intensity": 0.623,
+      "dining_intensity": 0.333,
+      "tourism_intensity": 1.129,
+      "office_intensity": 0.112,
+      "student_presence": 0.0,
+      "family_presence": 9.707,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.956,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Arnos Grove",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 1.21,
+      "daytime_workers": 0.024,
+      "retail_intensity": 0.346,
+      "dining_intensity": 0.126,
+      "tourism_intensity": 0.484,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 1.21,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.421,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "Arsenal",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 9.707,
+      "daytime_workers": 0.179,
+      "retail_intensity": 2.491,
+      "dining_intensity": 1.977,
+      "tourism_intensity": 1.532,
+      "office_intensity": 0.337,
+      "student_presence": 0.0,
+      "family_presence": 9.707,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.269,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Baker Street",
+    "lines": [
+      "Bakerloo",
+      "Circle",
+      "Hammersmith & City",
+      "Jubilee",
+      "Metropolitan"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 5.487,
+      "daytime_workers": 0.74,
+      "retail_intensity": 3.391,
+      "dining_intensity": 1.724,
+      "tourism_intensity": 3.226,
+      "office_intensity": 1.573,
+      "student_presence": 0.294,
+      "family_presence": 5.487,
+      "affluence": 5.0,
+      "interchange_score": 5.0,
+      "footfall_proxy": 2.914,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Balham",
+    "lines": [
+      "Northern"
+    ],
+    "zone": 3,
+    "features": {
+      "resident_density": 5.528,
+      "daytime_workers": 0.021,
+      "retail_intensity": 0.277,
+      "dining_intensity": 0.69,
+      "tourism_intensity": 0.242,
+      "office_intensity": 0.337,
+      "student_presence": 0.294,
+      "family_presence": 5.528,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 1.331,
+      "zone_centrality": 6.0
+    }
+  },
+  {
+    "station_name": "Bank",
+    "lines": [
+      "Central",
+      "Northern",
+      "Waterloo & City"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 1.834,
+      "daytime_workers": 10.0,
+      "retail_intensity": 2.215,
+      "dining_intensity": 5.851,
+      "tourism_intensity": 4.516,
+      "office_intensity": 7.079,
+      "student_presence": 0.882,
+      "family_presence": 1.834,
+      "affluence": 5.0,
+      "interchange_score": 2.5,
+      "footfall_proxy": 5.14,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Barbican",
+    "lines": [
+      "Circle",
+      "Hammersmith & City",
+      "Metropolitan"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 1.834,
+      "daytime_workers": 10.0,
+      "retail_intensity": 1.107,
+      "dining_intensity": 2.264,
+      "tourism_intensity": 4.839,
+      "office_intensity": 8.539,
+      "student_presence": 1.176,
+      "family_presence": 1.834,
+      "affluence": 5.0,
+      "interchange_score": 2.5,
+      "footfall_proxy": 0.684,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Barking",
+    "lines": [
+      "District",
+      "Hammersmith & City"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 0.45,
+      "dining_intensity": 0.264,
+      "tourism_intensity": 0.645,
+      "office_intensity": 0.112,
+      "student_presence": 0.0,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 2.069,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "Barkingside",
+    "lines": [
+      "Central"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 2.526,
+      "daytime_workers": 0.0,
+      "retail_intensity": 0.554,
+      "dining_intensity": 0.333,
+      "tourism_intensity": 0.806,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 2.526,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.125,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "Barons Court",
+    "lines": [
+      "District",
+      "Piccadilly"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 0.727,
+      "dining_intensity": 0.713,
+      "tourism_intensity": 0.242,
+      "office_intensity": 0.787,
+      "student_presence": 0.0,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 0.692,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Battersea Power Station",
+    "lines": [
+      "Northern"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 5.528,
+      "daytime_workers": 0.021,
+      "retail_intensity": 1.211,
+      "dining_intensity": 0.701,
+      "tourism_intensity": 0.565,
+      "office_intensity": 0.225,
+      "student_presence": 0.0,
+      "family_presence": 5.528,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 1.132,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Bayswater",
+    "lines": [
+      "Circle",
+      "District"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 5.487,
+      "daytime_workers": 0.74,
+      "retail_intensity": 2.837,
+      "dining_intensity": 1.793,
+      "tourism_intensity": 1.774,
+      "office_intensity": 0.337,
+      "student_presence": 0.882,
+      "family_presence": 5.487,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 0.47,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Becontree",
+    "lines": [
+      "District"
+    ],
+    "zone": 5,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 0.035,
+      "dining_intensity": 0.023,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.366,
+      "zone_centrality": 2.0
+    }
+  },
+  {
+    "station_name": "Belsize Park",
+    "lines": [
+      "Northern"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 5.811,
+      "daytime_workers": 0.349,
+      "retail_intensity": 0.311,
+      "dining_intensity": 0.391,
+      "tourism_intensity": 0.484,
+      "office_intensity": 0.0,
+      "student_presence": 0.882,
+      "family_presence": 5.811,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.662,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Bermondsey",
+    "lines": [
+      "Jubilee"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 6.254,
+      "daytime_workers": 0.162,
+      "retail_intensity": 0.865,
+      "dining_intensity": 0.678,
+      "tourism_intensity": 0.565,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 6.254,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.909,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Bethnal Green",
+    "lines": [
+      "Central"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 10.0,
+      "daytime_workers": 0.15,
+      "retail_intensity": 1.176,
+      "dining_intensity": 0.92,
+      "tourism_intensity": 0.484,
+      "office_intensity": 0.112,
+      "student_presence": 0.294,
+      "family_presence": 10.0,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 1.379,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Blackfriars",
+    "lines": [
+      "Circle",
+      "District"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 1.834,
+      "daytime_workers": 10.0,
+      "retail_intensity": 0.761,
+      "dining_intensity": 2.506,
+      "tourism_intensity": 4.516,
+      "office_intensity": 5.843,
+      "student_presence": 0.294,
+      "family_presence": 1.834,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 1.348,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Blackhorse Road",
+    "lines": [
+      "Victoria"
+    ],
+    "zone": 3,
+    "features": {
+      "resident_density": 3.694,
+      "daytime_workers": 0.017,
+      "retail_intensity": 0.208,
+      "dining_intensity": 0.218,
+      "tourism_intensity": 0.403,
+      "office_intensity": 0.0,
+      "student_presence": 0.294,
+      "family_presence": 3.694,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 1.212,
+      "zone_centrality": 6.0
+    }
+  },
+  {
+    "station_name": "Bond Street",
+    "lines": [
+      "Central",
+      "Jubilee"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 5.487,
+      "daytime_workers": 0.74,
+      "retail_intensity": 8.547,
+      "dining_intensity": 3.931,
+      "tourism_intensity": 5.726,
+      "office_intensity": 5.843,
+      "student_presence": 1.471,
+      "family_presence": 5.487,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 5.171,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Borough",
+    "lines": [
+      "Northern"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 6.254,
+      "daytime_workers": 0.162,
+      "retail_intensity": 1.661,
+      "dining_intensity": 2.701,
+      "tourism_intensity": 2.823,
+      "office_intensity": 1.685,
+      "student_presence": 2.059,
+      "family_presence": 6.254,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.529,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Boston Manor",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 2.217,
+      "daytime_workers": 0.065,
+      "retail_intensity": 0.035,
+      "dining_intensity": 0.034,
+      "tourism_intensity": 0.323,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 2.217,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.163,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "Bounds Green",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": 3,
+    "features": {
+      "resident_density": 5.013,
+      "daytime_workers": 0.006,
+      "retail_intensity": 0.727,
+      "dining_intensity": 0.333,
+      "tourism_intensity": 1.048,
+      "office_intensity": 0.225,
+      "student_presence": 0.0,
+      "family_presence": 5.013,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.557,
+      "zone_centrality": 6.0
+    }
+  },
+  {
+    "station_name": "Bow Road",
+    "lines": [
+      "District",
+      "Hammersmith & City"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 10.0,
+      "daytime_workers": 0.15,
+      "retail_intensity": 1.038,
+      "dining_intensity": 0.586,
+      "tourism_intensity": 5.242,
+      "office_intensity": 0.112,
+      "student_presence": 0.0,
+      "family_presence": 10.0,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 0.541,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Brent Cross",
+    "lines": [
+      "Northern"
+    ],
+    "zone": 3,
+    "features": {
+      "resident_density": 1.739,
+      "daytime_workers": 0.023,
+      "retail_intensity": 0.83,
+      "dining_intensity": 0.184,
+      "tourism_intensity": 0.161,
+      "office_intensity": 0.112,
+      "student_presence": 0.0,
+      "family_presence": 1.739,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.222,
+      "zone_centrality": 6.0
+    }
+  },
+  {
+    "station_name": "Brixton",
+    "lines": [
+      "Victoria"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 7.102,
+      "daytime_workers": 0.041,
+      "retail_intensity": 1.28,
+      "dining_intensity": 1.172,
+      "tourism_intensity": 0.645,
+      "office_intensity": 0.337,
+      "student_presence": 0.0,
+      "family_presence": 7.102,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 2.769,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Bromley-by-Bow",
+    "lines": [
+      "District",
+      "Hammersmith & City"
+    ],
+    "zone": 6,
+    "features": {
+      "resident_density": 10.0,
+      "daytime_workers": 0.15,
+      "retail_intensity": 0.415,
+      "dining_intensity": 0.253,
+      "tourism_intensity": 1.452,
+      "office_intensity": 0.112,
+      "student_presence": 0.0,
+      "family_presence": 10.0,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 0.482,
+      "zone_centrality": 0.0
+    }
+  },
+  {
+    "station_name": "Buckhurst Hill",
+    "lines": [
+      "167",
+      "677",
+      "Central",
+      "W14"
+    ],
+    "zone": 5,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 0.0,
+      "dining_intensity": 0.0,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 3.75,
+      "footfall_proxy": 0.211,
+      "zone_centrality": 2.0
+    }
+  },
+  {
+    "station_name": "Burnt Oak",
+    "lines": [
+      "Northern"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 1.739,
+      "daytime_workers": 0.023,
+      "retail_intensity": 0.208,
+      "dining_intensity": 0.046,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.588,
+      "family_presence": 1.739,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.389,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "Caledonian Road",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 9.707,
+      "daytime_workers": 0.179,
+      "retail_intensity": 1.246,
+      "dining_intensity": 1.023,
+      "tourism_intensity": 0.968,
+      "office_intensity": 0.112,
+      "student_presence": 0.0,
+      "family_presence": 9.707,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.569,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Camden Town",
+    "lines": [
+      "Northern"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 5.811,
+      "daytime_workers": 0.349,
+      "retail_intensity": 1.211,
+      "dining_intensity": 1.241,
+      "tourism_intensity": 2.016,
+      "office_intensity": 0.562,
+      "student_presence": 0.0,
+      "family_presence": 5.811,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 2.58,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Canada Water",
+    "lines": [
+      "Jubilee"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 6.254,
+      "daytime_workers": 0.162,
+      "retail_intensity": 0.554,
+      "dining_intensity": 0.448,
+      "tourism_intensity": 0.806,
+      "office_intensity": 0.112,
+      "student_presence": 0.0,
+      "family_presence": 6.254,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 1.296,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Canary Wharf",
+    "lines": [
+      "Jubilee"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 10.0,
+      "daytime_workers": 0.15,
+      "retail_intensity": 1.661,
+      "dining_intensity": 2.678,
+      "tourism_intensity": 2.5,
+      "office_intensity": 2.247,
+      "student_presence": 0.588,
+      "family_presence": 10.0,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 4.258,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Canning Town",
+    "lines": [
+      "Jubilee"
+    ],
+    "zone": 6,
+    "features": {
+      "resident_density": 5.606,
+      "daytime_workers": 0.018,
+      "retail_intensity": 1.038,
+      "dining_intensity": 0.644,
+      "tourism_intensity": 3.306,
+      "office_intensity": 0.225,
+      "student_presence": 0.0,
+      "family_presence": 5.606,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 1.679,
+      "zone_centrality": 0.0
+    }
+  },
+  {
+    "station_name": "Cannon Street",
+    "lines": [
+      "Circle",
+      "District"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 1.834,
+      "daytime_workers": 10.0,
+      "retail_intensity": 2.042,
+      "dining_intensity": 4.954,
+      "tourism_intensity": 5.0,
+      "office_intensity": 6.854,
+      "student_presence": 0.882,
+      "family_presence": 1.834,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 0.497,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Canons Park",
+    "lines": [
+      "Jubilee"
+    ],
+    "zone": 5,
+    "features": {
+      "resident_density": 2.274,
+      "daytime_workers": 0.015,
+      "retail_intensity": 0.069,
+      "dining_intensity": 0.023,
+      "tourism_intensity": 0.161,
+      "office_intensity": 0.0,
+      "student_presence": 0.588,
+      "family_presence": 2.274,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.251,
+      "zone_centrality": 2.0
+    }
+  },
+  {
+    "station_name": "Chalfont & Latimer",
+    "lines": [
+      "Metropolitan"
+    ],
+    "zone": 8,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 0.0,
+      "dining_intensity": 0.0,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.186,
+      "zone_centrality": 0.0
+    }
+  },
+  {
+    "station_name": "Chalk Farm",
+    "lines": [
+      "Northern"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 5.811,
+      "daytime_workers": 0.349,
+      "retail_intensity": 1.107,
+      "dining_intensity": 1.023,
+      "tourism_intensity": 1.613,
+      "office_intensity": 0.674,
+      "student_presence": 0.0,
+      "family_presence": 5.811,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.594,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Chancery Lane",
+    "lines": [
+      "Central"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 5.811,
+      "daytime_workers": 0.349,
+      "retail_intensity": 1.419,
+      "dining_intensity": 3.598,
+      "tourism_intensity": 4.839,
+      "office_intensity": 7.753,
+      "student_presence": 1.471,
+      "family_presence": 5.811,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 1.049,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Charing Cross",
+    "lines": [
+      "Bakerloo",
+      "Northern"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 5.487,
+      "daytime_workers": 0.74,
+      "retail_intensity": 4.671,
+      "dining_intensity": 7.299,
+      "tourism_intensity": 6.371,
+      "office_intensity": 3.82,
+      "student_presence": 0.588,
+      "family_presence": 5.487,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 1.978,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Chesham",
+    "lines": [
+      "Metropolitan"
+    ],
+    "zone": 9,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 0.0,
+      "dining_intensity": 0.0,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.097,
+      "zone_centrality": 0.0
+    }
+  },
+  {
+    "station_name": "Chigwell",
+    "lines": [
+      "167",
+      "667",
+      "677",
+      "Central"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 0.0,
+      "dining_intensity": 0.0,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 3.75,
+      "footfall_proxy": 0.009,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "Chiswick Park",
+    "lines": [
+      "District"
+    ],
+    "zone": 3,
+    "features": {
+      "resident_density": 3.497,
+      "daytime_workers": 0.027,
+      "retail_intensity": 0.519,
+      "dining_intensity": 0.379,
+      "tourism_intensity": 0.645,
+      "office_intensity": 0.449,
+      "student_presence": 0.294,
+      "family_presence": 3.497,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.251,
+      "zone_centrality": 6.0
+    }
+  },
+  {
+    "station_name": "Chorleywood",
+    "lines": [
+      "Metropolitan"
+    ],
+    "zone": 7,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 0.0,
+      "dining_intensity": 0.0,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.165,
+      "zone_centrality": 0.0
+    }
+  },
+  {
+    "station_name": "Clapham Common",
+    "lines": [
+      "Northern"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 7.102,
+      "daytime_workers": 0.041,
+      "retail_intensity": 1.003,
+      "dining_intensity": 1.276,
+      "tourism_intensity": 3.548,
+      "office_intensity": 0.0,
+      "student_presence": 0.294,
+      "family_presence": 7.102,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 1.082,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Clapham North",
+    "lines": [
+      "Northern"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 7.102,
+      "daytime_workers": 0.041,
+      "retail_intensity": 1.661,
+      "dining_intensity": 1.494,
+      "tourism_intensity": 1.532,
+      "office_intensity": 0.0,
+      "student_presence": 0.294,
+      "family_presence": 7.102,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.688,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Clapham South",
+    "lines": [
+      "Northern"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 5.528,
+      "daytime_workers": 0.021,
+      "retail_intensity": 0.45,
+      "dining_intensity": 0.54,
+      "tourism_intensity": 2.258,
+      "office_intensity": 0.112,
+      "student_presence": 0.0,
+      "family_presence": 5.528,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.843,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Cockfosters",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": 5,
+    "features": {
+      "resident_density": 1.21,
+      "daytime_workers": 0.024,
+      "retail_intensity": 0.0,
+      "dining_intensity": 0.034,
+      "tourism_intensity": 0.323,
+      "office_intensity": 0.112,
+      "student_presence": 0.0,
+      "family_presence": 1.21,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.165,
+      "zone_centrality": 2.0
+    }
+  },
+  {
+    "station_name": "Colindale",
+    "lines": [
+      "Northern"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 1.739,
+      "daytime_workers": 0.023,
+      "retail_intensity": 0.208,
+      "dining_intensity": 0.115,
+      "tourism_intensity": 0.081,
+      "office_intensity": 0.0,
+      "student_presence": 0.588,
+      "family_presence": 1.739,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.842,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "Colliers Wood",
+    "lines": [
+      "Northern"
+    ],
+    "zone": 3,
+    "features": {
+      "resident_density": 2.618,
+      "daytime_workers": 0.038,
+      "retail_intensity": 0.623,
+      "dining_intensity": 0.333,
+      "tourism_intensity": 0.484,
+      "office_intensity": 0.0,
+      "student_presence": 0.294,
+      "family_presence": 2.618,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.706,
+      "zone_centrality": 6.0
+    }
+  },
+  {
+    "station_name": "Covent Garden",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 5.487,
+      "daytime_workers": 0.74,
+      "retail_intensity": 4.706,
+      "dining_intensity": 8.874,
+      "tourism_intensity": 7.661,
+      "office_intensity": 7.079,
+      "student_presence": 2.353,
+      "family_presence": 5.487,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 1.713,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Croxley",
+    "lines": [
+      "Metropolitan"
+    ],
+    "zone": 7,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 0.0,
+      "dining_intensity": 0.0,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.079,
+      "zone_centrality": 0.0
+    }
+  },
+  {
+    "station_name": "Dagenham East",
+    "lines": [
+      "District"
+    ],
+    "zone": 5,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 0.0,
+      "dining_intensity": 0.0,
+      "tourism_intensity": 0.081,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.331,
+      "zone_centrality": 2.0
+    }
+  },
+  {
+    "station_name": "Dagenham Heathway",
+    "lines": [
+      "District"
+    ],
+    "zone": 5,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 0.035,
+      "dining_intensity": 0.0,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.635,
+      "zone_centrality": 2.0
+    }
+  },
+  {
+    "station_name": "Debden",
+    "lines": [
+      "Central"
+    ],
+    "zone": 6,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 0.0,
+      "dining_intensity": 0.0,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.219,
+      "zone_centrality": 0.0
+    }
+  },
+  {
+    "station_name": "Dollis Hill",
+    "lines": [
+      "Jubilee"
+    ],
+    "zone": 3,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.026,
+      "retail_intensity": 0.104,
+      "dining_intensity": 0.057,
+      "tourism_intensity": 0.242,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.386,
+      "zone_centrality": 6.0
+    }
+  },
+  {
+    "station_name": "Ealing Broadway",
+    "lines": [
+      "Central",
+      "District"
+    ],
+    "zone": 3,
+    "features": {
+      "resident_density": 3.497,
+      "daytime_workers": 0.027,
+      "retail_intensity": 1.661,
+      "dining_intensity": 1.241,
+      "tourism_intensity": 0.565,
+      "office_intensity": 0.225,
+      "student_presence": 0.588,
+      "family_presence": 3.497,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 2.11,
+      "zone_centrality": 6.0
+    }
+  },
+  {
+    "station_name": "Ealing Common",
+    "lines": [
+      "District",
+      "Piccadilly"
+    ],
+    "zone": 3,
+    "features": {
+      "resident_density": 3.497,
+      "daytime_workers": 0.027,
+      "retail_intensity": 0.381,
+      "dining_intensity": 0.172,
+      "tourism_intensity": 0.242,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 3.497,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 0.235,
+      "zone_centrality": 6.0
+    }
+  },
+  {
+    "station_name": "Earl's Court",
+    "lines": [
+      "District",
+      "Piccadilly"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 1.073,
+      "dining_intensity": 1.069,
+      "tourism_intensity": 0.323,
+      "office_intensity": 0.337,
+      "student_presence": 0.588,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 2.159,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "East Acton",
+    "lines": [
+      "Central"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 0.208,
+      "dining_intensity": 0.08,
+      "tourism_intensity": 1.613,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.398,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "East Finchley",
+    "lines": [
+      "Northern"
+    ],
+    "zone": 3,
+    "features": {
+      "resident_density": 1.739,
+      "daytime_workers": 0.023,
+      "retail_intensity": 0.208,
+      "dining_intensity": 0.149,
+      "tourism_intensity": 0.242,
+      "office_intensity": 0.0,
+      "student_presence": 0.294,
+      "family_presence": 1.739,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.686,
+      "zone_centrality": 6.0
+    }
+  },
+  {
+    "station_name": "East Ham",
+    "lines": [
+      "District",
+      "Hammersmith & City"
+    ],
+    "zone": 3,
+    "features": {
+      "resident_density": 5.606,
+      "daytime_workers": 0.018,
+      "retail_intensity": 1.315,
+      "dining_intensity": 0.563,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.112,
+      "student_presence": 0.0,
+      "family_presence": 5.606,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 1.464,
+      "zone_centrality": 6.0
+    }
+  },
+  {
+    "station_name": "East Putney",
+    "lines": [
+      "District"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 5.528,
+      "daytime_workers": 0.021,
+      "retail_intensity": 0.381,
+      "dining_intensity": 0.172,
+      "tourism_intensity": 0.081,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 5.528,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.768,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Eastcote",
+    "lines": [
+      "Metropolitan",
+      "Piccadilly"
+    ],
+    "zone": 5,
+    "features": {
+      "resident_density": 0.333,
+      "daytime_workers": 0.076,
+      "retail_intensity": 0.104,
+      "dining_intensity": 0.126,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 0.333,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 0.263,
+      "zone_centrality": 2.0
+    }
+  },
+  {
+    "station_name": "Edgware",
+    "lines": [
+      "Northern"
+    ],
+    "zone": 5,
+    "features": {
+      "resident_density": 1.739,
+      "daytime_workers": 0.023,
+      "retail_intensity": 0.484,
+      "dining_intensity": 0.379,
+      "tourism_intensity": 0.242,
+      "office_intensity": 0.112,
+      "student_presence": 0.294,
+      "family_presence": 1.739,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.525,
+      "zone_centrality": 2.0
+    }
+  },
+  {
+    "station_name": "Edgware Road (Bakerloo)",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 5.487,
+      "daytime_workers": 0.74,
+      "retail_intensity": 2.561,
+      "dining_intensity": 2.322,
+      "tourism_intensity": 2.339,
+      "office_intensity": 1.461,
+      "student_presence": 0.0,
+      "family_presence": 5.487,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.442,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Edgware Road (Circle Line)",
+    "lines": [
+      "Circle",
+      "District",
+      "Hammersmith & City"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 5.487,
+      "daytime_workers": 0.74,
+      "retail_intensity": 2.907,
+      "dining_intensity": 2.747,
+      "tourism_intensity": 2.581,
+      "office_intensity": 1.124,
+      "student_presence": 0.0,
+      "family_presence": 5.487,
+      "affluence": 5.0,
+      "interchange_score": 2.5,
+      "footfall_proxy": 0.753,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Elephant & Castle",
+    "lines": [
+      "Bakerloo",
+      "Northern"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 6.254,
+      "daytime_workers": 0.162,
+      "retail_intensity": 1.453,
+      "dining_intensity": 1.506,
+      "tourism_intensity": 1.855,
+      "office_intensity": 0.787,
+      "student_presence": 1.176,
+      "family_presence": 6.254,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 1.944,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Elm Park",
+    "lines": [
+      "District"
+    ],
+    "zone": 6,
+    "features": {
+      "resident_density": 0.0,
+      "daytime_workers": 0.024,
+      "retail_intensity": 0.069,
+      "dining_intensity": 0.034,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 0.0,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.317,
+      "zone_centrality": 0.0
+    }
+  },
+  {
+    "station_name": "Embankment",
+    "lines": [
+      "Bakerloo",
+      "Circle",
+      "District",
+      "Northern"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 5.487,
+      "daytime_workers": 0.74,
+      "retail_intensity": 2.388,
+      "dining_intensity": 5.23,
+      "tourism_intensity": 6.694,
+      "office_intensity": 3.933,
+      "student_presence": 0.588,
+      "family_presence": 5.487,
+      "affluence": 5.0,
+      "interchange_score": 3.75,
+      "footfall_proxy": 2.336,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Epping",
+    "lines": [
+      "Central"
+    ],
+    "zone": 6,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 0.0,
+      "dining_intensity": 0.0,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.419,
+      "zone_centrality": 0.0
+    }
+  },
+  {
+    "station_name": "Euston",
+    "lines": [
+      "Northern",
+      "Victoria"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 5.811,
+      "daytime_workers": 0.349,
+      "retail_intensity": 1.972,
+      "dining_intensity": 2.598,
+      "tourism_intensity": 6.532,
+      "office_intensity": 1.348,
+      "student_presence": 7.647,
+      "family_presence": 5.811,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 4.133,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Euston Square",
+    "lines": [
+      "Circle",
+      "Hammersmith & City",
+      "Metropolitan"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 5.811,
+      "daytime_workers": 0.349,
+      "retail_intensity": 1.488,
+      "dining_intensity": 2.437,
+      "tourism_intensity": 5.565,
+      "office_intensity": 2.36,
+      "student_presence": 7.647,
+      "family_presence": 5.811,
+      "affluence": 5.0,
+      "interchange_score": 2.5,
+      "footfall_proxy": 1.527,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Fairlop",
+    "lines": [
+      "Central"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 2.526,
+      "daytime_workers": 0.0,
+      "retail_intensity": 0.277,
+      "dining_intensity": 0.149,
+      "tourism_intensity": 0.081,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 2.526,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.086,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "Farringdon",
+    "lines": [
+      "Circle",
+      "Hammersmith & City",
+      "Metropolitan"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 9.707,
+      "daytime_workers": 0.179,
+      "retail_intensity": 1.003,
+      "dining_intensity": 2.598,
+      "tourism_intensity": 4.435,
+      "office_intensity": 8.202,
+      "student_presence": 1.176,
+      "family_presence": 9.707,
+      "affluence": 5.0,
+      "interchange_score": 2.5,
+      "footfall_proxy": 5.539,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Finchley Central",
+    "lines": [
+      "Northern"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 1.739,
+      "daytime_workers": 0.023,
+      "retail_intensity": 0.623,
+      "dining_intensity": 0.356,
+      "tourism_intensity": 0.323,
+      "office_intensity": 0.112,
+      "student_presence": 0.294,
+      "family_presence": 1.739,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.834,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "Finchley Road",
+    "lines": [
+      "Jubilee",
+      "Metropolitan"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 5.811,
+      "daytime_workers": 0.349,
+      "retail_intensity": 1.003,
+      "dining_intensity": 0.529,
+      "tourism_intensity": 0.081,
+      "office_intensity": 0.225,
+      "student_presence": 1.176,
+      "family_presence": 5.811,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 0.943,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Finsbury Park",
+    "lines": [
+      "Piccadilly",
+      "Victoria"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 9.707,
+      "daytime_workers": 0.179,
+      "retail_intensity": 1.903,
+      "dining_intensity": 1.598,
+      "tourism_intensity": 1.613,
+      "office_intensity": 0.337,
+      "student_presence": 0.0,
+      "family_presence": 9.707,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 2.813,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Fulham Broadway",
+    "lines": [
+      "District"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 1.211,
+      "dining_intensity": 0.862,
+      "tourism_intensity": 0.161,
+      "office_intensity": 0.112,
+      "student_presence": 0.294,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.912,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Gants Hill",
+    "lines": [
+      "Central"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 2.526,
+      "daytime_workers": 0.0,
+      "retail_intensity": 0.657,
+      "dining_intensity": 0.437,
+      "tourism_intensity": 1.452,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 2.526,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.628,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "Gloucester Road",
+    "lines": [
+      "Circle",
+      "District",
+      "Piccadilly"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 1.696,
+      "dining_intensity": 2.138,
+      "tourism_intensity": 1.371,
+      "office_intensity": 0.337,
+      "student_presence": 0.588,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 2.5,
+      "footfall_proxy": 1.543,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Golders Green",
+    "lines": [
+      "Northern"
+    ],
+    "zone": 3,
+    "features": {
+      "resident_density": 1.739,
+      "daytime_workers": 0.023,
+      "retail_intensity": 0.519,
+      "dining_intensity": 0.31,
+      "tourism_intensity": 0.323,
+      "office_intensity": 0.112,
+      "student_presence": 0.0,
+      "family_presence": 1.739,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.802,
+      "zone_centrality": 6.0
+    }
+  },
+  {
+    "station_name": "Goldhawk Road",
+    "lines": [
+      "Circle",
+      "Hammersmith & City"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 3.495,
+      "dining_intensity": 1.977,
+      "tourism_intensity": 0.161,
+      "office_intensity": 0.787,
+      "student_presence": 0.294,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 0.214,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Goodge Street",
+    "lines": [
+      "Northern"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 5.811,
+      "daytime_workers": 0.349,
+      "retail_intensity": 3.253,
+      "dining_intensity": 4.575,
+      "tourism_intensity": 8.145,
+      "office_intensity": 8.652,
+      "student_presence": 10.0,
+      "family_presence": 5.811,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.674,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Grange Hill",
+    "lines": [
+      "462",
+      "Central"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 0.0,
+      "dining_intensity": 0.0,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 0.018,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "Great Portland Street",
+    "lines": [
+      "Circle",
+      "Hammersmith & City",
+      "Metropolitan"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 5.487,
+      "daytime_workers": 0.74,
+      "retail_intensity": 2.561,
+      "dining_intensity": 1.862,
+      "tourism_intensity": 5.242,
+      "office_intensity": 2.472,
+      "student_presence": 1.471,
+      "family_presence": 5.487,
+      "affluence": 5.0,
+      "interchange_score": 2.5,
+      "footfall_proxy": 0.707,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Green Park",
+    "lines": [
+      "Jubilee",
+      "Piccadilly",
+      "Victoria"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 5.487,
+      "daytime_workers": 0.74,
+      "retail_intensity": 6.817,
+      "dining_intensity": 4.115,
+      "tourism_intensity": 5.565,
+      "office_intensity": 3.483,
+      "student_presence": 0.0,
+      "family_presence": 5.487,
+      "affluence": 5.0,
+      "interchange_score": 2.5,
+      "footfall_proxy": 3.894,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Greenford",
+    "lines": [
+      "Central"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 3.497,
+      "daytime_workers": 0.027,
+      "retail_intensity": 0.381,
+      "dining_intensity": 0.126,
+      "tourism_intensity": 0.161,
+      "office_intensity": 0.225,
+      "student_presence": 0.0,
+      "family_presence": 3.497,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.418,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "Gunnersbury",
+    "lines": [
+      "District"
+    ],
+    "zone": 3,
+    "features": {
+      "resident_density": 2.217,
+      "daytime_workers": 0.065,
+      "retail_intensity": 0.311,
+      "dining_intensity": 0.414,
+      "tourism_intensity": 0.323,
+      "office_intensity": 0.562,
+      "student_presence": 0.294,
+      "family_presence": 2.217,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.526,
+      "zone_centrality": 6.0
+    }
+  },
+  {
+    "station_name": "Hainault",
+    "lines": [
+      "Central"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 2.526,
+      "daytime_workers": 0.0,
+      "retail_intensity": 0.311,
+      "dining_intensity": 0.057,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 2.526,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.361,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "Hammersmith (Dist&Picc Line)",
+    "lines": [
+      "District",
+      "Piccadilly"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 1.003,
+      "dining_intensity": 1.299,
+      "tourism_intensity": 0.565,
+      "office_intensity": 1.348,
+      "student_presence": 0.294,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 2.787,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Hammersmith (H&C Line)",
+    "lines": [
+      "Circle",
+      "Hammersmith & City"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 1.142,
+      "dining_intensity": 1.402,
+      "tourism_intensity": 0.645,
+      "office_intensity": 1.236,
+      "student_presence": 0.294,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 1.175,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Hampstead",
+    "lines": [
+      "Northern"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 5.811,
+      "daytime_workers": 0.349,
+      "retail_intensity": 0.208,
+      "dining_intensity": 0.161,
+      "tourism_intensity": 0.081,
+      "office_intensity": 0.0,
+      "student_presence": 0.882,
+      "family_presence": 5.811,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.504,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Hanger Lane",
+    "lines": [
+      "Central"
+    ],
+    "zone": 3,
+    "features": {
+      "resident_density": 3.497,
+      "daytime_workers": 0.027,
+      "retail_intensity": 0.138,
+      "dining_intensity": 0.115,
+      "tourism_intensity": 0.403,
+      "office_intensity": 0.225,
+      "student_presence": 0.0,
+      "family_presence": 3.497,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.317,
+      "zone_centrality": 6.0
+    }
+  },
+  {
+    "station_name": "Harlesden",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": 3,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.026,
+      "retail_intensity": 0.969,
+      "dining_intensity": 0.345,
+      "tourism_intensity": 0.484,
+      "office_intensity": 0.0,
+      "student_presence": 0.294,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.306,
+      "zone_centrality": 6.0
+    }
+  },
+  {
+    "station_name": "Harrow & Wealdstone",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": 5,
+    "features": {
+      "resident_density": 2.274,
+      "daytime_workers": 0.015,
+      "retail_intensity": 0.519,
+      "dining_intensity": 0.264,
+      "tourism_intensity": 0.242,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 2.274,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.455,
+      "zone_centrality": 2.0
+    }
+  },
+  {
+    "station_name": "Harrow-on-the-Hill",
+    "lines": [
+      "Metropolitan"
+    ],
+    "zone": 5,
+    "features": {
+      "resident_density": 2.274,
+      "daytime_workers": 0.015,
+      "retail_intensity": 1.522,
+      "dining_intensity": 1.0,
+      "tourism_intensity": 0.484,
+      "office_intensity": 0.112,
+      "student_presence": 0.294,
+      "family_presence": 2.274,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 1.137,
+      "zone_centrality": 2.0
+    }
+  },
+  {
+    "station_name": "Hatton Cross",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": 5,
+    "features": {
+      "resident_density": 0.333,
+      "daytime_workers": 0.076,
+      "retail_intensity": 0.0,
+      "dining_intensity": 0.023,
+      "tourism_intensity": 0.0,
+      "office_intensity": 1.011,
+      "student_presence": 0.0,
+      "family_presence": 0.333,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.36,
+      "zone_centrality": 2.0
+    }
+  },
+  {
+    "station_name": "Heathrow Terminal 4",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": 6,
+    "features": {
+      "resident_density": 0.333,
+      "daytime_workers": 0.076,
+      "retail_intensity": 0.0,
+      "dining_intensity": 0.023,
+      "tourism_intensity": 0.645,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 0.333,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.165,
+      "zone_centrality": 0.0
+    }
+  },
+  {
+    "station_name": "Heathrow Terminal 5",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": 6,
+    "features": {
+      "resident_density": 0.333,
+      "daytime_workers": 0.076,
+      "retail_intensity": 0.035,
+      "dining_intensity": 0.046,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 0.333,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.455,
+      "zone_centrality": 0.0
+    }
+  },
+  {
+    "station_name": "Heathrow Terminals 2 & 3",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": 6,
+    "features": {
+      "resident_density": 0.333,
+      "daytime_workers": 0.076,
+      "retail_intensity": 0.657,
+      "dining_intensity": 0.218,
+      "tourism_intensity": 0.242,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 0.333,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.71,
+      "zone_centrality": 0.0
+    }
+  },
+  {
+    "station_name": "Hendon Central",
+    "lines": [
+      "Northern"
+    ],
+    "zone": 3,
+    "features": {
+      "resident_density": 1.739,
+      "daytime_workers": 0.023,
+      "retail_intensity": 0.484,
+      "dining_intensity": 0.46,
+      "tourism_intensity": 0.081,
+      "office_intensity": 0.112,
+      "student_presence": 0.0,
+      "family_presence": 1.739,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.684,
+      "zone_centrality": 6.0
+    }
+  },
+  {
+    "station_name": "High Barnet",
+    "lines": [
+      "Northern"
+    ],
+    "zone": 5,
+    "features": {
+      "resident_density": 1.739,
+      "daytime_workers": 0.023,
+      "retail_intensity": 0.484,
+      "dining_intensity": 0.437,
+      "tourism_intensity": 0.242,
+      "office_intensity": 0.112,
+      "student_presence": 0.0,
+      "family_presence": 1.739,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.416,
+      "zone_centrality": 2.0
+    }
+  },
+  {
+    "station_name": "High Street Kensington",
+    "lines": [
+      "Circle",
+      "District"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 2.491,
+      "dining_intensity": 1.483,
+      "tourism_intensity": 1.532,
+      "office_intensity": 0.787,
+      "student_presence": 0.294,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 1.273,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Highbury & Islington",
+    "lines": [
+      "Victoria"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 9.707,
+      "daytime_workers": 0.179,
+      "retail_intensity": 1.246,
+      "dining_intensity": 1.138,
+      "tourism_intensity": 2.339,
+      "office_intensity": 0.112,
+      "student_presence": 0.294,
+      "family_presence": 9.707,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 1.931,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Highgate",
+    "lines": [
+      "Northern"
+    ],
+    "zone": 3,
+    "features": {
+      "resident_density": 5.013,
+      "daytime_workers": 0.006,
+      "retail_intensity": 0.415,
+      "dining_intensity": 0.207,
+      "tourism_intensity": 1.371,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 5.013,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.576,
+      "zone_centrality": 6.0
+    }
+  },
+  {
+    "station_name": "Hillingdon",
+    "lines": [
+      "Metropolitan",
+      "Piccadilly"
+    ],
+    "zone": 6,
+    "features": {
+      "resident_density": 0.333,
+      "daytime_workers": 0.076,
+      "retail_intensity": 0.035,
+      "dining_intensity": 0.011,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 0.333,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 0.154,
+      "zone_centrality": 0.0
+    }
+  },
+  {
+    "station_name": "Holborn",
+    "lines": [
+      "Central",
+      "Piccadilly"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 5.811,
+      "daytime_workers": 0.349,
+      "retail_intensity": 3.668,
+      "dining_intensity": 5.241,
+      "tourism_intensity": 6.855,
+      "office_intensity": 5.843,
+      "student_presence": 3.529,
+      "family_presence": 5.811,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 2.78,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Holland Park",
+    "lines": [
+      "Central"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 1.696,
+      "dining_intensity": 0.609,
+      "tourism_intensity": 1.452,
+      "office_intensity": 0.449,
+      "student_presence": 0.588,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.328,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Holloway Road",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 9.707,
+      "daytime_workers": 0.179,
+      "retail_intensity": 1.592,
+      "dining_intensity": 1.046,
+      "tourism_intensity": 1.129,
+      "office_intensity": 0.112,
+      "student_presence": 0.0,
+      "family_presence": 9.707,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.673,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Hornchurch",
+    "lines": [
+      "District"
+    ],
+    "zone": 6,
+    "features": {
+      "resident_density": 0.0,
+      "daytime_workers": 0.024,
+      "retail_intensity": 0.0,
+      "dining_intensity": 0.011,
+      "tourism_intensity": 0.081,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 0.0,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.189,
+      "zone_centrality": 0.0
+    }
+  },
+  {
+    "station_name": "Hounslow Central",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 2.217,
+      "daytime_workers": 0.065,
+      "retail_intensity": 1.903,
+      "dining_intensity": 0.701,
+      "tourism_intensity": 0.242,
+      "office_intensity": 0.112,
+      "student_presence": 0.294,
+      "family_presence": 2.217,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.38,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "Hounslow East",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 2.217,
+      "daytime_workers": 0.065,
+      "retail_intensity": 1.453,
+      "dining_intensity": 0.724,
+      "tourism_intensity": 0.161,
+      "office_intensity": 0.0,
+      "student_presence": 0.588,
+      "family_presence": 2.217,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.432,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "Hounslow West",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": 5,
+    "features": {
+      "resident_density": 2.217,
+      "daytime_workers": 0.065,
+      "retail_intensity": 0.104,
+      "dining_intensity": 0.057,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.882,
+      "family_presence": 2.217,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.349,
+      "zone_centrality": 2.0
+    }
+  },
+  {
+    "station_name": "Hyde Park Corner",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 5.487,
+      "daytime_workers": 0.74,
+      "retail_intensity": 2.699,
+      "dining_intensity": 1.299,
+      "tourism_intensity": 2.258,
+      "office_intensity": 0.562,
+      "student_presence": 0.0,
+      "family_presence": 5.487,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.542,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Ickenham",
+    "lines": [
+      "Metropolitan",
+      "Piccadilly"
+    ],
+    "zone": 6,
+    "features": {
+      "resident_density": 0.333,
+      "daytime_workers": 0.076,
+      "retail_intensity": 0.138,
+      "dining_intensity": 0.023,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 0.333,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 0.082,
+      "zone_centrality": 0.0
+    }
+  },
+  {
+    "station_name": "Kennington",
+    "lines": [
+      "Northern"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 7.102,
+      "daytime_workers": 0.041,
+      "retail_intensity": 1.384,
+      "dining_intensity": 1.08,
+      "tourism_intensity": 1.452,
+      "office_intensity": 0.562,
+      "student_presence": 0.294,
+      "family_presence": 7.102,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.608,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Kensal Green",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.026,
+      "retail_intensity": 0.657,
+      "dining_intensity": 0.368,
+      "tourism_intensity": 0.726,
+      "office_intensity": 0.225,
+      "student_presence": 0.294,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.216,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Kensington (Olympia)",
+    "lines": [
+      "District"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 0.761,
+      "dining_intensity": 0.586,
+      "tourism_intensity": 0.726,
+      "office_intensity": 0.449,
+      "student_presence": 0.0,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.605,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Kentish Town",
+    "lines": [
+      "Northern"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 5.811,
+      "daytime_workers": 0.349,
+      "retail_intensity": 0.692,
+      "dining_intensity": 0.494,
+      "tourism_intensity": 0.403,
+      "office_intensity": 1.011,
+      "student_presence": 0.0,
+      "family_presence": 5.811,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.605,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Kenton",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.026,
+      "retail_intensity": 0.0,
+      "dining_intensity": 0.011,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.588,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.174,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "Kew Gardens",
+    "lines": [
+      "District"
+    ],
+    "zone": 3,
+    "features": {
+      "resident_density": 0.719,
+      "daytime_workers": 0.042,
+      "retail_intensity": 0.138,
+      "dining_intensity": 0.207,
+      "tourism_intensity": 3.548,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 0.719,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.511,
+      "zone_centrality": 6.0
+    }
+  },
+  {
+    "station_name": "Kilburn",
+    "lines": [
+      "Jubilee"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.026,
+      "retail_intensity": 0.311,
+      "dining_intensity": 0.138,
+      "tourism_intensity": 0.081,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.738,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Kilburn Park",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.026,
+      "retail_intensity": 0.727,
+      "dining_intensity": 0.299,
+      "tourism_intensity": 0.968,
+      "office_intensity": 0.112,
+      "student_presence": 0.294,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.327,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "King's Cross St. Pancras",
+    "lines": [
+      "Circle",
+      "Hammersmith & City",
+      "Metropolitan",
+      "Northern",
+      "Piccadilly",
+      "Victoria"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 5.811,
+      "daytime_workers": 0.349,
+      "retail_intensity": 3.045,
+      "dining_intensity": 2.977,
+      "tourism_intensity": 7.097,
+      "office_intensity": 1.236,
+      "student_presence": 1.471,
+      "family_presence": 5.811,
+      "affluence": 5.0,
+      "interchange_score": 6.25,
+      "footfall_proxy": 10.0,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Kingsbury",
+    "lines": [
+      "Jubilee"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.026,
+      "retail_intensity": 0.104,
+      "dining_intensity": 0.149,
+      "tourism_intensity": 0.081,
+      "office_intensity": 0.0,
+      "student_presence": 0.588,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.445,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "Knightsbridge",
+    "lines": [
+      "137",
+      "19",
+      "22",
+      "452",
+      "C1",
+      "N137",
+      "N19",
+      "N22",
+      "Piccadilly"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 3.391,
+      "dining_intensity": 1.057,
+      "tourism_intensity": 1.29,
+      "office_intensity": 0.225,
+      "student_presence": 0.0,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 10.0,
+      "footfall_proxy": 1.851,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Ladbroke Grove",
+    "lines": [
+      "Circle",
+      "Hammersmith & City"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 3.391,
+      "dining_intensity": 1.345,
+      "tourism_intensity": 1.371,
+      "office_intensity": 0.225,
+      "student_presence": 0.882,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 0.763,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Lambeth North",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 7.102,
+      "daytime_workers": 0.041,
+      "retail_intensity": 1.246,
+      "dining_intensity": 2.218,
+      "tourism_intensity": 4.435,
+      "office_intensity": 0.787,
+      "student_presence": 2.059,
+      "family_presence": 7.102,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.337,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Lancaster Gate",
+    "lines": [
+      "Central"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 5.487,
+      "daytime_workers": 0.74,
+      "retail_intensity": 1.107,
+      "dining_intensity": 1.195,
+      "tourism_intensity": 2.177,
+      "office_intensity": 0.112,
+      "student_presence": 0.0,
+      "family_presence": 5.487,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.404,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Latimer Road",
+    "lines": [
+      "Circle",
+      "Hammersmith & City"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 3.599,
+      "dining_intensity": 0.851,
+      "tourism_intensity": 0.484,
+      "office_intensity": 0.899,
+      "student_presence": 0.882,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 0.234,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Leicester Square",
+    "lines": [
+      "Northern",
+      "Piccadilly"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 5.487,
+      "daytime_workers": 0.74,
+      "retail_intensity": 6.609,
+      "dining_intensity": 9.713,
+      "tourism_intensity": 6.694,
+      "office_intensity": 7.978,
+      "student_presence": 1.765,
+      "family_presence": 5.487,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 3.773,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Leyton",
+    "lines": [
+      "Central"
+    ],
+    "zone": 3,
+    "features": {
+      "resident_density": 3.694,
+      "daytime_workers": 0.017,
+      "retail_intensity": 0.588,
+      "dining_intensity": 0.322,
+      "tourism_intensity": 4.839,
+      "office_intensity": 0.337,
+      "student_presence": 0.0,
+      "family_presence": 3.694,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 1.159,
+      "zone_centrality": 6.0
+    }
+  },
+  {
+    "station_name": "Leytonstone",
+    "lines": [
+      "Central"
+    ],
+    "zone": 3,
+    "features": {
+      "resident_density": 3.694,
+      "daytime_workers": 0.017,
+      "retail_intensity": 0.311,
+      "dining_intensity": 0.23,
+      "tourism_intensity": 0.403,
+      "office_intensity": 0.225,
+      "student_presence": 0.0,
+      "family_presence": 3.694,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.931,
+      "zone_centrality": 6.0
+    }
+  },
+  {
+    "station_name": "Liverpool Street",
+    "lines": [
+      "Central",
+      "Circle",
+      "Hammersmith & City",
+      "Metropolitan"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 1.834,
+      "daytime_workers": 10.0,
+      "retail_intensity": 2.699,
+      "dining_intensity": 5.966,
+      "tourism_intensity": 4.274,
+      "office_intensity": 8.427,
+      "student_presence": 2.059,
+      "family_presence": 1.834,
+      "affluence": 5.0,
+      "interchange_score": 3.75,
+      "footfall_proxy": 7.927,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "London Bridge",
+    "lines": [
+      "Jubilee",
+      "Northern"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 6.254,
+      "daytime_workers": 0.162,
+      "retail_intensity": 1.488,
+      "dining_intensity": 3.793,
+      "tourism_intensity": 3.629,
+      "office_intensity": 3.82,
+      "student_presence": 0.588,
+      "family_presence": 6.254,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 7.584,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Loughton",
+    "lines": [
+      "167",
+      "20",
+      "397",
+      "677",
+      "Central",
+      "W14"
+    ],
+    "zone": 6,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 0.0,
+      "dining_intensity": 0.0,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 6.25,
+      "footfall_proxy": 0.346,
+      "zone_centrality": 0.0
+    }
+  },
+  {
+    "station_name": "Maida Vale",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 5.487,
+      "daytime_workers": 0.74,
+      "retail_intensity": 0.727,
+      "dining_intensity": 0.414,
+      "tourism_intensity": 0.887,
+      "office_intensity": 0.449,
+      "student_presence": 0.0,
+      "family_presence": 5.487,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.336,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Manor House",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 8.924,
+      "daytime_workers": 0.083,
+      "retail_intensity": 0.727,
+      "dining_intensity": 0.264,
+      "tourism_intensity": 2.258,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 8.924,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.793,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Mansion House",
+    "lines": [
+      "Circle",
+      "District"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 1.834,
+      "daytime_workers": 10.0,
+      "retail_intensity": 1.557,
+      "dining_intensity": 3.966,
+      "tourism_intensity": 5.0,
+      "office_intensity": 7.528,
+      "student_presence": 0.588,
+      "family_presence": 1.834,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 0.572,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Marble Arch",
+    "lines": [
+      "Central"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 5.487,
+      "daytime_workers": 0.74,
+      "retail_intensity": 3.875,
+      "dining_intensity": 2.23,
+      "tourism_intensity": 3.387,
+      "office_intensity": 3.146,
+      "student_presence": 0.294,
+      "family_presence": 5.487,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 1.158,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Marylebone",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 5.487,
+      "daytime_workers": 0.74,
+      "retail_intensity": 3.045,
+      "dining_intensity": 2.046,
+      "tourism_intensity": 3.71,
+      "office_intensity": 1.348,
+      "student_presence": 0.294,
+      "family_presence": 5.487,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 1.107,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Mile End",
+    "lines": [
+      "Central",
+      "District",
+      "Hammersmith & City"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 10.0,
+      "daytime_workers": 0.15,
+      "retail_intensity": 0.934,
+      "dining_intensity": 0.598,
+      "tourism_intensity": 7.661,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 10.0,
+      "affluence": 5.0,
+      "interchange_score": 2.5,
+      "footfall_proxy": 1.514,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Mill Hill East",
+    "lines": [
+      "Northern"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 1.739,
+      "daytime_workers": 0.023,
+      "retail_intensity": 0.277,
+      "dining_intensity": 0.046,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.294,
+      "family_presence": 1.739,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.185,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "Monument",
+    "lines": [
+      "Circle",
+      "District"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 1.834,
+      "daytime_workers": 10.0,
+      "retail_intensity": 2.215,
+      "dining_intensity": 5.92,
+      "tourism_intensity": 9.839,
+      "office_intensity": 5.955,
+      "student_presence": 1.176,
+      "family_presence": 1.834,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 5.14,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Moor Park",
+    "lines": [
+      "Metropolitan"
+    ],
+    "zone": 6,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 0.0,
+      "dining_intensity": 0.0,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.075,
+      "zone_centrality": 0.0
+    }
+  },
+  {
+    "station_name": "Moorgate",
+    "lines": [
+      "Circle",
+      "Hammersmith & City",
+      "Metropolitan",
+      "Northern"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 1.834,
+      "daytime_workers": 10.0,
+      "retail_intensity": 2.284,
+      "dining_intensity": 4.931,
+      "tourism_intensity": 4.758,
+      "office_intensity": 8.652,
+      "student_presence": 2.353,
+      "family_presence": 1.834,
+      "affluence": 5.0,
+      "interchange_score": 3.75,
+      "footfall_proxy": 3.21,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Morden",
+    "lines": [
+      "Northern"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 2.618,
+      "daytime_workers": 0.038,
+      "retail_intensity": 0.346,
+      "dining_intensity": 0.264,
+      "tourism_intensity": 0.645,
+      "office_intensity": 0.112,
+      "student_presence": 0.0,
+      "family_presence": 2.618,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 1.113,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "Mornington Crescent",
+    "lines": [
+      "Northern"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 5.811,
+      "daytime_workers": 0.349,
+      "retail_intensity": 1.003,
+      "dining_intensity": 0.839,
+      "tourism_intensity": 2.097,
+      "office_intensity": 0.112,
+      "student_presence": 0.588,
+      "family_presence": 5.811,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.376,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Neasden",
+    "lines": [
+      "Jubilee"
+    ],
+    "zone": 3,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.026,
+      "retail_intensity": 0.173,
+      "dining_intensity": 0.08,
+      "tourism_intensity": 0.081,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.32,
+      "zone_centrality": 6.0
+    }
+  },
+  {
+    "station_name": "Newbury Park",
+    "lines": [
+      "Central"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 2.526,
+      "daytime_workers": 0.0,
+      "retail_intensity": 0.069,
+      "dining_intensity": 0.046,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 2.526,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.432,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "Nine Elms",
+    "lines": [
+      "Northern"
+    ],
+    "zone": 6,
+    "features": {
+      "resident_density": 7.102,
+      "daytime_workers": 0.041,
+      "retail_intensity": 0.865,
+      "dining_intensity": 0.77,
+      "tourism_intensity": 0.806,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 7.102,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.535,
+      "zone_centrality": 0.0
+    }
+  },
+  {
+    "station_name": "North Acton",
+    "lines": [
+      "Central"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 3.497,
+      "daytime_workers": 0.027,
+      "retail_intensity": 0.208,
+      "dining_intensity": 0.218,
+      "tourism_intensity": 0.645,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 3.497,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.749,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "North Ealing",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": 3,
+    "features": {
+      "resident_density": 3.497,
+      "daytime_workers": 0.027,
+      "retail_intensity": 0.277,
+      "dining_intensity": 0.126,
+      "tourism_intensity": 0.161,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 3.497,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.047,
+      "zone_centrality": 6.0
+    }
+  },
+  {
+    "station_name": "North Greenwich",
+    "lines": [
+      "Jubilee"
+    ],
+    "zone": 6,
+    "features": {
+      "resident_density": 2.722,
+      "daytime_workers": 0.006,
+      "retail_intensity": 0.104,
+      "dining_intensity": 0.138,
+      "tourism_intensity": 0.403,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 2.722,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 3.188,
+      "zone_centrality": 0.0
+    }
+  },
+  {
+    "station_name": "North Harrow",
+    "lines": [
+      "Metropolitan"
+    ],
+    "zone": 5,
+    "features": {
+      "resident_density": 2.274,
+      "daytime_workers": 0.015,
+      "retail_intensity": 0.484,
+      "dining_intensity": 0.287,
+      "tourism_intensity": 0.323,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 2.274,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.157,
+      "zone_centrality": 2.0
+    }
+  },
+  {
+    "station_name": "North Wembley",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.026,
+      "retail_intensity": 0.104,
+      "dining_intensity": 0.0,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.143,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "Northfields",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": 3,
+    "features": {
+      "resident_density": 3.497,
+      "daytime_workers": 0.027,
+      "retail_intensity": 1.315,
+      "dining_intensity": 0.759,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 3.497,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.35,
+      "zone_centrality": 6.0
+    }
+  },
+  {
+    "station_name": "Northolt",
+    "lines": [
+      "Central"
+    ],
+    "zone": 5,
+    "features": {
+      "resident_density": 3.497,
+      "daytime_workers": 0.027,
+      "retail_intensity": 0.173,
+      "dining_intensity": 0.092,
+      "tourism_intensity": 0.081,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 3.497,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.511,
+      "zone_centrality": 2.0
+    }
+  },
+  {
+    "station_name": "Northwick Park",
+    "lines": [
+      "Metropolitan"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.026,
+      "retail_intensity": 0.0,
+      "dining_intensity": 0.011,
+      "tourism_intensity": 0.403,
+      "office_intensity": 0.0,
+      "student_presence": 0.294,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.429,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "Northwood",
+    "lines": [
+      "Metropolitan"
+    ],
+    "zone": 6,
+    "features": {
+      "resident_density": 0.333,
+      "daytime_workers": 0.076,
+      "retail_intensity": 0.208,
+      "dining_intensity": 0.138,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 0.333,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.264,
+      "zone_centrality": 0.0
+    }
+  },
+  {
+    "station_name": "Northwood Hills",
+    "lines": [
+      "Metropolitan"
+    ],
+    "zone": 6,
+    "features": {
+      "resident_density": 0.333,
+      "daytime_workers": 0.076,
+      "retail_intensity": 0.727,
+      "dining_intensity": 0.402,
+      "tourism_intensity": 0.081,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 0.333,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.159,
+      "zone_centrality": 0.0
+    }
+  },
+  {
+    "station_name": "Notting Hill Gate",
+    "lines": [
+      "Central",
+      "Circle",
+      "District"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 4.637,
+      "dining_intensity": 1.747,
+      "tourism_intensity": 2.177,
+      "office_intensity": 0.337,
+      "student_presence": 0.588,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 2.5,
+      "footfall_proxy": 1.648,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Oakwood",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": 5,
+    "features": {
+      "resident_density": 1.21,
+      "daytime_workers": 0.024,
+      "retail_intensity": 0.208,
+      "dining_intensity": 0.161,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 1.21,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.284,
+      "zone_centrality": 2.0
+    }
+  },
+  {
+    "station_name": "Old Street",
+    "lines": [
+      "Northern"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 9.707,
+      "daytime_workers": 0.179,
+      "retail_intensity": 1.972,
+      "dining_intensity": 2.828,
+      "tourism_intensity": 2.903,
+      "office_intensity": 6.517,
+      "student_presence": 1.471,
+      "family_presence": 9.707,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 2.168,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Osterley",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 2.217,
+      "daytime_workers": 0.065,
+      "retail_intensity": 0.035,
+      "dining_intensity": 0.034,
+      "tourism_intensity": 0.161,
+      "office_intensity": 0.0,
+      "student_presence": 0.294,
+      "family_presence": 2.217,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.196,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "Oval",
+    "lines": [
+      "Northern"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 7.102,
+      "daytime_workers": 0.041,
+      "retail_intensity": 1.246,
+      "dining_intensity": 0.77,
+      "tourism_intensity": 2.661,
+      "office_intensity": 0.674,
+      "student_presence": 0.588,
+      "family_presence": 7.102,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.744,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Oxford Circus",
+    "lines": [
+      "Bakerloo",
+      "Central",
+      "Victoria"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 5.487,
+      "daytime_workers": 0.74,
+      "retail_intensity": 10.0,
+      "dining_intensity": 7.172,
+      "tourism_intensity": 7.419,
+      "office_intensity": 9.551,
+      "student_presence": 2.059,
+      "family_presence": 5.487,
+      "affluence": 5.0,
+      "interchange_score": 2.5,
+      "footfall_proxy": 7.075,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Paddington",
+    "lines": [
+      "Bakerloo",
+      "Circle",
+      "District"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 5.487,
+      "daytime_workers": 0.74,
+      "retail_intensity": 1.869,
+      "dining_intensity": 1.931,
+      "tourism_intensity": 2.419,
+      "office_intensity": 1.236,
+      "student_presence": 0.0,
+      "family_presence": 5.487,
+      "affluence": 5.0,
+      "interchange_score": 2.5,
+      "footfall_proxy": 6.719,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Paddington (H&C Line)-Underground",
+    "lines": [
+      "Circle",
+      "Hammersmith & City"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 5.487,
+      "daytime_workers": 0.74,
+      "retail_intensity": 1.903,
+      "dining_intensity": 1.954,
+      "tourism_intensity": 1.532,
+      "office_intensity": 1.348,
+      "student_presence": 0.0,
+      "family_presence": 5.487,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 6.719,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Park Royal",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": 3,
+    "features": {
+      "resident_density": 3.497,
+      "daytime_workers": 0.027,
+      "retail_intensity": 0.138,
+      "dining_intensity": 0.092,
+      "tourism_intensity": 0.161,
+      "office_intensity": 0.225,
+      "student_presence": 0.0,
+      "family_presence": 3.497,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.193,
+      "zone_centrality": 6.0
+    }
+  },
+  {
+    "station_name": "Parsons Green",
+    "lines": [
+      "District"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 1.038,
+      "dining_intensity": 0.759,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.112,
+      "student_presence": 0.588,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.738,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Perivale",
+    "lines": [
+      "Central"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 3.497,
+      "daytime_workers": 0.027,
+      "retail_intensity": 0.069,
+      "dining_intensity": 0.046,
+      "tourism_intensity": 0.323,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 3.497,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.202,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "Piccadilly Circus",
+    "lines": [
+      "Bakerloo",
+      "Piccadilly"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 5.487,
+      "daytime_workers": 0.74,
+      "retail_intensity": 9.516,
+      "dining_intensity": 9.563,
+      "tourism_intensity": 7.419,
+      "office_intensity": 6.966,
+      "student_presence": 1.765,
+      "family_presence": 5.487,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 3.684,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Pimlico",
+    "lines": [
+      "Victoria"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 5.487,
+      "daytime_workers": 0.74,
+      "retail_intensity": 1.038,
+      "dining_intensity": 0.977,
+      "tourism_intensity": 3.629,
+      "office_intensity": 0.674,
+      "student_presence": 0.882,
+      "family_presence": 5.487,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.949,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Pinner",
+    "lines": [
+      "Metropolitan"
+    ],
+    "zone": 5,
+    "features": {
+      "resident_density": 2.274,
+      "daytime_workers": 0.015,
+      "retail_intensity": 0.588,
+      "dining_intensity": 0.287,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.112,
+      "student_presence": 0.0,
+      "family_presence": 2.274,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.272,
+      "zone_centrality": 2.0
+    }
+  },
+  {
+    "station_name": "Plaistow",
+    "lines": [
+      "District",
+      "Hammersmith & City"
+    ],
+    "zone": 3,
+    "features": {
+      "resident_density": 5.606,
+      "daytime_workers": 0.018,
+      "retail_intensity": 0.484,
+      "dining_intensity": 0.149,
+      "tourism_intensity": 0.161,
+      "office_intensity": 0.112,
+      "student_presence": 0.0,
+      "family_presence": 5.606,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 0.573,
+      "zone_centrality": 6.0
+    }
+  },
+  {
+    "station_name": "Preston Road",
+    "lines": [
+      "Metropolitan"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.026,
+      "retail_intensity": 0.45,
+      "dining_intensity": 0.276,
+      "tourism_intensity": 0.806,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.3,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "Putney Bridge",
+    "lines": [
+      "District"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 0.484,
+      "dining_intensity": 0.379,
+      "tourism_intensity": 0.484,
+      "office_intensity": 0.0,
+      "student_presence": 0.294,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.66,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Queen's Park",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.026,
+      "retail_intensity": 0.415,
+      "dining_intensity": 0.207,
+      "tourism_intensity": 0.242,
+      "office_intensity": 0.112,
+      "student_presence": 0.588,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.571,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Queensbury",
+    "lines": [
+      "Jubilee"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.026,
+      "retail_intensity": 0.311,
+      "dining_intensity": 0.138,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.389,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "Queensway",
+    "lines": [
+      "Central"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 5.487,
+      "daytime_workers": 0.74,
+      "retail_intensity": 2.318,
+      "dining_intensity": 1.816,
+      "tourism_intensity": 2.258,
+      "office_intensity": 0.225,
+      "student_presence": 0.294,
+      "family_presence": 5.487,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.819,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Ravenscourt Park",
+    "lines": [
+      "District"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 1.073,
+      "dining_intensity": 1.0,
+      "tourism_intensity": 0.645,
+      "office_intensity": 0.449,
+      "student_presence": 0.294,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.341,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Rayners Lane",
+    "lines": [
+      "Metropolitan",
+      "Piccadilly"
+    ],
+    "zone": 5,
+    "features": {
+      "resident_density": 2.274,
+      "daytime_workers": 0.015,
+      "retail_intensity": 0.519,
+      "dining_intensity": 0.31,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.294,
+      "family_presence": 2.274,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 0.428,
+      "zone_centrality": 2.0
+    }
+  },
+  {
+    "station_name": "Redbridge",
+    "lines": [
+      "Central"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 2.526,
+      "daytime_workers": 0.0,
+      "retail_intensity": 0.138,
+      "dining_intensity": 0.046,
+      "tourism_intensity": 0.242,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 2.526,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.242,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "Regent's Park",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 5.487,
+      "daytime_workers": 0.74,
+      "retail_intensity": 3.253,
+      "dining_intensity": 2.08,
+      "tourism_intensity": 5.0,
+      "office_intensity": 2.921,
+      "student_presence": 0.0,
+      "family_presence": 5.487,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.283,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Richmond",
+    "lines": [
+      "District"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 0.719,
+      "daytime_workers": 0.042,
+      "retail_intensity": 0.554,
+      "dining_intensity": 0.54,
+      "tourism_intensity": 0.645,
+      "office_intensity": 0.112,
+      "student_presence": 0.294,
+      "family_presence": 0.719,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 1.198,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "Rickmansworth",
+    "lines": [
+      "Metropolitan"
+    ],
+    "zone": 7,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 0.0,
+      "dining_intensity": 0.0,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.22,
+      "zone_centrality": 0.0
+    }
+  },
+  {
+    "station_name": "Roding Valley",
+    "lines": [
+      "Central"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 0.035,
+      "dining_intensity": 0.011,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.0,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "Royal Oak",
+    "lines": [
+      "Circle",
+      "Hammersmith & City"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 5.487,
+      "daytime_workers": 0.74,
+      "retail_intensity": 1.834,
+      "dining_intensity": 1.701,
+      "tourism_intensity": 0.726,
+      "office_intensity": 1.236,
+      "student_presence": 0.588,
+      "family_presence": 5.487,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 0.26,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Ruislip",
+    "lines": [
+      "Metropolitan",
+      "Piccadilly"
+    ],
+    "zone": 6,
+    "features": {
+      "resident_density": 0.333,
+      "daytime_workers": 0.076,
+      "retail_intensity": 0.069,
+      "dining_intensity": 0.08,
+      "tourism_intensity": 0.081,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 0.333,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 0.166,
+      "zone_centrality": 0.0
+    }
+  },
+  {
+    "station_name": "Ruislip Gardens",
+    "lines": [
+      "Central"
+    ],
+    "zone": 5,
+    "features": {
+      "resident_density": 0.333,
+      "daytime_workers": 0.076,
+      "retail_intensity": 0.069,
+      "dining_intensity": 0.034,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 0.333,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.075,
+      "zone_centrality": 2.0
+    }
+  },
+  {
+    "station_name": "Ruislip Manor",
+    "lines": [
+      "Metropolitan",
+      "Piccadilly"
+    ],
+    "zone": 6,
+    "features": {
+      "resident_density": 0.333,
+      "daytime_workers": 0.076,
+      "retail_intensity": 0.069,
+      "dining_intensity": 0.057,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 0.333,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 0.157,
+      "zone_centrality": 0.0
+    }
+  },
+  {
+    "station_name": "Russell Square",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 5.811,
+      "daytime_workers": 0.349,
+      "retail_intensity": 1.696,
+      "dining_intensity": 3.356,
+      "tourism_intensity": 9.839,
+      "office_intensity": 3.258,
+      "student_presence": 10.0,
+      "family_presence": 5.811,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 1.051,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Seven Sisters",
+    "lines": [
+      "Victoria"
+    ],
+    "zone": 3,
+    "features": {
+      "resident_density": 5.013,
+      "daytime_workers": 0.006,
+      "retail_intensity": 1.384,
+      "dining_intensity": 0.598,
+      "tourism_intensity": 0.484,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 5.013,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 1.656,
+      "zone_centrality": 6.0
+    }
+  },
+  {
+    "station_name": "Shepherd's Bush (Central)",
+    "lines": [
+      "Central"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 4.464,
+      "dining_intensity": 1.816,
+      "tourism_intensity": 0.242,
+      "office_intensity": 0.787,
+      "student_presence": 0.588,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 1.685,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Shepherd's Bush Market",
+    "lines": [
+      "Circle",
+      "Hammersmith & City"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 4.498,
+      "dining_intensity": 2.069,
+      "tourism_intensity": 0.323,
+      "office_intensity": 0.787,
+      "student_presence": 0.0,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 0.41,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Sloane Square",
+    "lines": [
+      "Circle",
+      "District"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 3.875,
+      "dining_intensity": 1.276,
+      "tourism_intensity": 1.855,
+      "office_intensity": 1.573,
+      "student_presence": 0.588,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 1.794,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Snaresbrook",
+    "lines": [
+      "Central"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 2.526,
+      "daytime_workers": 0.0,
+      "retail_intensity": 0.208,
+      "dining_intensity": 0.23,
+      "tourism_intensity": 0.242,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 2.526,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.22,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "South Ealing",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": 3,
+    "features": {
+      "resident_density": 3.497,
+      "daytime_workers": 0.027,
+      "retail_intensity": 1.384,
+      "dining_intensity": 0.816,
+      "tourism_intensity": 0.161,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 3.497,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.194,
+      "zone_centrality": 6.0
+    }
+  },
+  {
+    "station_name": "South Harrow",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": 5,
+    "features": {
+      "resident_density": 2.274,
+      "daytime_workers": 0.015,
+      "retail_intensity": 0.657,
+      "dining_intensity": 0.31,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 2.274,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.247,
+      "zone_centrality": 2.0
+    }
+  },
+  {
+    "station_name": "South Kensington",
+    "lines": [
+      "Circle",
+      "District",
+      "Piccadilly"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 3.841,
+      "dining_intensity": 2.264,
+      "tourism_intensity": 1.21,
+      "office_intensity": 0.112,
+      "student_presence": 0.588,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 2.5,
+      "footfall_proxy": 3.593,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "South Kenton",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.026,
+      "retail_intensity": 0.069,
+      "dining_intensity": 0.034,
+      "tourism_intensity": 0.806,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.077,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "South Ruislip",
+    "lines": [
+      "Central"
+    ],
+    "zone": 5,
+    "features": {
+      "resident_density": 0.333,
+      "daytime_workers": 0.076,
+      "retail_intensity": 0.138,
+      "dining_intensity": 0.069,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 0.333,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.172,
+      "zone_centrality": 2.0
+    }
+  },
+  {
+    "station_name": "South Wimbledon",
+    "lines": [
+      "Northern"
+    ],
+    "zone": 3,
+    "features": {
+      "resident_density": 2.618,
+      "daytime_workers": 0.038,
+      "retail_intensity": 0.381,
+      "dining_intensity": 0.448,
+      "tourism_intensity": 0.161,
+      "office_intensity": 0.112,
+      "student_presence": 0.294,
+      "family_presence": 2.618,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.465,
+      "zone_centrality": 6.0
+    }
+  },
+  {
+    "station_name": "South Woodford",
+    "lines": [
+      "Central"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 2.526,
+      "daytime_workers": 0.0,
+      "retail_intensity": 0.796,
+      "dining_intensity": 0.517,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 2.526,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.527,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "Southfields",
+    "lines": [
+      "District"
+    ],
+    "zone": 3,
+    "features": {
+      "resident_density": 5.528,
+      "daytime_workers": 0.021,
+      "retail_intensity": 0.208,
+      "dining_intensity": 0.011,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 5.528,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.621,
+      "zone_centrality": 6.0
+    }
+  },
+  {
+    "station_name": "Southgate",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 1.21,
+      "daytime_workers": 0.024,
+      "retail_intensity": 0.934,
+      "dining_intensity": 0.621,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 1.21,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.512,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "Southwark",
+    "lines": [
+      "Jubilee"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 6.254,
+      "daytime_workers": 0.162,
+      "retail_intensity": 1.384,
+      "dining_intensity": 2.598,
+      "tourism_intensity": 3.548,
+      "office_intensity": 1.236,
+      "student_presence": 1.765,
+      "family_presence": 6.254,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 1.147,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "St. James's Park",
+    "lines": [
+      "Circle",
+      "District"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 5.487,
+      "daytime_workers": 0.74,
+      "retail_intensity": 0.9,
+      "dining_intensity": 1.759,
+      "tourism_intensity": 3.79,
+      "office_intensity": 3.483,
+      "student_presence": 0.882,
+      "family_presence": 5.487,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 1.29,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "St. John's Wood",
+    "lines": [
+      "Jubilee"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 5.487,
+      "daytime_workers": 0.74,
+      "retail_intensity": 1.28,
+      "dining_intensity": 0.368,
+      "tourism_intensity": 0.565,
+      "office_intensity": 0.0,
+      "student_presence": 0.294,
+      "family_presence": 5.487,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.78,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "St. Paul's",
+    "lines": [
+      "Central"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 1.834,
+      "daytime_workers": 10.0,
+      "retail_intensity": 0.934,
+      "dining_intensity": 2.793,
+      "tourism_intensity": 5.161,
+      "office_intensity": 8.876,
+      "student_presence": 0.588,
+      "family_presence": 1.834,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 1.242,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Stamford Brook",
+    "lines": [
+      "District"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 2.217,
+      "daytime_workers": 0.065,
+      "retail_intensity": 0.692,
+      "dining_intensity": 0.805,
+      "tourism_intensity": 0.806,
+      "office_intensity": 0.225,
+      "student_presence": 0.0,
+      "family_presence": 2.217,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.26,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Stanmore",
+    "lines": [
+      "Jubilee"
+    ],
+    "zone": 5,
+    "features": {
+      "resident_density": 2.274,
+      "daytime_workers": 0.015,
+      "retail_intensity": 0.035,
+      "dining_intensity": 0.046,
+      "tourism_intensity": 0.968,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 2.274,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.381,
+      "zone_centrality": 2.0
+    }
+  },
+  {
+    "station_name": "Stepney Green",
+    "lines": [
+      "District",
+      "Hammersmith & City"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 10.0,
+      "daytime_workers": 0.15,
+      "retail_intensity": 1.28,
+      "dining_intensity": 0.805,
+      "tourism_intensity": 1.694,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 10.0,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 0.677,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Stockwell",
+    "lines": [
+      "Northern",
+      "Victoria"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 7.102,
+      "daytime_workers": 0.041,
+      "retail_intensity": 1.315,
+      "dining_intensity": 0.851,
+      "tourism_intensity": 0.806,
+      "office_intensity": 0.112,
+      "student_presence": 0.0,
+      "family_presence": 7.102,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 0.99,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Stonebridge Park",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": 3,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.026,
+      "retail_intensity": 0.346,
+      "dining_intensity": 0.08,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.295,
+      "zone_centrality": 6.0
+    }
+  },
+  {
+    "station_name": "Stratford",
+    "lines": [
+      "Central",
+      "Jubilee"
+    ],
+    "zone": 6,
+    "features": {
+      "resident_density": 5.606,
+      "daytime_workers": 0.018,
+      "retail_intensity": 0.969,
+      "dining_intensity": 1.379,
+      "tourism_intensity": 4.597,
+      "office_intensity": 1.461,
+      "student_presence": 1.471,
+      "family_presence": 5.606,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 7.53,
+      "zone_centrality": 0.0
+    }
+  },
+  {
+    "station_name": "Sudbury Hill",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 2.274,
+      "daytime_workers": 0.015,
+      "retail_intensity": 0.83,
+      "dining_intensity": 0.264,
+      "tourism_intensity": 0.161,
+      "office_intensity": 0.0,
+      "student_presence": 0.294,
+      "family_presence": 2.274,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.19,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "Sudbury Town",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.026,
+      "retail_intensity": 0.138,
+      "dining_intensity": 0.057,
+      "tourism_intensity": 0.161,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.179,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "Swiss Cottage",
+    "lines": [
+      "Jubilee"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 5.811,
+      "daytime_workers": 0.349,
+      "retail_intensity": 0.9,
+      "dining_intensity": 0.46,
+      "tourism_intensity": 0.484,
+      "office_intensity": 0.112,
+      "student_presence": 1.176,
+      "family_presence": 5.811,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.691,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Temple",
+    "lines": [
+      "Circle",
+      "District"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 5.487,
+      "daytime_workers": 0.74,
+      "retail_intensity": 1.661,
+      "dining_intensity": 3.644,
+      "tourism_intensity": 4.919,
+      "office_intensity": 4.157,
+      "student_presence": 0.882,
+      "family_presence": 5.487,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 0.944,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Theydon Bois",
+    "lines": [
+      "Central"
+    ],
+    "zone": 6,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 0.0,
+      "dining_intensity": 0.0,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.065,
+      "zone_centrality": 0.0
+    }
+  },
+  {
+    "station_name": "Tooting Bec",
+    "lines": [
+      "Northern"
+    ],
+    "zone": 3,
+    "features": {
+      "resident_density": 5.528,
+      "daytime_workers": 0.021,
+      "retail_intensity": 0.9,
+      "dining_intensity": 0.586,
+      "tourism_intensity": 0.242,
+      "office_intensity": 0.0,
+      "student_presence": 0.588,
+      "family_presence": 5.528,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.835,
+      "zone_centrality": 6.0
+    }
+  },
+  {
+    "station_name": "Tooting Broadway",
+    "lines": [
+      "Northern"
+    ],
+    "zone": 3,
+    "features": {
+      "resident_density": 5.528,
+      "daytime_workers": 0.021,
+      "retail_intensity": 1.73,
+      "dining_intensity": 1.54,
+      "tourism_intensity": 0.323,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 5.528,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 1.688,
+      "zone_centrality": 6.0
+    }
+  },
+  {
+    "station_name": "Tottenham Court Road",
+    "lines": [
+      "Central",
+      "Northern"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 5.487,
+      "daytime_workers": 0.74,
+      "retail_intensity": 6.332,
+      "dining_intensity": 10.0,
+      "tourism_intensity": 8.387,
+      "office_intensity": 10.0,
+      "student_presence": 5.588,
+      "family_presence": 5.487,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 8.135,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Tottenham Hale",
+    "lines": [
+      "Victoria"
+    ],
+    "zone": 3,
+    "features": {
+      "resident_density": 5.013,
+      "daytime_workers": 0.006,
+      "retail_intensity": 0.761,
+      "dining_intensity": 0.379,
+      "tourism_intensity": 0.887,
+      "office_intensity": 0.112,
+      "student_presence": 0.0,
+      "family_presence": 5.013,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 1.805,
+      "zone_centrality": 6.0
+    }
+  },
+  {
+    "station_name": "Totteridge & Whetstone",
+    "lines": [
+      "Northern"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 1.739,
+      "daytime_workers": 0.023,
+      "retail_intensity": 0.035,
+      "dining_intensity": 0.092,
+      "tourism_intensity": 0.081,
+      "office_intensity": 0.112,
+      "student_presence": 0.0,
+      "family_presence": 1.739,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.24,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "Tower Hill",
+    "lines": [
+      "Circle",
+      "District"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 10.0,
+      "daytime_workers": 0.15,
+      "retail_intensity": 1.765,
+      "dining_intensity": 4.805,
+      "tourism_intensity": 10.0,
+      "office_intensity": 4.045,
+      "student_presence": 0.588,
+      "family_presence": 10.0,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 2.045,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Tufnell Park",
+    "lines": [
+      "Northern"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 5.811,
+      "daytime_workers": 0.349,
+      "retail_intensity": 0.45,
+      "dining_intensity": 0.402,
+      "tourism_intensity": 0.161,
+      "office_intensity": 0.562,
+      "student_presence": 0.0,
+      "family_presence": 5.811,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.641,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Turnham Green",
+    "lines": [
+      "District",
+      "Piccadilly"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 2.217,
+      "daytime_workers": 0.065,
+      "retail_intensity": 0.554,
+      "dining_intensity": 0.448,
+      "tourism_intensity": 1.048,
+      "office_intensity": 0.112,
+      "student_presence": 0.0,
+      "family_presence": 2.217,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 0.612,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Turnpike Lane",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": 3,
+    "features": {
+      "resident_density": 5.013,
+      "daytime_workers": 0.006,
+      "retail_intensity": 2.318,
+      "dining_intensity": 1.023,
+      "tourism_intensity": 1.048,
+      "office_intensity": 0.337,
+      "student_presence": 0.0,
+      "family_presence": 5.013,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 1.069,
+      "zone_centrality": 6.0
+    }
+  },
+  {
+    "station_name": "Upminster",
+    "lines": [
+      "District"
+    ],
+    "zone": 6,
+    "features": {
+      "resident_density": 0.0,
+      "daytime_workers": 0.024,
+      "retail_intensity": 0.035,
+      "dining_intensity": 0.011,
+      "tourism_intensity": 0.161,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 0.0,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.627,
+      "zone_centrality": 0.0
+    }
+  },
+  {
+    "station_name": "Upminster Bridge",
+    "lines": [
+      "District"
+    ],
+    "zone": 6,
+    "features": {
+      "resident_density": 0.0,
+      "daytime_workers": 0.024,
+      "retail_intensity": 0.0,
+      "dining_intensity": 0.034,
+      "tourism_intensity": 0.161,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 0.0,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.079,
+      "zone_centrality": 0.0
+    }
+  },
+  {
+    "station_name": "Upney",
+    "lines": [
+      "District"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 0.381,
+      "dining_intensity": 0.172,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.588,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.262,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "Upton Park",
+    "lines": [
+      "District",
+      "Hammersmith & City"
+    ],
+    "zone": 3,
+    "features": {
+      "resident_density": 5.606,
+      "daytime_workers": 0.018,
+      "retail_intensity": 1.453,
+      "dining_intensity": 0.644,
+      "tourism_intensity": 0.081,
+      "office_intensity": 0.0,
+      "student_presence": 0.294,
+      "family_presence": 5.606,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 1.144,
+      "zone_centrality": 6.0
+    }
+  },
+  {
+    "station_name": "Uxbridge",
+    "lines": [
+      "Metropolitan",
+      "Piccadilly"
+    ],
+    "zone": 6,
+    "features": {
+      "resident_density": 0.333,
+      "daytime_workers": 0.076,
+      "retail_intensity": 1.038,
+      "dining_intensity": 0.506,
+      "tourism_intensity": 0.565,
+      "office_intensity": 0.787,
+      "student_presence": 0.588,
+      "family_presence": 0.333,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 0.717,
+      "zone_centrality": 0.0
+    }
+  },
+  {
+    "station_name": "Vauxhall",
+    "lines": [
+      "Victoria"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 7.102,
+      "daytime_workers": 0.041,
+      "retail_intensity": 0.83,
+      "dining_intensity": 0.816,
+      "tourism_intensity": 2.419,
+      "office_intensity": 0.674,
+      "student_presence": 0.882,
+      "family_presence": 7.102,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 2.853,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Victoria",
+    "lines": [
+      "Circle",
+      "District",
+      "Victoria"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 5.487,
+      "daytime_workers": 0.74,
+      "retail_intensity": 1.28,
+      "dining_intensity": 2.31,
+      "tourism_intensity": 4.919,
+      "office_intensity": 2.809,
+      "student_presence": 0.0,
+      "family_presence": 5.487,
+      "affluence": 5.0,
+      "interchange_score": 2.5,
+      "footfall_proxy": 8.253,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Walthamstow Central",
+    "lines": [
+      "Victoria"
+    ],
+    "zone": 3,
+    "features": {
+      "resident_density": 3.694,
+      "daytime_workers": 0.017,
+      "retail_intensity": 0.83,
+      "dining_intensity": 0.425,
+      "tourism_intensity": 1.048,
+      "office_intensity": 0.0,
+      "student_presence": 0.294,
+      "family_presence": 3.694,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 1.821,
+      "zone_centrality": 6.0
+    }
+  },
+  {
+    "station_name": "Wanstead",
+    "lines": [
+      "Central"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 2.526,
+      "daytime_workers": 0.0,
+      "retail_intensity": 0.208,
+      "dining_intensity": 0.195,
+      "tourism_intensity": 0.081,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 2.526,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.234,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "Warren Street",
+    "lines": [
+      "Northern",
+      "Victoria"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 5.811,
+      "daytime_workers": 0.349,
+      "retail_intensity": 1.349,
+      "dining_intensity": 2.299,
+      "tourism_intensity": 4.839,
+      "office_intensity": 3.034,
+      "student_presence": 7.353,
+      "family_presence": 5.811,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 1.922,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Warwick Avenue",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 5.487,
+      "daytime_workers": 0.74,
+      "retail_intensity": 1.419,
+      "dining_intensity": 1.08,
+      "tourism_intensity": 0.323,
+      "office_intensity": 1.348,
+      "student_presence": 0.0,
+      "family_presence": 5.487,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.383,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Waterloo",
+    "lines": [
+      "Bakerloo",
+      "Jubilee",
+      "Northern",
+      "Waterloo & City"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 7.102,
+      "daytime_workers": 0.041,
+      "retail_intensity": 1.315,
+      "dining_intensity": 2.575,
+      "tourism_intensity": 4.597,
+      "office_intensity": 1.798,
+      "student_presence": 0.882,
+      "family_presence": 7.102,
+      "affluence": 5.0,
+      "interchange_score": 3.75,
+      "footfall_proxy": 9.75,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Watford",
+    "lines": [
+      "Metropolitan"
+    ],
+    "zone": 7,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 0.0,
+      "dining_intensity": 0.0,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.193,
+      "zone_centrality": 0.0
+    }
+  },
+  {
+    "station_name": "Wembley Central",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.026,
+      "retail_intensity": 0.138,
+      "dining_intensity": 0.057,
+      "tourism_intensity": 0.161,
+      "office_intensity": 0.112,
+      "student_presence": 0.0,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.603,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "Wembley Park",
+    "lines": [
+      "Jubilee",
+      "Metropolitan"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.026,
+      "retail_intensity": 0.519,
+      "dining_intensity": 0.31,
+      "tourism_intensity": 0.081,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 2.121,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "West Acton",
+    "lines": [
+      "Central"
+    ],
+    "zone": 3,
+    "features": {
+      "resident_density": 3.497,
+      "daytime_workers": 0.027,
+      "retail_intensity": 0.242,
+      "dining_intensity": 0.092,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 3.497,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.11,
+      "zone_centrality": 6.0
+    }
+  },
+  {
+    "station_name": "West Brompton",
+    "lines": [
+      "District"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 1.419,
+      "dining_intensity": 1.161,
+      "tourism_intensity": 0.403,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.684,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "West Finchley",
+    "lines": [
+      "Northern"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 1.739,
+      "daytime_workers": 0.023,
+      "retail_intensity": 0.415,
+      "dining_intensity": 0.264,
+      "tourism_intensity": 0.323,
+      "office_intensity": 0.0,
+      "student_presence": 0.588,
+      "family_presence": 1.739,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.143,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "West Ham",
+    "lines": [
+      "District",
+      "Hammersmith & City",
+      "Jubilee"
+    ],
+    "zone": 6,
+    "features": {
+      "resident_density": 5.606,
+      "daytime_workers": 0.018,
+      "retail_intensity": 0.173,
+      "dining_intensity": 0.103,
+      "tourism_intensity": 0.806,
+      "office_intensity": 0.0,
+      "student_presence": 0.588,
+      "family_presence": 5.606,
+      "affluence": 5.0,
+      "interchange_score": 2.5,
+      "footfall_proxy": 0.706,
+      "zone_centrality": 0.0
+    }
+  },
+  {
+    "station_name": "West Hampstead",
+    "lines": [
+      "Jubilee"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 5.811,
+      "daytime_workers": 0.349,
+      "retail_intensity": 0.519,
+      "dining_intensity": 0.46,
+      "tourism_intensity": 0.161,
+      "office_intensity": 0.112,
+      "student_presence": 0.0,
+      "family_presence": 5.811,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.991,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "West Harrow",
+    "lines": [
+      "Metropolitan"
+    ],
+    "zone": 5,
+    "features": {
+      "resident_density": 2.274,
+      "daytime_workers": 0.015,
+      "retail_intensity": 0.173,
+      "dining_intensity": 0.046,
+      "tourism_intensity": 0.161,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 2.274,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.102,
+      "zone_centrality": 2.0
+    }
+  },
+  {
+    "station_name": "West Kensington",
+    "lines": [
+      "District"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 0.484,
+      "dining_intensity": 0.414,
+      "tourism_intensity": 0.161,
+      "office_intensity": 0.337,
+      "student_presence": 0.0,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.487,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "West Ruislip",
+    "lines": [
+      "Central"
+    ],
+    "zone": 6,
+    "features": {
+      "resident_density": 0.333,
+      "daytime_workers": 0.076,
+      "retail_intensity": 0.035,
+      "dining_intensity": 0.057,
+      "tourism_intensity": 0.242,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 0.333,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.131,
+      "zone_centrality": 0.0
+    }
+  },
+  {
+    "station_name": "Westbourne Park",
+    "lines": [
+      "Circle",
+      "Hammersmith & City"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 5.26,
+      "dining_intensity": 1.989,
+      "tourism_intensity": 1.29,
+      "office_intensity": 0.562,
+      "student_presence": 1.471,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 0.454,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Westminster",
+    "lines": [
+      "Circle",
+      "District",
+      "Jubilee"
+    ],
+    "zone": 1,
+    "features": {
+      "resident_density": 5.487,
+      "daytime_workers": 0.74,
+      "retail_intensity": 0.865,
+      "dining_intensity": 1.92,
+      "tourism_intensity": 6.532,
+      "office_intensity": 3.708,
+      "student_presence": 1.176,
+      "family_presence": 5.487,
+      "affluence": 5.0,
+      "interchange_score": 2.5,
+      "footfall_proxy": 2.631,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "White City",
+    "lines": [
+      "Central"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 3.841,
+      "dining_intensity": 1.276,
+      "tourism_intensity": 0.323,
+      "office_intensity": 0.787,
+      "student_presence": 0.294,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 1.061,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Whitechapel",
+    "lines": [
+      "District",
+      "Hammersmith & City"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 10.0,
+      "daytime_workers": 0.15,
+      "retail_intensity": 1.453,
+      "dining_intensity": 1.103,
+      "tourism_intensity": 1.21,
+      "office_intensity": 0.449,
+      "student_presence": 0.588,
+      "family_presence": 10.0,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 2.392,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Willesden Green",
+    "lines": [
+      "Jubilee",
+      "Metropolitan"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.026,
+      "retail_intensity": 0.242,
+      "dining_intensity": 0.322,
+      "tourism_intensity": 0.161,
+      "office_intensity": 0.0,
+      "student_presence": 0.294,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 0.718,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Willesden Junction",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.026,
+      "retail_intensity": 1.661,
+      "dining_intensity": 0.816,
+      "tourism_intensity": 0.887,
+      "office_intensity": 0.337,
+      "student_presence": 0.294,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.564,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Wimbledon",
+    "lines": [
+      "District"
+    ],
+    "zone": 3,
+    "features": {
+      "resident_density": 2.618,
+      "daytime_workers": 0.038,
+      "retail_intensity": 0.554,
+      "dining_intensity": 0.483,
+      "tourism_intensity": 0.161,
+      "office_intensity": 0.112,
+      "student_presence": 0.0,
+      "family_presence": 2.618,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 1.525,
+      "zone_centrality": 6.0
+    }
+  },
+  {
+    "station_name": "Wimbledon Park",
+    "lines": [
+      "District"
+    ],
+    "zone": 3,
+    "features": {
+      "resident_density": 2.618,
+      "daytime_workers": 0.038,
+      "retail_intensity": 0.069,
+      "dining_intensity": 0.034,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 2.618,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.219,
+      "zone_centrality": 6.0
+    }
+  },
+  {
+    "station_name": "Wood Green",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": 3,
+    "features": {
+      "resident_density": 5.013,
+      "daytime_workers": 0.006,
+      "retail_intensity": 1.522,
+      "dining_intensity": 0.632,
+      "tourism_intensity": 0.806,
+      "office_intensity": 0.225,
+      "student_presence": 0.294,
+      "family_presence": 5.013,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 1.227,
+      "zone_centrality": 6.0
+    }
+  },
+  {
+    "station_name": "Wood Lane",
+    "lines": [
+      "Circle",
+      "Hammersmith & City"
+    ],
+    "zone": 2,
+    "features": {
+      "resident_density": 4.432,
+      "daytime_workers": 0.041,
+      "retail_intensity": 4.291,
+      "dining_intensity": 1.862,
+      "tourism_intensity": 0.403,
+      "office_intensity": 0.674,
+      "student_presence": 0.294,
+      "family_presence": 4.432,
+      "affluence": 5.0,
+      "interchange_score": 1.25,
+      "footfall_proxy": 0.646,
+      "zone_centrality": 8.0
+    }
+  },
+  {
+    "station_name": "Woodford",
+    "lines": [
+      "Central"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 2.526,
+      "daytime_workers": 0.0,
+      "retail_intensity": 0.173,
+      "dining_intensity": 0.08,
+      "tourism_intensity": 0.0,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 2.526,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.588,
+      "zone_centrality": 4.0
+    }
+  },
+  {
+    "station_name": "Woodside Park",
+    "lines": [
+      "Northern"
+    ],
+    "zone": 4,
+    "features": {
+      "resident_density": 1.739,
+      "daytime_workers": 0.023,
+      "retail_intensity": 0.796,
+      "dining_intensity": 0.517,
+      "tourism_intensity": 0.081,
+      "office_intensity": 0.0,
+      "student_presence": 0.0,
+      "family_presence": 1.739,
+      "affluence": 5.0,
+      "interchange_score": 0.0,
+      "footfall_proxy": 0.472,
+      "zone_centrality": 4.0
+    }
+  }
+]

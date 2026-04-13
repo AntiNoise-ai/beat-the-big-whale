@@ -19,6 +19,11 @@ class DownloadTarget:
 
 DOWNLOAD_TARGETS = [
     DownloadTarget(
+        name="tfl-annual-station-counts-2023",
+        url="https://crowding.data.tfl.gov.uk/Annual%20Station%20Counts/2023/AC2023_AnnualisedEntryExit.xlsx",
+        destination=RAW_DIR / "AC2023_AnnualisedEntryExit.xlsx",
+    ),
+    DownloadTarget(
         name="geofabrik-greater-london-osm-pbf",
         url="https://download.geofabrik.de/europe/united-kingdom/england/greater-london-latest.osm.pbf",
         destination=RAW_DIR / "greater-london-latest.osm.pbf",

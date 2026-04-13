@@ -15,7 +15,14 @@ from tube_london_ads.phase1_config import DOWNLOAD_TARGETS, RAW_DIR  # noqa: E40
 
 def download(url: str, destination: Path) -> None:
     destination.parent.mkdir(parents=True, exist_ok=True)
-    with urllib.request.urlopen(url, timeout=60) as response:
+    request = urllib.request.Request(
+        url,
+        headers={
+            "User-Agent": "Mozilla/5.0",
+            "Accept": "*/*",
+        },
+    )
+    with urllib.request.urlopen(request, timeout=60) as response:
         destination.write_bytes(response.read())
 
 

@@ -1,0 +1,6 @@
+station_name,latitude,longitude,zone,lines
+Oxford Circus,51.515224,-0.141903,1,Bakerloo|Central|Victoria
+Bond Street,51.514246,-0.149010,1,Central|Elizabeth|Jubilee
+Liverpool Street,51.517449,-0.082193,1,Central|Circle|Hammersmith & City|Metropolitan|Elizabeth
+Canary Wharf,51.503441,-0.019937,2,Jubilee|Elizabeth|DLR
+King's Cross St Pancras,51.530663,-0.123194,1,Circle|Hammersmith & City|Metropolitan|Northern|Piccadilly|Victoria

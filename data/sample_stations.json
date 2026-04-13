@@ -1,0 +1,97 @@
+[
+  {
+    "station_name": "Oxford Circus",
+    "lines": ["Bakerloo", "Central", "Victoria"],
+    "zone": 1,
+    "features": {
+      "resident_density": 4.0,
+      "daytime_workers": 8.5,
+      "retail_intensity": 10.0,
+      "dining_intensity": 9.0,
+      "tourism_intensity": 8.0,
+      "office_intensity": 7.0,
+      "student_presence": 4.0,
+      "family_presence": 3.0,
+      "affluence": 9.5,
+      "interchange_score": 8.0,
+      "footfall_proxy": 10.0,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Bond Street",
+    "lines": ["Central", "Elizabeth", "Jubilee"],
+    "zone": 1,
+    "features": {
+      "resident_density": 3.5,
+      "daytime_workers": 7.5,
+      "retail_intensity": 10.0,
+      "dining_intensity": 8.0,
+      "tourism_intensity": 8.5,
+      "office_intensity": 6.0,
+      "student_presence": 2.5,
+      "family_presence": 2.5,
+      "affluence": 10.0,
+      "interchange_score": 7.0,
+      "footfall_proxy": 9.0,
+      "zone_centrality": 10.0
+    }
+  },
+  {
+    "station_name": "Liverpool Street",
+    "lines": ["Central", "Circle", "Hammersmith & City", "Metropolitan", "Elizabeth"],
+    "zone": 1,
+    "features": {
+      "resident_density": 3.0,
+      "daytime_workers": 10.0,
+      "retail_intensity": 7.5,
+      "dining_intensity": 8.0,
+      "tourism_intensity": 5.0,
+      "office_intensity": 10.0,
+      "student_presence": 3.0,
+      "family_presence": 2.0,
+      "affluence": 8.0,
+      "interchange_score": 10.0,
+      "footfall_proxy": 9.5,
+      "zone_centrality": 9.5
+    }
+  },
+  {
+    "station_name": "Canary Wharf",
+    "lines": ["Jubilee", "Elizabeth", "DLR"],
+    "zone": 2,
+    "features": {
+      "resident_density": 4.5,
+      "daytime_workers": 10.0,
+      "retail_intensity": 7.0,
+      "dining_intensity": 7.0,
+      "tourism_intensity": 3.0,
+      "office_intensity": 10.0,
+      "student_presence": 1.5,
+      "family_presence": 3.0,
+      "affluence": 8.5,
+      "interchange_score": 8.0,
+      "footfall_proxy": 8.0,
+      "zone_centrality": 7.0
+    }
+  },
+  {
+    "station_name": "King's Cross St Pancras",
+    "lines": ["Circle", "Hammersmith & City", "Metropolitan", "Northern", "Piccadilly", "Victoria"],
+    "zone": 1,
+    "features": {
+      "resident_density": 5.0,
+      "daytime_workers": 8.0,
+      "retail_intensity": 7.0,
+      "dining_intensity": 8.0,
+      "tourism_intensity": 7.0,
+      "office_intensity": 6.5,
+      "student_presence": 7.5,
+      "family_presence": 4.0,
+      "affluence": 6.0,
+      "interchange_score": 10.0,
+      "footfall_proxy": 10.0,
+      "zone_centrality": 9.0
+    }
+  }
+]

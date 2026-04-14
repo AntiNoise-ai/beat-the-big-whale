@@ -19,6 +19,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 5.167,
       "zone_centrality": 6.0
+    },
+    "context": {
+      "borough_name": "Ealing",
+      "annualised_total": 4823835.0,
+      "borough_children_share": 0.1756726297654054,
+      "borough_student_age_share": 0.13436791585165225,
+      "borough_young_professional_share": 0.16826042462790006,
+      "total_retail": 44.0,
+      "total_dining": 40.0,
+      "total_tourism": 13.0,
+      "total_office": 20.0,
+      "total_education": 15.0,
+      "total_leisure": 76.0
     }
   },
   {
@@ -41,6 +54,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 5.806,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "City of London",
+      "annualised_total": 6897314.0,
+      "borough_children_share": 0.044801800013235395,
+      "borough_student_age_share": 0.16762623254582754,
+      "borough_young_professional_share": 0.33902455165111506,
+      "total_retail": 294.0,
+      "total_dining": 794.0,
+      "total_tourism": 162.0,
+      "total_office": 490.0,
+      "total_education": 43.0,
+      "total_leisure": 139.0
     }
   },
   {
@@ -63,6 +89,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 6.631,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Tower Hamlets",
+      "annualised_total": 10947896.0,
+      "borough_children_share": 0.15874125452715693,
+      "borough_student_age_share": 0.17106476320182232,
+      "borough_young_professional_share": 0.27629668018536485,
+      "total_retail": 325.0,
+      "total_dining": 676.0,
+      "total_tourism": 115.0,
+      "total_office": 458.0,
+      "total_education": 55.0,
+      "total_leisure": 145.0
     }
   },
   {
@@ -84,6 +123,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.061,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": "Brent",
+      "annualised_total": 2598605.0,
+      "borough_children_share": 0.17527253977607543,
+      "borough_student_age_share": 0.1460410906123929,
+      "borough_young_professional_share": 0.18031254249580708,
+      "total_retail": 26.0,
+      "total_dining": 14.0,
+      "total_tourism": 1.0,
+      "total_office": 4.0,
+      "total_education": 7.0,
+      "total_leisure": 21.0
     }
   },
   {
@@ -105,6 +157,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 3.334,
       "zone_centrality": 0.0
+    },
+    "context": {
+      "borough_name": null,
+      "annualised_total": 1729521.0,
+      "borough_children_share": null,
+      "borough_student_age_share": null,
+      "borough_young_professional_share": null,
+      "total_retail": 0.0,
+      "total_dining": 0.0,
+      "total_tourism": 0.0,
+      "total_office": 0.0,
+      "total_education": 0.0,
+      "total_leisure": 0.0
     }
   },
   {
@@ -126,6 +191,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 6.833,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Islington",
+      "annualised_total": 12258814.0,
+      "borough_children_share": 0.13345648898773227,
+      "borough_student_age_share": 0.15143661668699332,
+      "borough_young_professional_share": 0.2616489705143841,
+      "total_retail": 160.0,
+      "total_dining": 271.0,
+      "total_tourism": 69.0,
+      "total_office": 106.0,
+      "total_education": 38.0,
+      "total_leisure": 132.0
     }
   },
   {
@@ -147,6 +225,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 5.867,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Islington",
+      "annualised_total": 7137484.0,
+      "borough_children_share": 0.13345648898773227,
+      "borough_student_age_share": 0.15143661668699332,
+      "borough_young_professional_share": 0.2616489705143841,
+      "total_retail": 47.0,
+      "total_dining": 86.0,
+      "total_tourism": 16.0,
+      "total_office": 27.0,
+      "total_education": 24.0,
+      "total_leisure": 110.0
     }
   },
   {
@@ -168,6 +259,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.485,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": "Enfield",
+      "annualised_total": 3293586.0,
+      "borough_children_share": 0.20000366486070476,
+      "borough_student_age_share": 0.12773261176298123,
+      "borough_young_professional_share": 0.12931460996719948,
+      "total_retail": 19.0,
+      "total_dining": 11.0,
+      "total_tourism": 7.0,
+      "total_office": 7.0,
+      "total_education": 10.0,
+      "total_leisure": 36.0
     }
   },
   {
@@ -189,6 +293,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 3.767,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Islington",
+      "annualised_total": 2203557.0,
+      "borough_children_share": 0.13345648898773227,
+      "borough_student_age_share": 0.15143661668699332,
+      "borough_young_professional_share": 0.2616489705143841,
+      "total_retail": 175.0,
+      "total_dining": 208.0,
+      "total_tourism": 23.0,
+      "total_office": 33.0,
+      "total_education": 47.0,
+      "total_leisure": 70.0
     }
   },
   {
@@ -214,6 +331,19 @@
       "interchange_score": 5.0,
       "footfall_proxy": 7.813,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Westminster",
+      "annualised_total": 21207073.0,
+      "borough_children_share": 0.11697365664107888,
+      "borough_student_age_share": 0.14739328368159393,
+      "borough_young_professional_share": 0.22449951427646242,
+      "total_retail": 152.0,
+      "total_dining": 221.0,
+      "total_tourism": 87.0,
+      "total_office": 363.0,
+      "total_education": 88.0,
+      "total_leisure": 97.0
     }
   },
   {
@@ -235,6 +365,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 6.439,
       "zone_centrality": 6.0
+    },
+    "context": {
+      "borough_name": "Wandsworth",
+      "annualised_total": 9828394.0,
+      "borough_children_share": 0.14748782040840502,
+      "borough_student_age_share": 0.11276598895322149,
+      "borough_young_professional_share": 0.28188535635485923,
+      "total_retail": 39.0,
+      "total_dining": 71.0,
+      "total_tourism": 3.0,
+      "total_office": 22.0,
+      "total_education": 23.0,
+      "total_leisure": 23.0
     }
   },
   {
@@ -258,6 +401,19 @@
       "interchange_score": 2.5,
       "footfall_proxy": 8.817,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "City of London",
+      "annualised_total": 37200346.0,
+      "borough_children_share": 0.044801800013235395,
+      "borough_student_age_share": 0.16762623254582754,
+      "borough_young_professional_share": 0.33902455165111506,
+      "total_retail": 176.0,
+      "total_dining": 746.0,
+      "total_tourism": 90.0,
+      "total_office": 552.0,
+      "total_education": 12.0,
+      "total_leisure": 129.0
     }
   },
   {
@@ -281,6 +437,19 @@
       "interchange_score": 2.5,
       "footfall_proxy": 5.296,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "City of London",
+      "annualised_total": 5185508.0,
+      "borough_children_share": 0.044801800013235395,
+      "borough_student_age_share": 0.16762623254582754,
+      "borough_young_professional_share": 0.33902455165111506,
+      "total_retail": 216.0,
+      "total_dining": 458.0,
+      "total_tourism": 82.0,
+      "total_office": 632.0,
+      "total_education": 40.0,
+      "total_leisure": 175.0
     }
   },
   {
@@ -303,6 +472,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 7.21,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": "Barking & Dagenham",
+      "annualised_total": 15137045.0,
+      "borough_children_share": 0.2367162627230426,
+      "borough_student_age_share": 0.14077517647918125,
+      "borough_young_professional_share": 0.1564918129986638,
+      "total_retail": 149.0,
+      "total_dining": 62.0,
+      "total_tourism": 10.0,
+      "total_office": 37.0,
+      "total_education": 24.0,
+      "total_leisure": 53.0
     }
   },
   {
@@ -324,6 +506,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 2.631,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": "Redbridge",
+      "annualised_total": 1167037.0,
+      "borough_children_share": 0.2024617798406754,
+      "borough_student_age_share": 0.13156575797479073,
+      "borough_young_professional_share": 0.15923743349801234,
+      "total_retail": 35.0,
+      "total_dining": 30.0,
+      "total_tourism": 10.0,
+      "total_office": 11.0,
+      "total_education": 9.0,
+      "total_leisure": 33.0
     }
   },
   {
@@ -346,6 +541,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 5.315,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Hammersmith & Fulham",
+      "annualised_total": 5240900.0,
+      "borough_children_share": 0.14172147524736733,
+      "borough_student_age_share": 0.14244224562370486,
+      "borough_young_professional_share": 0.23704865730018496,
+      "total_retail": 68.0,
+      "total_dining": 116.0,
+      "total_tourism": 11.0,
+      "total_office": 107.0,
+      "total_education": 65.0,
+      "total_leisure": 103.0
     }
   },
   {
@@ -367,6 +575,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 6.158,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Wandsworth",
+      "annualised_total": 8399835.0,
+      "borough_children_share": 0.14748782040840502,
+      "borough_student_age_share": 0.11276598895322149,
+      "borough_young_professional_share": 0.28188535635485923,
+      "total_retail": 54.0,
+      "total_dining": 67.0,
+      "total_tourism": 9.0,
+      "total_office": 24.0,
+      "total_education": 9.0,
+      "total_leisure": 136.0
     }
   },
   {
@@ -389,6 +610,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 4.666,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Westminster",
+      "annualised_total": 3644937.0,
+      "borough_children_share": 0.11697365664107888,
+      "borough_student_age_share": 0.14739328368159393,
+      "borough_young_professional_share": 0.22449951427646242,
+      "total_retail": 172.0,
+      "total_dining": 205.0,
+      "total_tourism": 129.0,
+      "total_office": 105.0,
+      "total_education": 31.0,
+      "total_leisure": 48.0
     }
   },
   {
@@ -410,6 +644,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.257,
       "zone_centrality": 2.0
+    },
+    "context": {
+      "borough_name": "Barking & Dagenham",
+      "annualised_total": 2899358.0,
+      "borough_children_share": 0.2367162627230426,
+      "borough_student_age_share": 0.14077517647918125,
+      "borough_young_professional_share": 0.1564918129986638,
+      "total_retail": 35.0,
+      "total_dining": 9.0,
+      "total_tourism": 0.0,
+      "total_office": 0.0,
+      "total_education": 10.0,
+      "total_leisure": 21.0
     }
   },
   {
@@ -431,6 +678,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 5.239,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Camden",
+      "annualised_total": 5022937.0,
+      "borough_children_share": 0.1336664469468939,
+      "borough_student_age_share": 0.18603965096822667,
+      "borough_young_professional_share": 0.20026919513420577,
+      "total_retail": 44.0,
+      "total_dining": 74.0,
+      "total_tourism": 10.0,
+      "total_office": 26.0,
+      "total_education": 38.0,
+      "total_leisure": 84.0
     }
   },
   {
@@ -452,6 +712,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 5.781,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Southwark",
+      "annualised_total": 6802053.0,
+      "borough_children_share": 0.14535906933599335,
+      "borough_student_age_share": 0.14588005819826802,
+      "borough_young_professional_share": 0.23931496318133588,
+      "total_retail": 55.0,
+      "total_dining": 79.0,
+      "total_tourism": 8.0,
+      "total_office": 21.0,
+      "total_education": 25.0,
+      "total_leisure": 141.0
     }
   },
   {
@@ -473,6 +746,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 6.501,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Tower Hamlets",
+      "annualised_total": 10176312.0,
+      "borough_children_share": 0.15874125452715693,
+      "borough_student_age_share": 0.17106476320182232,
+      "borough_young_professional_share": 0.27629668018536485,
+      "total_retail": 126.0,
+      "total_dining": 123.0,
+      "total_tourism": 13.0,
+      "total_office": 82.0,
+      "total_education": 60.0,
+      "total_leisure": 290.0
     }
   },
   {
@@ -495,6 +781,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 6.461,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "City of London",
+      "annualised_total": 9951205.0,
+      "borough_children_share": 0.044801800013235395,
+      "borough_student_age_share": 0.16762623254582754,
+      "borough_young_professional_share": 0.33902455165111506,
+      "total_retail": 108.0,
+      "total_dining": 427.0,
+      "total_tourism": 90.0,
+      "total_office": 403.0,
+      "total_education": 18.0,
+      "total_leisure": 99.0
     }
   },
   {
@@ -516,6 +815,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 6.276,
       "zone_centrality": 6.0
+    },
+    "context": {
+      "borough_name": "Waltham Forest",
+      "annualised_total": 8975412.0,
+      "borough_children_share": 0.18844486070845115,
+      "borough_student_age_share": 0.11269871343440446,
+      "borough_young_professional_share": 0.17277657228039195,
+      "total_retail": 107.0,
+      "total_dining": 43.0,
+      "total_tourism": 6.0,
+      "total_office": 12.0,
+      "total_education": 23.0,
+      "total_leisure": 46.0
     }
   },
   {
@@ -538,6 +850,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 8.828,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Westminster",
+      "annualised_total": 37424555.0,
+      "borough_children_share": 0.11697365664107888,
+      "borough_student_age_share": 0.14739328368159393,
+      "borough_young_professional_share": 0.22449951427646242,
+      "total_retail": 770.0,
+      "total_dining": 582.0,
+      "total_tourism": 137.0,
+      "total_office": 643.0,
+      "total_education": 35.0,
+      "total_leisure": 45.0
     }
   },
   {
@@ -559,6 +884,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.862,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Southwark",
+      "annualised_total": 4067823.0,
+      "borough_children_share": 0.14535906933599335,
+      "borough_student_age_share": 0.14588005819826802,
+      "borough_young_professional_share": 0.23931496318133588,
+      "total_retail": 117.0,
+      "total_dining": 358.0,
+      "total_tourism": 63.0,
+      "total_office": 286.0,
+      "total_education": 67.0,
+      "total_leisure": 142.0
     }
   },
   {
@@ -580,6 +918,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 3.001,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": "Hounslow",
+      "annualised_total": 1435853.0,
+      "borough_children_share": 0.18690552527519505,
+      "borough_student_age_share": 0.1229360371914075,
+      "borough_young_professional_share": 0.15777292401410709,
+      "total_retail": 6.0,
+      "total_dining": 8.0,
+      "total_tourism": 6.0,
+      "total_office": 12.0,
+      "total_education": 16.0,
+      "total_leisure": 55.0
     }
   },
   {
@@ -601,6 +952,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.947,
       "zone_centrality": 6.0
+    },
+    "context": {
+      "borough_name": "Haringey",
+      "annualised_total": 4266560.0,
+      "borough_children_share": 0.16769755542922116,
+      "borough_student_age_share": 0.12113321963236688,
+      "borough_young_professional_share": 0.18632177373507675,
+      "total_retail": 30.0,
+      "total_dining": 29.0,
+      "total_tourism": 13.0,
+      "total_office": 22.0,
+      "total_education": 7.0,
+      "total_leisure": 88.0
     }
   },
   {
@@ -623,6 +987,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 4.901,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Tower Hamlets",
+      "annualised_total": 4157626.0,
+      "borough_children_share": 0.15874125452715693,
+      "borough_student_age_share": 0.17106476320182232,
+      "borough_young_professional_share": 0.27629668018536485,
+      "total_retail": 149.0,
+      "total_dining": 76.0,
+      "total_tourism": 68.0,
+      "total_office": 40.0,
+      "total_education": 43.0,
+      "total_leisure": 150.0
     }
   },
   {
@@ -644,6 +1021,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 3.465,
       "zone_centrality": 6.0
+    },
+    "context": {
+      "borough_name": "Barnet",
+      "annualised_total": 1860607.0,
+      "borough_children_share": 0.19161091223305765,
+      "borough_student_age_share": 0.11684977163313172,
+      "borough_young_professional_share": 0.14641402296012837,
+      "total_retail": 44.0,
+      "total_dining": 16.0,
+      "total_tourism": 6.0,
+      "total_office": 4.0,
+      "total_education": 21.0,
+      "total_leisure": 21.0
     }
   },
   {
@@ -665,6 +1055,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 7.723,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Lambeth",
+      "annualised_total": 20168356.0,
+      "borough_children_share": 0.1330966805502966,
+      "borough_student_age_share": 0.13179351255837435,
+      "borough_young_professional_share": 0.27245677142496527,
+      "total_retail": 186.0,
+      "total_dining": 184.0,
+      "total_tourism": 10.0,
+      "total_office": 27.0,
+      "total_education": 18.0,
+      "total_leisure": 86.0
     }
   },
   {
@@ -687,6 +1090,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 4.706,
       "zone_centrality": 0.0
+    },
+    "context": {
+      "borough_name": "Tower Hamlets",
+      "annualised_total": 3727656.0,
+      "borough_children_share": 0.15874125452715693,
+      "borough_student_age_share": 0.17106476320182232,
+      "borough_young_professional_share": 0.27629668018536485,
+      "total_retail": 29.0,
+      "total_dining": 30.0,
+      "total_tourism": 21.0,
+      "total_office": 50.0,
+      "total_education": 24.0,
+      "total_leisure": 126.0
     }
   },
   {
@@ -711,6 +1127,19 @@
       "interchange_score": 3.75,
       "footfall_proxy": 3.391,
       "zone_centrality": 2.0
+    },
+    "context": {
+      "borough_name": null,
+      "annualised_total": 1786001.0,
+      "borough_children_share": null,
+      "borough_student_age_share": null,
+      "borough_young_professional_share": null,
+      "total_retail": 0.0,
+      "total_dining": 0.0,
+      "total_tourism": 0.0,
+      "total_office": 0.0,
+      "total_education": 0.0,
+      "total_leisure": 1.0
     }
   },
   {
@@ -732,6 +1161,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.356,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": "Barnet",
+      "annualised_total": 3063800.0,
+      "borough_children_share": 0.19161091223305765,
+      "borough_student_age_share": 0.11684977163313172,
+      "borough_young_professional_share": 0.14641402296012837,
+      "total_retail": 11.0,
+      "total_dining": 5.0,
+      "total_tourism": 0.0,
+      "total_office": 2.0,
+      "total_education": 10.0,
+      "total_leisure": 35.0
     }
   },
   {
@@ -753,6 +1195,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.984,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Islington",
+      "annualised_total": 4354076.0,
+      "borough_children_share": 0.13345648898773227,
+      "borough_student_age_share": 0.15143661668699332,
+      "borough_young_professional_share": 0.2616489705143841,
+      "total_retail": 75.0,
+      "total_dining": 128.0,
+      "total_tourism": 12.0,
+      "total_office": 30.0,
+      "total_education": 42.0,
+      "total_leisure": 106.0
     }
   },
   {
@@ -774,6 +1229,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 7.598,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Camden",
+      "annualised_total": 18805872.0,
+      "borough_children_share": 0.1336664469468939,
+      "borough_student_age_share": 0.18603965096822667,
+      "borough_young_professional_share": 0.20026919513420577,
+      "total_retail": 266.0,
+      "total_dining": 291.0,
+      "total_tourism": 32.0,
+      "total_office": 97.0,
+      "total_education": 23.0,
+      "total_leisure": 123.0
     }
   },
   {
@@ -795,6 +1263,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 6.392,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Southwark",
+      "annualised_total": 9576731.0,
+      "borough_children_share": 0.14535906933599335,
+      "borough_student_age_share": 0.14588005819826802,
+      "borough_young_professional_share": 0.23931496318133588,
+      "total_retail": 46.0,
+      "total_dining": 58.0,
+      "total_tourism": 15.0,
+      "total_office": 22.0,
+      "total_education": 19.0,
+      "total_leisure": 110.0
     }
   },
   {
@@ -816,6 +1297,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 8.483,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Tower Hamlets",
+      "annualised_total": 30865778.0,
+      "borough_children_share": 0.15874125452715693,
+      "borough_student_age_share": 0.17106476320182232,
+      "borough_young_professional_share": 0.27629668018536485,
+      "total_retail": 84.0,
+      "total_dining": 260.0,
+      "total_tourism": 44.0,
+      "total_office": 231.0,
+      "total_education": 16.0,
+      "total_leisure": 182.0
     }
   },
   {
@@ -837,6 +1331,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 6.844,
       "zone_centrality": 0.0
+    },
+    "context": {
+      "borough_name": "Newham",
+      "annualised_total": 12328817.0,
+      "borough_children_share": 0.18855717806383052,
+      "borough_student_age_share": 0.15815317083329997,
+      "borough_young_professional_share": 0.22160988777725266,
+      "total_retail": 46.0,
+      "total_dining": 62.0,
+      "total_tourism": 47.0,
+      "total_office": 39.0,
+      "total_education": 11.0,
+      "total_leisure": 210.0
     }
   },
   {
@@ -859,6 +1366,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 4.76,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "City of London",
+      "annualised_total": 3842155.0,
+      "borough_children_share": 0.044801800013235395,
+      "borough_student_age_share": 0.16762623254582754,
+      "borough_young_professional_share": 0.33902455165111506,
+      "total_retail": 168.0,
+      "total_dining": 669.0,
+      "total_tourism": 96.0,
+      "total_office": 531.0,
+      "total_education": 11.0,
+      "total_leisure": 115.0
     }
   },
   {
@@ -880,6 +1400,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 3.658,
       "zone_centrality": 2.0
+    },
+    "context": {
+      "borough_name": "Harrow",
+      "annualised_total": 2073359.0,
+      "borough_children_share": 0.18438335721989924,
+      "borough_student_age_share": 0.11851184231911467,
+      "borough_young_professional_share": 0.1547775594332235,
+      "total_retail": 8.0,
+      "total_dining": 6.0,
+      "total_tourism": 2.0,
+      "total_office": 6.0,
+      "total_education": 8.0,
+      "total_leisure": 64.0
     }
   },
   {
@@ -901,6 +1434,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 3.2,
       "zone_centrality": 0.0
+    },
+    "context": {
+      "borough_name": null,
+      "annualised_total": 1604937.0,
+      "borough_children_share": null,
+      "borough_student_age_share": null,
+      "borough_young_professional_share": null,
+      "total_retail": 0.0,
+      "total_dining": 0.0,
+      "total_tourism": 0.0,
+      "total_office": 0.0,
+      "total_education": 0.0,
+      "total_leisure": 0.0
     }
   },
   {
@@ -922,6 +1468,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 5.056,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Camden",
+      "annualised_total": 4532637.0,
+      "borough_children_share": 0.1336664469468939,
+      "borough_student_age_share": 0.18603965096822667,
+      "borough_young_professional_share": 0.20026919513420577,
+      "total_retail": 143.0,
+      "total_dining": 172.0,
+      "total_tourism": 24.0,
+      "total_office": 74.0,
+      "total_education": 22.0,
+      "total_leisure": 118.0
     }
   },
   {
@@ -943,6 +1502,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 6.026,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Camden",
+      "annualised_total": 7803444.0,
+      "borough_children_share": 0.1336664469468939,
+      "borough_student_age_share": 0.18603965096822667,
+      "borough_young_professional_share": 0.20026919513420577,
+      "total_retail": 213.0,
+      "total_dining": 545.0,
+      "total_tourism": 90.0,
+      "total_office": 603.0,
+      "total_education": 83.0,
+      "total_leisure": 107.0
     }
   },
   {
@@ -965,6 +1537,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 7.131,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Westminster",
+      "annualised_total": 14484286.0,
+      "borough_children_share": 0.11697365664107888,
+      "borough_student_age_share": 0.14739328368159393,
+      "borough_young_professional_share": 0.22449951427646242,
+      "total_retail": 519.0,
+      "total_dining": 1001.0,
+      "total_tourism": 140.0,
+      "total_office": 236.0,
+      "total_education": 11.0,
+      "total_leisure": 121.0
     }
   },
   {
@@ -986,6 +1571,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 2.295,
       "zone_centrality": 0.0
+    },
+    "context": {
+      "borough_name": null,
+      "annualised_total": 966889.0,
+      "borough_children_share": null,
+      "borough_student_age_share": null,
+      "borough_young_professional_share": null,
+      "total_retail": 0.0,
+      "total_dining": 0.0,
+      "total_tourism": 0.0,
+      "total_office": 0.0,
+      "total_education": 0.0,
+      "total_leisure": 0.0
     }
   },
   {
@@ -1010,6 +1608,19 @@
       "interchange_score": 3.75,
       "footfall_proxy": 0.386,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": null,
+      "annualised_total": 332284.0,
+      "borough_children_share": null,
+      "borough_student_age_share": null,
+      "borough_young_professional_share": null,
+      "total_retail": 0.0,
+      "total_dining": 0.0,
+      "total_tourism": 0.0,
+      "total_office": 0.0,
+      "total_education": 0.0,
+      "total_leisure": 0.0
     }
   },
   {
@@ -1031,6 +1642,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 3.659,
       "zone_centrality": 6.0
+    },
+    "context": {
+      "borough_name": "Ealing",
+      "annualised_total": 2074444.0,
+      "borough_children_share": 0.1756726297654054,
+      "borough_student_age_share": 0.13436791585165225,
+      "borough_young_professional_share": 0.16826042462790006,
+      "total_retail": 61.0,
+      "total_dining": 60.0,
+      "total_tourism": 11.0,
+      "total_office": 51.0,
+      "total_education": 10.0,
+      "total_leisure": 37.0
     }
   },
   {
@@ -1052,6 +1676,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 3.025,
       "zone_centrality": 0.0
+    },
+    "context": {
+      "borough_name": null,
+      "annualised_total": 1455300.0,
+      "borough_children_share": null,
+      "borough_student_age_share": null,
+      "borough_young_professional_share": null,
+      "total_retail": 0.0,
+      "total_dining": 0.0,
+      "total_tourism": 0.0,
+      "total_office": 0.0,
+      "total_education": 0.0,
+      "total_leisure": 0.0
     }
   },
   {
@@ -1073,6 +1710,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 6.08,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Lambeth",
+      "annualised_total": 8040059.0,
+      "borough_children_share": 0.1330966805502966,
+      "borough_student_age_share": 0.13179351255837435,
+      "borough_young_professional_share": 0.27245677142496527,
+      "total_retail": 60.0,
+      "total_dining": 119.0,
+      "total_tourism": 44.0,
+      "total_office": 30.0,
+      "total_education": 14.0,
+      "total_leisure": 56.0
     }
   },
   {
@@ -1094,6 +1744,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 5.305,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Lambeth",
+      "annualised_total": 5210928.0,
+      "borough_children_share": 0.1330966805502966,
+      "borough_student_age_share": 0.13179351255837435,
+      "borough_young_professional_share": 0.27245677142496527,
+      "total_retail": 78.0,
+      "total_dining": 137.0,
+      "total_tourism": 19.0,
+      "total_office": 44.0,
+      "total_education": 16.0,
+      "total_leisure": 65.0
     }
   },
   {
@@ -1115,6 +1778,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 5.651,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Wandsworth",
+      "annualised_total": 6323510.0,
+      "borough_children_share": 0.14748782040840502,
+      "borough_student_age_share": 0.11276598895322149,
+      "borough_young_professional_share": 0.28188535635485923,
+      "total_retail": 34.0,
+      "total_dining": 48.0,
+      "total_tourism": 29.0,
+      "total_office": 18.0,
+      "total_education": 23.0,
+      "total_leisure": 53.0
     }
   },
   {
@@ -1136,6 +1812,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 3.019,
       "zone_centrality": 2.0
+    },
+    "context": {
+      "borough_name": "Enfield",
+      "annualised_total": 1450247.0,
+      "borough_children_share": 0.20000366486070476,
+      "borough_student_age_share": 0.12773261176298123,
+      "borough_young_professional_share": 0.12931460996719948,
+      "total_retail": 52.0,
+      "total_dining": 22.0,
+      "total_tourism": 4.0,
+      "total_office": 4.0,
+      "total_education": 4.0,
+      "total_leisure": 26.0
     }
   },
   {
@@ -1157,6 +1846,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 5.648,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": "Barnet",
+      "annualised_total": 6314434.0,
+      "borough_children_share": 0.19161091223305765,
+      "borough_student_age_share": 0.11684977163313172,
+      "borough_young_professional_share": 0.14641402296012837,
+      "total_retail": 20.0,
+      "total_dining": 16.0,
+      "total_tourism": 3.0,
+      "total_office": 11.0,
+      "total_education": 10.0,
+      "total_leisure": 41.0
     }
   },
   {
@@ -1178,6 +1880,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 5.348,
       "zone_centrality": 6.0
+    },
+    "context": {
+      "borough_name": "Merton",
+      "annualised_total": 5339416.0,
+      "borough_children_share": 0.1797985714220345,
+      "borough_student_age_share": 0.10674067328943575,
+      "borough_young_professional_share": 0.16681690682212327,
+      "total_retail": 47.0,
+      "total_dining": 40.0,
+      "total_tourism": 9.0,
+      "total_office": 22.0,
+      "total_education": 14.0,
+      "total_leisure": 39.0
     }
   },
   {
@@ -1199,6 +1914,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 6.879,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Westminster",
+      "annualised_total": 12573815.0,
+      "borough_children_share": 0.11697365664107888,
+      "borough_student_age_share": 0.14739328368159393,
+      "borough_young_professional_share": 0.22449951427646242,
+      "total_retail": 676.0,
+      "total_dining": 1297.0,
+      "total_tourism": 161.0,
+      "total_office": 419.0,
+      "total_education": 89.0,
+      "total_leisure": 131.0
     }
   },
   {
@@ -1220,6 +1948,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 2.038,
       "zone_centrality": 0.0
+    },
+    "context": {
+      "borough_name": null,
+      "annualised_total": 837496.0,
+      "borough_children_share": null,
+      "borough_student_age_share": null,
+      "borough_young_professional_share": null,
+      "total_retail": 0.0,
+      "total_dining": 0.0,
+      "total_tourism": 0.0,
+      "total_office": 0.0,
+      "total_education": 0.0,
+      "total_leisure": 0.0
     }
   },
   {
@@ -1241,6 +1982,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.093,
       "zone_centrality": 2.0
+    },
+    "context": {
+      "borough_name": "Barking & Dagenham",
+      "annualised_total": 2645552.0,
+      "borough_children_share": 0.2367162627230426,
+      "borough_student_age_share": 0.14077517647918125,
+      "borough_young_professional_share": 0.1564918129986638,
+      "total_retail": 67.0,
+      "total_dining": 15.0,
+      "total_tourism": 2.0,
+      "total_office": 3.0,
+      "total_education": 8.0,
+      "total_leisure": 20.0
     }
   },
   {
@@ -1262,6 +2016,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 5.168,
       "zone_centrality": 2.0
+    },
+    "context": {
+      "borough_name": "Barking & Dagenham",
+      "annualised_total": 4827763.0,
+      "borough_children_share": 0.2367162627230426,
+      "borough_student_age_share": 0.14077517647918125,
+      "borough_young_professional_share": 0.1564918129986638,
+      "total_retail": 61.0,
+      "total_dining": 28.0,
+      "total_tourism": 0.0,
+      "total_office": 12.0,
+      "total_education": 20.0,
+      "total_leisure": 25.0
     }
   },
   {
@@ -1283,6 +2050,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 3.446,
       "zone_centrality": 0.0
+    },
+    "context": {
+      "borough_name": null,
+      "annualised_total": 1841035.0,
+      "borough_children_share": null,
+      "borough_student_age_share": null,
+      "borough_young_professional_share": null,
+      "total_retail": 0.0,
+      "total_dining": 0.0,
+      "total_tourism": 0.0,
+      "total_office": 0.0,
+      "total_education": 0.0,
+      "total_leisure": 0.0
     }
   },
   {
@@ -1304,6 +2084,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.344,
       "zone_centrality": 6.0
+    },
+    "context": {
+      "borough_name": "Brent",
+      "annualised_total": 3043893.0,
+      "borough_children_share": 0.17527253977607543,
+      "borough_student_age_share": 0.1460410906123929,
+      "borough_young_professional_share": 0.18031254249580708,
+      "total_retail": 15.0,
+      "total_dining": 6.0,
+      "total_tourism": 4.0,
+      "total_office": 7.0,
+      "total_education": 13.0,
+      "total_leisure": 25.0
     }
   },
   {
@@ -1326,6 +2119,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 7.244,
       "zone_centrality": 6.0
+    },
+    "context": {
+      "borough_name": "Ealing",
+      "annualised_total": 15429088.0,
+      "borough_children_share": 0.1756726297654054,
+      "borough_student_age_share": 0.13436791585165225,
+      "borough_young_professional_share": 0.16826042462790006,
+      "total_retail": 101.0,
+      "total_dining": 112.0,
+      "total_tourism": 12.0,
+      "total_office": 46.0,
+      "total_education": 23.0,
+      "total_leisure": 26.0
     }
   },
   {
@@ -1348,6 +2154,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 3.553,
       "zone_centrality": 6.0
+    },
+    "context": {
+      "borough_name": "Ealing",
+      "annualised_total": 1954910.0,
+      "borough_children_share": 0.1756726297654054,
+      "borough_student_age_share": 0.13436791585165225,
+      "borough_young_professional_share": 0.16826042462790006,
+      "total_retail": 21.0,
+      "total_dining": 17.0,
+      "total_tourism": 5.0,
+      "total_office": 8.0,
+      "total_education": 9.0,
+      "total_leisure": 62.0
     }
   },
   {
@@ -1370,6 +2189,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 7.285,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Kensington & Chelsea",
+      "annualised_total": 15779710.0,
+      "borough_children_share": 0.1302259926099171,
+      "borough_student_age_share": 0.12686308971892774,
+      "borough_young_professional_share": 0.1848627852585837,
+      "total_retail": 76.0,
+      "total_dining": 127.0,
+      "total_tourism": 98.0,
+      "total_office": 81.0,
+      "total_education": 25.0,
+      "total_leisure": 65.0
     }
   },
   {
@@ -1391,6 +2223,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.394,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Hammersmith & Fulham",
+      "annualised_total": 3130908.0,
+      "borough_children_share": 0.14172147524736733,
+      "borough_student_age_share": 0.14244224562370486,
+      "borough_young_professional_share": 0.23704865730018496,
+      "total_retail": 12.0,
+      "total_dining": 12.0,
+      "total_tourism": 20.0,
+      "total_office": 4.0,
+      "total_education": 14.0,
+      "total_leisure": 55.0
     }
   },
   {
@@ -1412,6 +2257,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 5.3,
       "zone_centrality": 6.0
+    },
+    "context": {
+      "borough_name": "Barnet",
+      "annualised_total": 5198096.0,
+      "borough_children_share": 0.19161091223305765,
+      "borough_student_age_share": 0.11684977163313172,
+      "borough_young_professional_share": 0.14641402296012837,
+      "total_retail": 83.0,
+      "total_dining": 20.0,
+      "total_tourism": 3.0,
+      "total_office": 8.0,
+      "total_education": 11.0,
+      "total_leisure": 31.0
     }
   },
   {
@@ -1434,6 +2292,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 6.605,
       "zone_centrality": 6.0
+    },
+    "context": {
+      "borough_name": "Newham",
+      "annualised_total": 10787392.0,
+      "borough_children_share": 0.18855717806383052,
+      "borough_student_age_share": 0.15815317083329997,
+      "borough_young_professional_share": 0.22160988777725266,
+      "total_retail": 117.0,
+      "total_dining": 72.0,
+      "total_tourism": 0.0,
+      "total_office": 68.0,
+      "total_education": 41.0,
+      "total_leisure": 29.0
     }
   },
   {
@@ -1455,6 +2326,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 5.492,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Wandsworth",
+      "annualised_total": 5785361.0,
+      "borough_children_share": 0.14748782040840502,
+      "borough_student_age_share": 0.11276598895322149,
+      "borough_young_professional_share": 0.28188535635485923,
+      "total_retail": 158.0,
+      "total_dining": 99.0,
+      "total_tourism": 4.0,
+      "total_office": 47.0,
+      "total_education": 32.0,
+      "total_leisure": 75.0
     }
   },
   {
@@ -1477,6 +2361,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 3.73,
       "zone_centrality": 2.0
+    },
+    "context": {
+      "borough_name": "Hillingdon",
+      "annualised_total": 2158123.0,
+      "borough_children_share": 0.1912359311633276,
+      "borough_student_age_share": 0.13345687075656545,
+      "borough_young_professional_share": 0.15536552394550177,
+      "total_retail": 17.0,
+      "total_dining": 11.0,
+      "total_tourism": 0.0,
+      "total_office": 8.0,
+      "total_education": 10.0,
+      "total_leisure": 51.0
     }
   },
   {
@@ -1498,6 +2395,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.85,
       "zone_centrality": 2.0
+    },
+    "context": {
+      "borough_name": "Barnet",
+      "annualised_total": 4040066.0,
+      "borough_children_share": 0.19161091223305765,
+      "borough_student_age_share": 0.11684977163313172,
+      "borough_young_professional_share": 0.14641402296012837,
+      "total_retail": 48.0,
+      "total_dining": 35.0,
+      "total_tourism": 4.0,
+      "total_office": 27.0,
+      "total_education": 8.0,
+      "total_leisure": 24.0
     }
   },
   {
@@ -1519,6 +2429,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.564,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Westminster",
+      "annualised_total": 3442771.0,
+      "borough_children_share": 0.11697365664107888,
+      "borough_student_age_share": 0.14739328368159393,
+      "borough_young_professional_share": 0.22449951427646242,
+      "total_retail": 143.0,
+      "total_dining": 287.0,
+      "total_tourism": 152.0,
+      "total_office": 229.0,
+      "total_education": 54.0,
+      "total_leisure": 85.0
     }
   },
   {
@@ -1542,6 +2465,19 @@
       "interchange_score": 2.5,
       "footfall_proxy": 5.458,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Westminster",
+      "annualised_total": 5676320.0,
+      "borough_children_share": 0.11697365664107888,
+      "borough_student_age_share": 0.14739328368159393,
+      "borough_young_professional_share": 0.22449951427646242,
+      "total_retail": 159.0,
+      "total_dining": 330.0,
+      "total_tourism": 171.0,
+      "total_office": 279.0,
+      "total_education": 61.0,
+      "total_leisure": 86.0
     }
   },
   {
@@ -1564,6 +2500,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 7.101,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Southwark",
+      "annualised_total": 14236050.0,
+      "borough_children_share": 0.14535906933599335,
+      "borough_student_age_share": 0.14588005819826802,
+      "borough_young_professional_share": 0.23931496318133588,
+      "total_retail": 75.0,
+      "total_dining": 138.0,
+      "total_tourism": 33.0,
+      "total_office": 74.0,
+      "total_education": 63.0,
+      "total_leisure": 128.0
     }
   },
   {
@@ -1585,6 +2534,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.023,
       "zone_centrality": 0.0
+    },
+    "context": {
+      "borough_name": "Havering",
+      "annualised_total": 2542830.0,
+      "borough_children_share": 0.19374968328543402,
+      "borough_student_age_share": 0.10908011611660888,
+      "borough_young_professional_share": 0.13636100393088021,
+      "total_retail": 23.0,
+      "total_dining": 8.0,
+      "total_tourism": 0.0,
+      "total_office": 2.0,
+      "total_education": 18.0,
+      "total_leisure": 23.0
     }
   },
   {
@@ -1609,6 +2571,19 @@
       "interchange_score": 3.75,
       "footfall_proxy": 7.423,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Westminster",
+      "annualised_total": 17051267.0,
+      "borough_children_share": 0.11697365664107888,
+      "borough_student_age_share": 0.14739328368159393,
+      "borough_young_professional_share": 0.22449951427646242,
+      "total_retail": 305.0,
+      "total_dining": 689.0,
+      "total_tourism": 133.0,
+      "total_office": 192.0,
+      "total_education": 43.0,
+      "total_leisure": 111.0
     }
   },
   {
@@ -1630,6 +2605,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.476,
       "zone_centrality": 0.0
+    },
+    "context": {
+      "borough_name": null,
+      "annualised_total": 3276268.0,
+      "borough_children_share": null,
+      "borough_student_age_share": null,
+      "borough_young_professional_share": null,
+      "total_retail": 0.0,
+      "total_dining": 0.0,
+      "total_tourism": 0.0,
+      "total_office": 0.0,
+      "total_education": 0.0,
+      "total_leisure": 0.0
     }
   },
   {
@@ -1652,6 +2640,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 8.43,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Camden",
+      "annualised_total": 29965071.0,
+      "borough_children_share": 0.1336664469468939,
+      "borough_student_age_share": 0.18603965096822667,
+      "borough_young_professional_share": 0.20026919513420577,
+      "total_retail": 152.0,
+      "total_dining": 360.0,
+      "total_tourism": 120.0,
+      "total_office": 162.0,
+      "total_education": 121.0,
+      "total_leisure": 130.0
     }
   },
   {
@@ -1675,6 +2676,19 @@
       "interchange_score": 2.5,
       "footfall_proxy": 6.678,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Camden",
+      "annualised_total": 11239346.0,
+      "borough_children_share": 0.1336664469468939,
+      "borough_student_age_share": 0.18603965096822667,
+      "borough_young_professional_share": 0.20026919513420577,
+      "total_retail": 222.0,
+      "total_dining": 412.0,
+      "total_tourism": 116.0,
+      "total_office": 349.0,
+      "total_education": 131.0,
+      "total_leisure": 109.0
     }
   },
   {
@@ -1696,6 +2710,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 2.138,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": "Redbridge",
+      "annualised_total": 885823.0,
+      "borough_children_share": 0.2024617798406754,
+      "borough_student_age_share": 0.13156575797479073,
+      "borough_young_professional_share": 0.15923743349801234,
+      "total_retail": 16.0,
+      "total_dining": 14.0,
+      "total_tourism": 1.0,
+      "total_office": 4.0,
+      "total_education": 9.0,
+      "total_leisure": 86.0
     }
   },
   {
@@ -1719,6 +2746,19 @@
       "interchange_score": 2.5,
       "footfall_proxy": 8.95,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Islington",
+      "annualised_total": 40070382.0,
+      "borough_children_share": 0.13345648898773227,
+      "borough_student_age_share": 0.15143661668699332,
+      "borough_young_professional_share": 0.2616489705143841,
+      "total_retail": 214.0,
+      "total_dining": 503.0,
+      "total_tourism": 79.0,
+      "total_office": 647.0,
+      "total_education": 50.0,
+      "total_leisure": 149.0
     }
   },
   {
@@ -1740,6 +2780,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 5.632,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": "Barnet",
+      "annualised_total": 6258859.0,
+      "borough_children_share": 0.19161091223305765,
+      "borough_student_age_share": 0.11684977163313172,
+      "borough_young_professional_share": 0.14641402296012837,
+      "total_retail": 33.0,
+      "total_dining": 35.0,
+      "total_tourism": 6.0,
+      "total_office": 31.0,
+      "total_education": 10.0,
+      "total_leisure": 68.0
     }
   },
   {
@@ -1762,6 +2815,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 5.844,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Camden",
+      "annualised_total": 7045026.0,
+      "borough_children_share": 0.1336664469468939,
+      "borough_student_age_share": 0.18603965096822667,
+      "borough_young_professional_share": 0.20026919513420577,
+      "total_retail": 60.0,
+      "total_dining": 79.0,
+      "total_tourism": 7.0,
+      "total_office": 50.0,
+      "total_education": 47.0,
+      "total_leisure": 79.0
     }
   },
   {
@@ -1784,6 +2850,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 7.75,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Islington",
+      "annualised_total": 20479785.0,
+      "borough_children_share": 0.13345648898773227,
+      "borough_student_age_share": 0.15143661668699332,
+      "borough_young_professional_share": 0.2616489705143841,
+      "total_retail": 155.0,
+      "total_dining": 181.0,
+      "total_tourism": 24.0,
+      "total_office": 30.0,
+      "total_education": 27.0,
+      "total_leisure": 259.0
     }
   },
   {
@@ -1805,6 +2884,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 5.786,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Hammersmith & Fulham",
+      "annualised_total": 6823150.0,
+      "borough_children_share": 0.14172147524736733,
+      "borough_student_age_share": 0.14244224562370486,
+      "borough_young_professional_share": 0.23704865730018496,
+      "total_retail": 99.0,
+      "total_dining": 135.0,
+      "total_tourism": 10.0,
+      "total_office": 30.0,
+      "total_education": 29.0,
+      "total_leisure": 69.0
     }
   },
   {
@@ -1826,6 +2918,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 5.151,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": "Redbridge",
+      "annualised_total": 4780369.0,
+      "borough_children_share": 0.2024617798406754,
+      "borough_student_age_share": 0.13156575797479073,
+      "borough_young_professional_share": 0.15923743349801234,
+      "total_retail": 48.0,
+      "total_dining": 42.0,
+      "total_tourism": 20.0,
+      "total_office": 39.0,
+      "total_education": 16.0,
+      "total_leisure": 37.0
     }
   },
   {
@@ -1849,6 +2954,19 @@
       "interchange_score": 2.5,
       "footfall_proxy": 6.696,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Kensington & Chelsea",
+      "annualised_total": 11353518.0,
+      "borough_children_share": 0.1302259926099171,
+      "borough_student_age_share": 0.12686308971892774,
+      "borough_young_professional_share": 0.1848627852585837,
+      "total_retail": 113.0,
+      "total_dining": 227.0,
+      "total_tourism": 106.0,
+      "total_office": 111.0,
+      "total_education": 82.0,
+      "total_leisure": 82.0
     }
   },
   {
@@ -1870,6 +2988,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 5.566,
       "zone_centrality": 6.0
+    },
+    "context": {
+      "borough_name": "Barnet",
+      "annualised_total": 6030683.0,
+      "borough_children_share": 0.19161091223305765,
+      "borough_student_age_share": 0.11684977163313172,
+      "borough_young_professional_share": 0.14641402296012837,
+      "total_retail": 22.0,
+      "total_dining": 30.0,
+      "total_tourism": 6.0,
+      "total_office": 7.0,
+      "total_education": 18.0,
+      "total_leisure": 32.0
     }
   },
   {
@@ -1892,6 +3023,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 3.41,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Hammersmith & Fulham",
+      "annualised_total": 1804676.0,
+      "borough_children_share": 0.14172147524736733,
+      "borough_student_age_share": 0.14244224562370486,
+      "borough_young_professional_share": 0.23704865730018496,
+      "total_retail": 255.0,
+      "total_dining": 198.0,
+      "total_tourism": 31.0,
+      "total_office": 120.0,
+      "total_education": 50.0,
+      "total_leisure": 82.0
     }
   },
   {
@@ -1913,6 +3057,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 5.271,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Camden",
+      "annualised_total": 5113576.0,
+      "borough_children_share": 0.1336664469468939,
+      "borough_student_age_share": 0.18603965096822667,
+      "borough_young_professional_share": 0.20026919513420577,
+      "total_retail": 518.0,
+      "total_dining": 810.0,
+      "total_tourism": 168.0,
+      "total_office": 798.0,
+      "total_education": 143.0,
+      "total_leisure": 88.0
     }
   },
   {
@@ -1935,6 +3092,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 0.706,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": null,
+      "annualised_total": 397280.0,
+      "borough_children_share": null,
+      "borough_student_age_share": null,
+      "borough_young_professional_share": null,
+      "total_retail": 0.0,
+      "total_dining": 0.0,
+      "total_tourism": 0.0,
+      "total_office": 0.0,
+      "total_education": 2.0,
+      "total_leisure": 9.0
     }
   },
   {
@@ -1958,6 +3128,19 @@
       "interchange_score": 2.5,
       "footfall_proxy": 5.351,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Westminster",
+      "annualised_total": 5347065.0,
+      "borough_children_share": 0.11697365664107888,
+      "borough_student_age_share": 0.14739328368159393,
+      "borough_young_professional_share": 0.22449951427646242,
+      "total_retail": 256.0,
+      "total_dining": 349.0,
+      "total_tourism": 95.0,
+      "total_office": 476.0,
+      "total_education": 102.0,
+      "total_leisure": 102.0
     }
   },
   {
@@ -1981,6 +3164,19 @@
       "interchange_score": 2.5,
       "footfall_proxy": 8.325,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Westminster",
+      "annualised_total": 28247401.0,
+      "borough_children_share": 0.11697365664107888,
+      "borough_student_age_share": 0.14739328368159393,
+      "borough_young_professional_share": 0.22449951427646242,
+      "total_retail": 614.0,
+      "total_dining": 501.0,
+      "total_tourism": 115.0,
+      "total_office": 255.0,
+      "total_education": 9.0,
+      "total_leisure": 63.0
     }
   },
   {
@@ -2002,6 +3198,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.472,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": "Ealing",
+      "annualised_total": 3269238.0,
+      "borough_children_share": 0.1756726297654054,
+      "borough_student_age_share": 0.13436791585165225,
+      "borough_young_professional_share": 0.16826042462790006,
+      "total_retail": 22.0,
+      "total_dining": 14.0,
+      "total_tourism": 3.0,
+      "total_office": 14.0,
+      "total_education": 11.0,
+      "total_leisure": 16.0
     }
   },
   {
@@ -2023,6 +3232,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.853,
       "zone_centrality": 6.0
+    },
+    "context": {
+      "borough_name": "Hounslow",
+      "annualised_total": 4045767.0,
+      "borough_children_share": 0.18690552527519505,
+      "borough_student_age_share": 0.1229360371914075,
+      "borough_young_professional_share": 0.15777292401410709,
+      "total_retail": 42.0,
+      "total_dining": 47.0,
+      "total_tourism": 6.0,
+      "total_office": 57.0,
+      "total_education": 11.0,
+      "total_leisure": 18.0
     }
   },
   {
@@ -2044,6 +3266,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.233,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": "Redbridge",
+      "annualised_total": 2861021.0,
+      "borough_children_share": 0.2024617798406754,
+      "borough_student_age_share": 0.13156575797479073,
+      "borough_young_professional_share": 0.15923743349801234,
+      "total_retail": 12.0,
+      "total_dining": 6.0,
+      "total_tourism": 0.0,
+      "total_office": 2.0,
+      "total_education": 2.0,
+      "total_leisure": 72.0
     }
   },
   {
@@ -2066,6 +3301,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 7.734,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Hammersmith & Fulham",
+      "annualised_total": 20290665.0,
+      "borough_children_share": 0.14172147524736733,
+      "borough_student_age_share": 0.14244224562370486,
+      "borough_young_professional_share": 0.23704865730018496,
+      "total_retail": 77.0,
+      "total_dining": 150.0,
+      "total_tourism": 30.0,
+      "total_office": 158.0,
+      "total_education": 74.0,
+      "total_leisure": 117.0
     }
   },
   {
@@ -2088,6 +3336,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 6.222,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Hammersmith & Fulham",
+      "annualised_total": 8707793.0,
+      "borough_children_share": 0.14172147524736733,
+      "borough_student_age_share": 0.14244224562370486,
+      "borough_young_professional_share": 0.23704865730018496,
+      "total_retail": 77.0,
+      "total_dining": 162.0,
+      "total_tourism": 31.0,
+      "total_office": 168.0,
+      "total_education": 75.0,
+      "total_leisure": 118.0
     }
   },
   {
@@ -2109,6 +3370,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.782,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Camden",
+      "annualised_total": 3889479.0,
+      "borough_children_share": 0.1336664469468939,
+      "borough_student_age_share": 0.18603965096822667,
+      "borough_young_professional_share": 0.20026919513420577,
+      "total_retail": 42.0,
+      "total_dining": 57.0,
+      "total_tourism": 4.0,
+      "total_office": 16.0,
+      "total_education": 30.0,
+      "total_leisure": 37.0
     }
   },
   {
@@ -2130,6 +3404,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.026,
       "zone_centrality": 6.0
+    },
+    "context": {
+      "borough_name": "Ealing",
+      "annualised_total": 2547324.0,
+      "borough_children_share": 0.1756726297654054,
+      "borough_student_age_share": 0.13436791585165225,
+      "borough_young_professional_share": 0.16826042462790006,
+      "total_retail": 19.0,
+      "total_dining": 14.0,
+      "total_tourism": 9.0,
+      "total_office": 17.0,
+      "total_education": 5.0,
+      "total_leisure": 12.0
     }
   },
   {
@@ -2151,6 +3438,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 3.968,
       "zone_centrality": 6.0
+    },
+    "context": {
+      "borough_name": "Brent",
+      "annualised_total": 2466317.0,
+      "borough_children_share": 0.17527253977607543,
+      "borough_student_age_share": 0.1460410906123929,
+      "borough_young_professional_share": 0.18031254249580708,
+      "total_retail": 64.0,
+      "total_dining": 33.0,
+      "total_tourism": 7.0,
+      "total_office": 12.0,
+      "total_education": 7.0,
+      "total_leisure": 16.0
     }
   },
   {
@@ -2172,6 +3472,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.614,
       "zone_centrality": 2.0
+    },
+    "context": {
+      "borough_name": "Harrow",
+      "annualised_total": 3540050.0,
+      "borough_children_share": 0.18438335721989924,
+      "borough_student_age_share": 0.11851184231911467,
+      "borough_young_professional_share": 0.1547775594332235,
+      "total_retail": 74.0,
+      "total_dining": 55.0,
+      "total_tourism": 3.0,
+      "total_office": 35.0,
+      "total_education": 10.0,
+      "total_leisure": 14.0
     }
   },
   {
@@ -2193,6 +3506,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 6.165,
       "zone_centrality": 2.0
+    },
+    "context": {
+      "borough_name": "Harrow",
+      "annualised_total": 8435460.0,
+      "borough_children_share": 0.18438335721989924,
+      "borough_student_age_share": 0.11851184231911467,
+      "borough_young_professional_share": 0.1547775594332235,
+      "total_retail": 86.0,
+      "total_dining": 91.0,
+      "total_tourism": 10.0,
+      "total_office": 49.0,
+      "total_education": 21.0,
+      "total_leisure": 28.0
     }
   },
   {
@@ -2214,6 +3540,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.228,
       "zone_centrality": 2.0
+    },
+    "context": {
+      "borough_name": "Hillingdon",
+      "annualised_total": 2852360.0,
+      "borough_children_share": 0.1912359311633276,
+      "borough_student_age_share": 0.13345687075656545,
+      "borough_young_professional_share": 0.15536552394550177,
+      "total_retail": 0.0,
+      "total_dining": 3.0,
+      "total_tourism": 3.0,
+      "total_office": 19.0,
+      "total_education": 0.0,
+      "total_leisure": 9.0
     }
   },
   {
@@ -2235,6 +3574,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 3.022,
       "zone_centrality": 0.0
+    },
+    "context": {
+      "borough_name": "Hillingdon",
+      "annualised_total": 1452783.0,
+      "borough_children_share": 0.1912359311633276,
+      "borough_student_age_share": 0.13345687075656545,
+      "borough_young_professional_share": 0.15536552394550177,
+      "total_retail": 14.0,
+      "total_dining": 9.0,
+      "total_tourism": 10.0,
+      "total_office": 7.0,
+      "total_education": 0.0,
+      "total_leisure": 1.0
     }
   },
   {
@@ -2256,6 +3608,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.614,
       "zone_centrality": 0.0
+    },
+    "context": {
+      "borough_name": "Hillingdon",
+      "annualised_total": 3540730.0,
+      "borough_children_share": 0.1912359311633276,
+      "borough_student_age_share": 0.13345687075656545,
+      "borough_young_professional_share": 0.15536552394550177,
+      "total_retail": 16.0,
+      "total_dining": 17.0,
+      "total_tourism": 2.0,
+      "total_office": 4.0,
+      "total_education": 1.0,
+      "total_leisure": 1.0
     }
   },
   {
@@ -2277,6 +3642,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 5.358,
       "zone_centrality": 0.0
+    },
+    "context": {
+      "borough_name": "Hillingdon",
+      "annualised_total": 5368454.0,
+      "borough_children_share": 0.1912359311633276,
+      "borough_student_age_share": 0.13345687075656545,
+      "borough_young_professional_share": 0.15536552394550177,
+      "total_retail": 39.0,
+      "total_dining": 34.0,
+      "total_tourism": 4.0,
+      "total_office": 6.0,
+      "total_education": 0.0,
+      "total_leisure": 0.0
     }
   },
   {
@@ -2298,6 +3676,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 5.294,
       "zone_centrality": 6.0
+    },
+    "context": {
+      "borough_name": "Barnet",
+      "annualised_total": 5179915.0,
+      "borough_children_share": 0.19161091223305765,
+      "borough_student_age_share": 0.11684977163313172,
+      "borough_young_professional_share": 0.14641402296012837,
+      "total_retail": 49.0,
+      "total_dining": 41.0,
+      "total_tourism": 3.0,
+      "total_office": 9.0,
+      "total_education": 24.0,
+      "total_leisure": 29.0
     }
   },
   {
@@ -2319,6 +3710,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.467,
       "zone_centrality": 2.0
+    },
+    "context": {
+      "borough_name": "Barnet",
+      "annualised_total": 3259745.0,
+      "borough_children_share": 0.19161091223305765,
+      "borough_student_age_share": 0.11684977163313172,
+      "borough_young_professional_share": 0.14641402296012837,
+      "total_retail": 39.0,
+      "total_dining": 44.0,
+      "total_tourism": 3.0,
+      "total_office": 18.0,
+      "total_education": 8.0,
+      "total_leisure": 40.0
     }
   },
   {
@@ -2341,6 +3745,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 6.361,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Kensington & Chelsea",
+      "annualised_total": 9413060.0,
+      "borough_children_share": 0.1302259926099171,
+      "borough_student_age_share": 0.12686308971892774,
+      "borough_young_professional_share": 0.1848627852585837,
+      "total_retail": 136.0,
+      "total_dining": 151.0,
+      "total_tourism": 51.0,
+      "total_office": 98.0,
+      "total_education": 25.0,
+      "total_leisure": 113.0
     }
   },
   {
@@ -2362,6 +3779,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 7.089,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Islington",
+      "annualised_total": 14142708.0,
+      "borough_children_share": 0.13345648898773227,
+      "borough_student_age_share": 0.15143661668699332,
+      "borough_young_professional_share": 0.2616489705143841,
+      "total_retail": 100.0,
+      "total_dining": 151.0,
+      "total_tourism": 30.0,
+      "total_office": 43.0,
+      "total_education": 52.0,
+      "total_leisure": 130.0
     }
   },
   {
@@ -2383,6 +3813,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 5.006,
       "zone_centrality": 6.0
+    },
+    "context": {
+      "borough_name": "Haringey",
+      "annualised_total": 4408040.0,
+      "borough_children_share": 0.16769755542922116,
+      "borough_student_age_share": 0.12113321963236688,
+      "borough_young_professional_share": 0.18632177373507675,
+      "total_retail": 40.0,
+      "total_dining": 42.0,
+      "total_tourism": 18.0,
+      "total_office": 21.0,
+      "total_education": 27.0,
+      "total_leisure": 46.0
     }
   },
   {
@@ -2405,6 +3848,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 2.922,
       "zone_centrality": 0.0
+    },
+    "context": {
+      "borough_name": "Hillingdon",
+      "annualised_total": 1373730.0,
+      "borough_children_share": 0.1912359311633276,
+      "borough_student_age_share": 0.13345687075656545,
+      "borough_young_professional_share": 0.15536552394550177,
+      "total_retail": 3.0,
+      "total_dining": 2.0,
+      "total_tourism": 0.0,
+      "total_office": 0.0,
+      "total_education": 2.0,
+      "total_leisure": 4.0
     }
   },
   {
@@ -2427,6 +3883,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 7.729,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Camden",
+      "annualised_total": 20240977.0,
+      "borough_children_share": 0.1336664469468939,
+      "borough_student_age_share": 0.18603965096822667,
+      "borough_young_professional_share": 0.20026919513420577,
+      "total_retail": 427.0,
+      "total_dining": 787.0,
+      "total_tourism": 134.0,
+      "total_office": 390.0,
+      "total_education": 116.0,
+      "total_leisure": 126.0
     }
   },
   {
@@ -2448,6 +3917,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.079,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Kensington & Chelsea",
+      "annualised_total": 2624208.0,
+      "borough_children_share": 0.1302259926099171,
+      "borough_student_age_share": 0.12686308971892774,
+      "borough_young_professional_share": 0.1848627852585837,
+      "total_retail": 137.0,
+      "total_dining": 84.0,
+      "total_tourism": 35.0,
+      "total_office": 65.0,
+      "total_education": 35.0,
+      "total_leisure": 146.0
     }
   },
   {
@@ -2469,6 +3951,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 5.269,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Islington",
+      "annualised_total": 5106522.0,
+      "borough_children_share": 0.13345648898773227,
+      "borough_student_age_share": 0.15143661668699332,
+      "borough_young_professional_share": 0.2616489705143841,
+      "total_retail": 97.0,
+      "total_dining": 146.0,
+      "total_tourism": 15.0,
+      "total_office": 21.0,
+      "total_education": 44.0,
+      "total_leisure": 85.0
     }
   },
   {
@@ -2490,6 +3985,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 3.221,
       "zone_centrality": 0.0
+    },
+    "context": {
+      "borough_name": "Havering",
+      "annualised_total": 1623305.0,
+      "borough_children_share": 0.19374968328543402,
+      "borough_student_age_share": 0.10908011611660888,
+      "borough_young_professional_share": 0.13636100393088021,
+      "total_retail": 51.0,
+      "total_dining": 11.0,
+      "total_tourism": 2.0,
+      "total_office": 4.0,
+      "total_education": 18.0,
+      "total_leisure": 22.0
     }
   },
   {
@@ -2511,6 +4019,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.318,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": "Hounslow",
+      "annualised_total": 3000487.0,
+      "borough_children_share": 0.18690552527519505,
+      "borough_student_age_share": 0.1229360371914075,
+      "borough_young_professional_share": 0.15777292401410709,
+      "total_retail": 88.0,
+      "total_dining": 79.0,
+      "total_tourism": 6.0,
+      "total_office": 27.0,
+      "total_education": 26.0,
+      "total_leisure": 39.0
     }
   },
   {
@@ -2532,6 +4053,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.526,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": "Hounslow",
+      "annualised_total": 3370726.0,
+      "borough_children_share": 0.18690552527519505,
+      "borough_student_age_share": 0.1229360371914075,
+      "borough_young_professional_share": 0.15777292401410709,
+      "total_retail": 63.0,
+      "total_dining": 72.0,
+      "total_tourism": 4.0,
+      "total_office": 24.0,
+      "total_education": 18.0,
+      "total_leisure": 38.0
     }
   },
   {
@@ -2553,6 +4087,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.179,
       "zone_centrality": 2.0
+    },
+    "context": {
+      "borough_name": "Hounslow",
+      "annualised_total": 2776023.0,
+      "borough_children_share": 0.18690552527519505,
+      "borough_student_age_share": 0.1229360371914075,
+      "borough_young_professional_share": 0.15777292401410709,
+      "total_retail": 18.0,
+      "total_dining": 12.0,
+      "total_tourism": 0.0,
+      "total_office": 3.0,
+      "total_education": 11.0,
+      "total_leisure": 18.0
     }
   },
   {
@@ -2574,6 +4121,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.902,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Westminster",
+      "annualised_total": 4159381.0,
+      "borough_children_share": 0.11697365664107888,
+      "borough_student_age_share": 0.14739328368159393,
+      "borough_young_professional_share": 0.22449951427646242,
+      "total_retail": 178.0,
+      "total_dining": 167.0,
+      "total_tourism": 67.0,
+      "total_office": 154.0,
+      "total_education": 8.0,
+      "total_leisure": 38.0
     }
   },
   {
@@ -2596,6 +4156,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 2.073,
       "zone_centrality": 0.0
+    },
+    "context": {
+      "borough_name": "Hillingdon",
+      "annualised_total": 853803.0,
+      "borough_children_share": 0.1912359311633276,
+      "borough_student_age_share": 0.13345687075656545,
+      "borough_young_professional_share": 0.15536552394550177,
+      "total_retail": 9.0,
+      "total_dining": 4.0,
+      "total_tourism": 1.0,
+      "total_office": 2.0,
+      "total_education": 6.0,
+      "total_leisure": 18.0
     }
   },
   {
@@ -2617,6 +4190,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 5.095,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Lambeth",
+      "annualised_total": 4633070.0,
+      "borough_children_share": 0.1330966805502966,
+      "borough_student_age_share": 0.13179351255837435,
+      "borough_young_professional_share": 0.27245677142496527,
+      "total_retail": 109.0,
+      "total_dining": 103.0,
+      "total_tourism": 24.0,
+      "total_office": 52.0,
+      "total_education": 26.0,
+      "total_leisure": 144.0
     }
   },
   {
@@ -2638,6 +4224,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 3.422,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Brent",
+      "annualised_total": 1817060.0,
+      "borough_children_share": 0.17527253977607543,
+      "borough_student_age_share": 0.1460410906123929,
+      "borough_young_professional_share": 0.18031254249580708,
+      "total_retail": 64.0,
+      "total_dining": 63.0,
+      "total_tourism": 11.0,
+      "total_office": 43.0,
+      "total_education": 21.0,
+      "total_leisure": 42.0
     }
   },
   {
@@ -2659,6 +4258,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 5.088,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Hammersmith & Fulham",
+      "annualised_total": null,
+      "borough_children_share": 0.14172147524736733,
+      "borough_student_age_share": 0.14244224562370486,
+      "borough_young_professional_share": 0.23704865730018496,
+      "total_retail": 61.0,
+      "total_dining": 77.0,
+      "total_tourism": 29.0,
+      "total_office": 115.0,
+      "total_education": 50.0,
+      "total_leisure": 88.0
     }
   },
   {
@@ -2680,6 +4292,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 5.088,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Camden",
+      "annualised_total": null,
+      "borough_children_share": 0.1336664469468939,
+      "borough_student_age_share": 0.18603965096822667,
+      "borough_young_professional_share": 0.20026919513420577,
+      "total_retail": 146.0,
+      "total_dining": 122.0,
+      "total_tourism": 6.0,
+      "total_office": 121.0,
+      "total_education": 33.0,
+      "total_leisure": 166.0
     }
   },
   {
@@ -2701,6 +4326,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 3.098,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": "Brent",
+      "annualised_total": 1515511.0,
+      "borough_children_share": 0.17527253977607543,
+      "borough_student_age_share": 0.1460410906123929,
+      "borough_young_professional_share": 0.18031254249580708,
+      "total_retail": 24.0,
+      "total_dining": 15.0,
+      "total_tourism": 4.0,
+      "total_office": 23.0,
+      "total_education": 21.0,
+      "total_leisure": 27.0
     }
   },
   {
@@ -2722,6 +4360,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.804,
       "zone_centrality": 6.0
+    },
+    "context": {
+      "borough_name": "Richmond upon Thames",
+      "annualised_total": 3937317.0,
+      "borough_children_share": 0.18464698644484895,
+      "borough_student_age_share": 0.10027557733961094,
+      "borough_young_professional_share": 0.11066311432900477,
+      "total_retail": 64.0,
+      "total_dining": 40.0,
+      "total_tourism": 47.0,
+      "total_office": 15.0,
+      "total_education": 15.0,
+      "total_leisure": 56.0
     }
   },
   {
@@ -2743,6 +4394,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 5.425,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Brent",
+      "annualised_total": 5573360.0,
+      "borough_children_share": 0.17527253977607543,
+      "borough_student_age_share": 0.1460410906123929,
+      "borough_young_professional_share": 0.18031254249580708,
+      "total_retail": 41.0,
+      "total_dining": 65.0,
+      "total_tourism": 4.0,
+      "total_office": 18.0,
+      "total_education": 18.0,
+      "total_leisure": 46.0
     }
   },
   {
@@ -2764,6 +4428,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.075,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Brent",
+      "annualised_total": 2617813.0,
+      "borough_children_share": 0.17527253977607543,
+      "borough_student_age_share": 0.1460410906123929,
+      "borough_young_professional_share": 0.18031254249580708,
+      "total_retail": 62.0,
+      "total_dining": 94.0,
+      "total_tourism": 16.0,
+      "total_office": 32.0,
+      "total_education": 33.0,
+      "total_leisure": 112.0
     }
   },
   {
@@ -2790,6 +4467,19 @@
       "interchange_score": 6.25,
       "footfall_proxy": 10.0,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Camden",
+      "annualised_total": 72124262.0,
+      "borough_children_share": 0.1336664469468939,
+      "borough_student_age_share": 0.18603965096822667,
+      "borough_young_professional_share": 0.20026919513420577,
+      "total_retail": 163.0,
+      "total_dining": 347.0,
+      "total_tourism": 127.0,
+      "total_office": 133.0,
+      "total_education": 43.0,
+      "total_leisure": 153.0
     }
   },
   {
@@ -2811,6 +4501,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.576,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": "Brent",
+      "annualised_total": 3466311.0,
+      "borough_children_share": 0.17527253977607543,
+      "borough_student_age_share": 0.1460410906123929,
+      "borough_young_professional_share": 0.18031254249580708,
+      "total_retail": 10.0,
+      "total_dining": 13.0,
+      "total_tourism": 2.0,
+      "total_office": 2.0,
+      "total_education": 11.0,
+      "total_leisure": 21.0
     }
   },
   {
@@ -2840,6 +4543,19 @@
       "interchange_score": 10.0,
       "footfall_proxy": 7.015,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Kensington & Chelsea",
+      "annualised_total": 13568222.0,
+      "borough_children_share": 0.1302259926099171,
+      "borough_student_age_share": 0.12686308971892774,
+      "borough_young_professional_share": 0.1848627852585837,
+      "total_retail": 182.0,
+      "total_dining": 118.0,
+      "total_tourism": 40.0,
+      "total_office": 95.0,
+      "total_education": 7.0,
+      "total_leisure": 55.0
     }
   },
   {
@@ -2862,6 +4578,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 5.48,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Kensington & Chelsea",
+      "annualised_total": 5748997.0,
+      "borough_children_share": 0.1302259926099171,
+      "borough_student_age_share": 0.12686308971892774,
+      "borough_young_professional_share": 0.1848627852585837,
+      "total_retail": 211.0,
+      "total_dining": 137.0,
+      "total_tourism": 22.0,
+      "total_office": 63.0,
+      "total_education": 61.0,
+      "total_leisure": 108.0
     }
   },
   {
@@ -2883,6 +4612,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.123,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Lambeth",
+      "annualised_total": 2689160.0,
+      "borough_children_share": 0.1330966805502966,
+      "borough_student_age_share": 0.13179351255837435,
+      "borough_young_professional_share": 0.27245677142496527,
+      "total_retail": 70.0,
+      "total_dining": 226.0,
+      "total_tourism": 78.0,
+      "total_office": 78.0,
+      "total_education": 60.0,
+      "total_leisure": 117.0
     }
   },
   {
@@ -2904,6 +4646,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.418,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Westminster",
+      "annualised_total": 3172252.0,
+      "borough_children_share": 0.11697365664107888,
+      "borough_student_age_share": 0.14739328368159393,
+      "borough_young_professional_share": 0.22449951427646242,
+      "total_retail": 55.0,
+      "total_dining": 154.0,
+      "total_tourism": 192.0,
+      "total_office": 74.0,
+      "total_education": 12.0,
+      "total_leisure": 38.0
     }
   },
   {
@@ -2926,6 +4681,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 3.55,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Kensington & Chelsea",
+      "annualised_total": 1952034.0,
+      "borough_children_share": 0.1302259926099171,
+      "borough_student_age_share": 0.12686308971892774,
+      "borough_young_professional_share": 0.1848627852585837,
+      "total_retail": 188.0,
+      "total_dining": 79.0,
+      "total_tourism": 10.0,
+      "total_office": 98.0,
+      "total_education": 47.0,
+      "total_leisure": 140.0
     }
   },
   {
@@ -2948,6 +4716,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 8.269,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Westminster",
+      "annualised_total": 27379635.0,
+      "borough_children_share": 0.11697365664107888,
+      "borough_student_age_share": 0.14739328368159393,
+      "borough_young_professional_share": 0.22449951427646242,
+      "total_retail": 906.0,
+      "total_dining": 1434.0,
+      "total_tourism": 158.0,
+      "total_office": 502.0,
+      "total_education": 37.0,
+      "total_leisure": 136.0
     }
   },
   {
@@ -2969,6 +4750,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 6.198,
       "zone_centrality": 6.0
+    },
+    "context": {
+      "borough_name": "Waltham Forest",
+      "annualised_total": 8592536.0,
+      "borough_children_share": 0.18844486070845115,
+      "borough_student_age_share": 0.11269871343440446,
+      "borough_young_professional_share": 0.17277657228039195,
+      "total_retail": 75.0,
+      "total_dining": 60.0,
+      "total_tourism": 61.0,
+      "total_office": 39.0,
+      "total_education": 15.0,
+      "total_leisure": 449.0
     }
   },
   {
@@ -2990,6 +4784,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 5.821,
       "zone_centrality": 6.0
+    },
+    "context": {
+      "borough_name": "Waltham Forest",
+      "annualised_total": 6955728.0,
+      "borough_children_share": 0.18844486070845115,
+      "borough_student_age_share": 0.11269871343440446,
+      "borough_young_professional_share": 0.17277657228039195,
+      "total_retail": 151.0,
+      "total_dining": 69.0,
+      "total_tourism": 6.0,
+      "total_office": 74.0,
+      "total_education": 22.0,
+      "total_leisure": 212.0
     }
   },
   {
@@ -3014,6 +4821,19 @@
       "interchange_score": 3.75,
       "footfall_proxy": 9.587,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "City of London",
+      "annualised_total": 57226398.0,
+      "borough_children_share": 0.044801800013235395,
+      "borough_student_age_share": 0.16762623254582754,
+      "borough_young_professional_share": 0.33902455165111506,
+      "total_retail": 241.0,
+      "total_dining": 812.0,
+      "total_tourism": 80.0,
+      "total_office": 701.0,
+      "total_education": 34.0,
+      "total_leisure": 155.0
     }
   },
   {
@@ -3036,6 +4856,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 9.508,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Southwark",
+      "annualised_total": 54765991.0,
+      "borough_children_share": 0.14535906933599335,
+      "borough_student_age_share": 0.14588005819826802,
+      "borough_young_professional_share": 0.23931496318133588,
+      "total_retail": 118.0,
+      "total_dining": 496.0,
+      "total_tourism": 76.0,
+      "total_office": 384.0,
+      "total_education": 30.0,
+      "total_leisure": 116.0
     }
   },
   {
@@ -3062,6 +4895,19 @@
       "interchange_score": 6.25,
       "footfall_proxy": 4.164,
       "zone_centrality": 0.0
+    },
+    "context": {
+      "borough_name": null,
+      "annualised_total": 2752421.0,
+      "borough_children_share": null,
+      "borough_student_age_share": null,
+      "borough_young_professional_share": null,
+      "total_retail": 0.0,
+      "total_dining": 0.0,
+      "total_tourism": 0.0,
+      "total_office": 0.0,
+      "total_education": 0.0,
+      "total_leisure": 0.0
     }
   },
   {
@@ -3083,6 +4929,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.118,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Westminster",
+      "annualised_total": 2681574.0,
+      "borough_children_share": 0.11697365664107888,
+      "borough_student_age_share": 0.14739328368159393,
+      "borough_young_professional_share": 0.22449951427646242,
+      "total_retail": 31.0,
+      "total_dining": 57.0,
+      "total_tourism": 15.0,
+      "total_office": 31.0,
+      "total_education": 27.0,
+      "total_leisure": 108.0
     }
   },
   {
@@ -3104,6 +4963,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 5.546,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Hackney",
+      "annualised_total": 5962575.0,
+      "borough_children_share": 0.16922079187878153,
+      "borough_student_age_share": 0.1305827753994257,
+      "borough_young_professional_share": 0.2566783376693482,
+      "total_retail": 49.0,
+      "total_dining": 33.0,
+      "total_tourism": 30.0,
+      "total_office": 27.0,
+      "total_education": 13.0,
+      "total_leisure": 211.0
     }
   },
   {
@@ -3126,6 +4998,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 4.993,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "City of London",
+      "annualised_total": 4377539.0,
+      "borough_children_share": 0.044801800013235395,
+      "borough_student_age_share": 0.16762623254582754,
+      "borough_young_professional_share": 0.33902455165111506,
+      "total_retail": 154.0,
+      "total_dining": 588.0,
+      "total_tourism": 94.0,
+      "total_office": 542.0,
+      "total_education": 15.0,
+      "total_leisure": 140.0
     }
   },
   {
@@ -3147,6 +5032,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 6.198,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Westminster",
+      "annualised_total": 8590075.0,
+      "borough_children_share": 0.11697365664107888,
+      "borough_student_age_share": 0.14739328368159393,
+      "borough_young_professional_share": 0.22449951427646242,
+      "total_retail": 288.0,
+      "total_dining": 317.0,
+      "total_tourism": 98.0,
+      "total_office": 354.0,
+      "total_education": 35.0,
+      "total_leisure": 48.0
     }
   },
   {
@@ -3168,6 +5066,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 6.119,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Westminster",
+      "annualised_total": 8219228.0,
+      "borough_children_share": 0.11697365664107888,
+      "borough_student_age_share": 0.14739328368159393,
+      "borough_young_professional_share": 0.22449951427646242,
+      "total_retail": 155.0,
+      "total_dining": 261.0,
+      "total_tourism": 106.0,
+      "total_office": 300.0,
+      "total_education": 82.0,
+      "total_leisure": 98.0
     }
   },
   {
@@ -3191,6 +5102,19 @@
       "interchange_score": 2.5,
       "footfall_proxy": 6.663,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Tower Hamlets",
+      "annualised_total": 11145822.0,
+      "borough_children_share": 0.15874125452715693,
+      "borough_student_age_share": 0.17106476320182232,
+      "borough_young_professional_share": 0.27629668018536485,
+      "total_retail": 132.0,
+      "total_dining": 80.0,
+      "total_tourism": 100.0,
+      "total_office": 75.0,
+      "total_education": 58.0,
+      "total_leisure": 405.0
     }
   },
   {
@@ -3212,6 +5136,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 3.192,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": "Barnet",
+      "annualised_total": 1597432.0,
+      "borough_children_share": 0.19161091223305765,
+      "borough_student_age_share": 0.11684977163313172,
+      "borough_young_professional_share": 0.14641402296012837,
+      "total_retail": 16.0,
+      "total_dining": 4.0,
+      "total_tourism": 0.0,
+      "total_office": 3.0,
+      "total_education": 5.0,
+      "total_leisure": 15.0
     }
   },
   {
@@ -3234,6 +5171,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 8.817,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "City of London",
+      "annualised_total": 37200346.0,
+      "borough_children_share": 0.044801800013235395,
+      "borough_student_age_share": 0.16762623254582754,
+      "borough_young_professional_share": 0.33902455165111506,
+      "total_retail": 178.0,
+      "total_dining": 742.0,
+      "total_tourism": 162.0,
+      "total_office": 532.0,
+      "total_education": 16.0,
+      "total_leisure": 112.0
     }
   },
   {
@@ -3255,6 +5205,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 1.976,
       "zone_centrality": 0.0
+    },
+    "context": {
+      "borough_name": null,
+      "annualised_total": 808774.0,
+      "borough_children_share": null,
+      "borough_student_age_share": null,
+      "borough_young_professional_share": null,
+      "total_retail": 0.0,
+      "total_dining": 0.0,
+      "total_tourism": 0.0,
+      "total_office": 0.0,
+      "total_education": 0.0,
+      "total_leisure": 0.0
     }
   },
   {
@@ -3279,6 +5242,19 @@
       "interchange_score": 3.75,
       "footfall_proxy": 7.983,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "City of London",
+      "annualised_total": 23330204.0,
+      "borough_children_share": 0.044801800013235395,
+      "borough_student_age_share": 0.16762623254582754,
+      "borough_young_professional_share": 0.33902455165111506,
+      "total_retail": 186.0,
+      "total_dining": 704.0,
+      "total_tourism": 81.0,
+      "total_office": 651.0,
+      "total_education": 35.0,
+      "total_leisure": 186.0
     }
   },
   {
@@ -3300,6 +5276,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 6.129,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": "Merton",
+      "annualised_total": 8263631.0,
+      "borough_children_share": 0.1797985714220345,
+      "borough_student_age_share": 0.10674067328943575,
+      "borough_young_professional_share": 0.16681690682212327,
+      "total_retail": 31.0,
+      "total_dining": 24.0,
+      "total_tourism": 9.0,
+      "total_office": 115.0,
+      "total_education": 20.0,
+      "total_leisure": 32.0
     }
   },
   {
@@ -3321,6 +5310,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.298,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Camden",
+      "annualised_total": 2967011.0,
+      "borough_children_share": 0.1336664469468939,
+      "borough_student_age_share": 0.18603965096822667,
+      "borough_young_professional_share": 0.20026919513420577,
+      "total_retail": 200.0,
+      "total_dining": 191.0,
+      "total_tourism": 32.0,
+      "total_office": 52.0,
+      "total_education": 29.0,
+      "total_leisure": 97.0
     }
   },
   {
@@ -3342,6 +5344,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.039,
       "zone_centrality": 6.0
+    },
+    "context": {
+      "borough_name": "Brent",
+      "annualised_total": 2565708.0,
+      "borough_children_share": 0.17527253977607543,
+      "borough_student_age_share": 0.1460410906123929,
+      "borough_young_professional_share": 0.18031254249580708,
+      "total_retail": 11.0,
+      "total_dining": 7.0,
+      "total_tourism": 1.0,
+      "total_office": 10.0,
+      "total_education": 10.0,
+      "total_leisure": 20.0
     }
   },
   {
@@ -3363,6 +5378,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.527,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": "Redbridge",
+      "annualised_total": 3371643.0,
+      "borough_children_share": 0.2024617798406754,
+      "borough_student_age_share": 0.13156575797479073,
+      "borough_young_professional_share": 0.15923743349801234,
+      "total_retail": 31.0,
+      "total_dining": 5.0,
+      "total_tourism": 2.0,
+      "total_office": 6.0,
+      "total_education": 14.0,
+      "total_leisure": 27.0
     }
   },
   {
@@ -3384,6 +5412,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.88,
       "zone_centrality": 0.0
+    },
+    "context": {
+      "borough_name": "Lambeth",
+      "annualised_total": 4108613.0,
+      "borough_children_share": 0.1330966805502966,
+      "borough_student_age_share": 0.13179351255837435,
+      "borough_young_professional_share": 0.27245677142496527,
+      "total_retail": 45.0,
+      "total_dining": 85.0,
+      "total_tourism": 14.0,
+      "total_office": 29.0,
+      "total_education": 10.0,
+      "total_leisure": 125.0
     }
   },
   {
@@ -3405,6 +5446,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 5.45,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Ealing",
+      "annualised_total": 5652447.0,
+      "borough_children_share": 0.1756726297654054,
+      "borough_student_age_share": 0.13436791585165225,
+      "borough_young_professional_share": 0.16826042462790006,
+      "total_retail": 8.0,
+      "total_dining": 23.0,
+      "total_tourism": 11.0,
+      "total_office": 18.0,
+      "total_education": 2.0,
+      "total_leisure": 25.0
     }
   },
   {
@@ -3426,6 +5480,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 1.459,
       "zone_centrality": 6.0
+    },
+    "context": {
+      "borough_name": "Ealing",
+      "annualised_total": 605628.0,
+      "borough_children_share": 0.1756726297654054,
+      "borough_student_age_share": 0.13436791585165225,
+      "borough_young_professional_share": 0.16826042462790006,
+      "total_retail": 16.0,
+      "total_dining": 11.0,
+      "total_tourism": 4.0,
+      "total_office": 4.0,
+      "total_education": 15.0,
+      "total_leisure": 37.0
     }
   },
   {
@@ -3447,6 +5514,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 7.971,
       "zone_centrality": 0.0
+    },
+    "context": {
+      "borough_name": "Greenwich",
+      "annualised_total": 23172392.0,
+      "borough_children_share": 0.1818093800913437,
+      "borough_student_age_share": 0.12415867631740606,
+      "borough_young_professional_share": 0.18587243930450575,
+      "total_retail": 42.0,
+      "total_dining": 50.0,
+      "total_tourism": 8.0,
+      "total_office": 9.0,
+      "total_education": 4.0,
+      "total_leisure": 29.0
     }
   },
   {
@@ -3468,6 +5548,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 2.955,
       "zone_centrality": 2.0
+    },
+    "context": {
+      "borough_name": "Harrow",
+      "annualised_total": 1398638.0,
+      "borough_children_share": 0.18438335721989924,
+      "borough_student_age_share": 0.11851184231911467,
+      "borough_young_professional_share": 0.1547775594332235,
+      "total_retail": 28.0,
+      "total_dining": 25.0,
+      "total_tourism": 4.0,
+      "total_office": 31.0,
+      "total_education": 9.0,
+      "total_leisure": 11.0
     }
   },
   {
@@ -3489,6 +5582,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 2.818,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": "Brent",
+      "annualised_total": 1296040.0,
+      "borough_children_share": 0.17527253977607543,
+      "borough_student_age_share": 0.1460410906123929,
+      "borough_young_professional_share": 0.18031254249580708,
+      "total_retail": 5.0,
+      "total_dining": 1.0,
+      "total_tourism": 0.0,
+      "total_office": 0.0,
+      "total_education": 8.0,
+      "total_leisure": 25.0
     }
   },
   {
@@ -3510,6 +5616,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.184,
       "zone_centrality": 6.0
+    },
+    "context": {
+      "borough_name": "Ealing",
+      "annualised_total": 2782422.0,
+      "borough_children_share": 0.1756726297654054,
+      "borough_student_age_share": 0.13436791585165225,
+      "borough_young_professional_share": 0.16826042462790006,
+      "total_retail": 93.0,
+      "total_dining": 72.0,
+      "total_tourism": 1.0,
+      "total_office": 52.0,
+      "total_education": 15.0,
+      "total_leisure": 47.0
     }
   },
   {
@@ -3531,6 +5650,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.804,
       "zone_centrality": 2.0
+    },
+    "context": {
+      "borough_name": "Ealing",
+      "annualised_total": 3937018.0,
+      "borough_children_share": 0.1756726297654054,
+      "borough_student_age_share": 0.13436791585165225,
+      "borough_young_professional_share": 0.16826042462790006,
+      "total_retail": 16.0,
+      "total_dining": 10.0,
+      "total_tourism": 2.0,
+      "total_office": 4.0,
+      "total_education": 13.0,
+      "total_leisure": 25.0
     }
   },
   {
@@ -3552,6 +5684,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.517,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": "Brent",
+      "annualised_total": 3353641.0,
+      "borough_children_share": 0.17527253977607543,
+      "borough_student_age_share": 0.1460410906123929,
+      "borough_young_professional_share": 0.18031254249580708,
+      "total_retail": 23.0,
+      "total_dining": 15.0,
+      "total_tourism": 9.0,
+      "total_office": 23.0,
+      "total_education": 20.0,
+      "total_leisure": 20.0
     }
   },
   {
@@ -3573,6 +5718,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 3.733,
       "zone_centrality": 0.0
+    },
+    "context": {
+      "borough_name": "Hillingdon",
+      "annualised_total": 2162088.0,
+      "borough_children_share": 0.1912359311633276,
+      "borough_student_age_share": 0.13345687075656545,
+      "borough_young_professional_share": 0.15536552394550177,
+      "total_retail": 10.0,
+      "total_dining": 17.0,
+      "total_tourism": 0.0,
+      "total_office": 8.0,
+      "total_education": 12.0,
+      "total_leisure": 20.0
     }
   },
   {
@@ -3594,6 +5752,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 2.967,
       "zone_centrality": 0.0
+    },
+    "context": {
+      "borough_name": "Hillingdon",
+      "annualised_total": 1408690.0,
+      "borough_children_share": 0.1912359311633276,
+      "borough_student_age_share": 0.13345687075656545,
+      "borough_young_professional_share": 0.15536552394550177,
+      "total_retail": 25.0,
+      "total_dining": 36.0,
+      "total_tourism": 1.0,
+      "total_office": 10.0,
+      "total_education": 9.0,
+      "total_leisure": 20.0
     }
   },
   {
@@ -3617,6 +5788,19 @@
       "interchange_score": 2.5,
       "footfall_proxy": 6.812,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Kensington & Chelsea",
+      "annualised_total": 12110869.0,
+      "borough_children_share": 0.1302259926099171,
+      "borough_student_age_share": 0.12686308971892774,
+      "borough_young_professional_share": 0.1848627852585837,
+      "total_retail": 273.0,
+      "total_dining": 200.0,
+      "total_tourism": 90.0,
+      "total_office": 106.0,
+      "total_education": 33.0,
+      "total_leisure": 97.0
     }
   },
   {
@@ -3638,6 +5822,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 3.849,
       "zone_centrality": 2.0
+    },
+    "context": {
+      "borough_name": "Enfield",
+      "annualised_total": 2307306.0,
+      "borough_children_share": 0.20000366486070476,
+      "borough_student_age_share": 0.12773261176298123,
+      "borough_young_professional_share": 0.12931460996719948,
+      "total_retail": 45.0,
+      "total_dining": 14.0,
+      "total_tourism": 0.0,
+      "total_office": 3.0,
+      "total_education": 11.0,
+      "total_leisure": 28.0
     }
   },
   {
@@ -3659,6 +5856,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 7.292,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Islington",
+      "annualised_total": 15846905.0,
+      "borough_children_share": 0.13345648898773227,
+      "borough_student_age_share": 0.15143661668699332,
+      "borough_young_professional_share": 0.2616489705143841,
+      "total_retail": 145.0,
+      "total_dining": 418.0,
+      "total_tourism": 59.0,
+      "total_office": 373.0,
+      "total_education": 37.0,
+      "total_leisure": 129.0
     }
   },
   {
@@ -3680,6 +5890,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 3.277,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": "Hounslow",
+      "annualised_total": 1675267.0,
+      "borough_children_share": 0.18690552527519505,
+      "borough_student_age_share": 0.1229360371914075,
+      "borough_young_professional_share": 0.15777292401410709,
+      "total_retail": 4.0,
+      "total_dining": 5.0,
+      "total_tourism": 2.0,
+      "total_office": 8.0,
+      "total_education": 8.0,
+      "total_leisure": 30.0
     }
   },
   {
@@ -3701,6 +5924,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 5.438,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Lambeth",
+      "annualised_total": 5615724.0,
+      "borough_children_share": 0.1330966805502966,
+      "borough_student_age_share": 0.13179351255837435,
+      "borough_young_professional_share": 0.27245677142496527,
+      "total_retail": 66.0,
+      "total_dining": 79.0,
+      "total_tourism": 36.0,
+      "total_office": 71.0,
+      "total_education": 33.0,
+      "total_leisure": 162.0
     }
   },
   {
@@ -3724,6 +5960,19 @@
       "interchange_score": 2.5,
       "footfall_proxy": 9.384,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Westminster",
+      "annualised_total": 51106043.0,
+      "borough_children_share": 0.11697365664107888,
+      "borough_student_age_share": 0.14739328368159393,
+      "borough_young_professional_share": 0.22449951427646242,
+      "total_retail": 1139.0,
+      "total_dining": 1126.0,
+      "total_tourism": 149.0,
+      "total_office": 933.0,
+      "total_education": 42.0,
+      "total_leisure": 59.0
     }
   },
   {
@@ -3747,6 +5996,19 @@
       "interchange_score": 2.5,
       "footfall_proxy": 9.293,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Westminster",
+      "annualised_total": 48546460.0,
+      "borough_children_share": 0.11697365664107888,
+      "borough_student_age_share": 0.14739328368159393,
+      "borough_young_professional_share": 0.22449951427646242,
+      "total_retail": 120.0,
+      "total_dining": 245.0,
+      "total_tourism": 185.0,
+      "total_office": 156.0,
+      "total_education": 24.0,
+      "total_leisure": 73.0
     }
   },
   {
@@ -3769,6 +6031,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 9.293,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Westminster",
+      "annualised_total": 48546460.0,
+      "borough_children_share": 0.11697365664107888,
+      "borough_student_age_share": 0.14739328368159393,
+      "borough_young_professional_share": 0.22449951427646242,
+      "total_retail": 115.0,
+      "total_dining": 243.0,
+      "total_tourism": 176.0,
+      "total_office": 134.0,
+      "total_education": 25.0,
+      "total_leisure": 76.0
     }
   },
   {
@@ -3790,6 +6065,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 3.255,
       "zone_centrality": 6.0
+    },
+    "context": {
+      "borough_name": "Ealing",
+      "annualised_total": 1654538.0,
+      "borough_children_share": 0.1756726297654054,
+      "borough_student_age_share": 0.13436791585165225,
+      "borough_young_professional_share": 0.16826042462790006,
+      "total_retail": 12.0,
+      "total_dining": 13.0,
+      "total_tourism": 5.0,
+      "total_office": 19.0,
+      "total_education": 7.0,
+      "total_leisure": 10.0
     }
   },
   {
@@ -3811,6 +6099,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 5.423,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Hammersmith & Fulham",
+      "annualised_total": 5568858.0,
+      "borough_children_share": 0.14172147524736733,
+      "borough_student_age_share": 0.14244224562370486,
+      "borough_young_professional_share": 0.23704865730018496,
+      "total_retail": 79.0,
+      "total_dining": 124.0,
+      "total_tourism": 0.0,
+      "total_office": 71.0,
+      "total_education": 26.0,
+      "total_leisure": 47.0
     }
   },
   {
@@ -3832,6 +6133,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 3.327,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": "Ealing",
+      "annualised_total": 1722368.0,
+      "borough_children_share": 0.1756726297654054,
+      "borough_student_age_share": 0.13436791585165225,
+      "borough_young_professional_share": 0.16826042462790006,
+      "total_retail": 12.0,
+      "total_dining": 6.0,
+      "total_tourism": 5.0,
+      "total_office": 4.0,
+      "total_education": 4.0,
+      "total_leisure": 17.0
     }
   },
   {
@@ -3854,6 +6168,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 8.227,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Westminster",
+      "annualised_total": 26739879.0,
+      "borough_children_share": 0.11697365664107888,
+      "borough_student_age_share": 0.14739328368159393,
+      "borough_young_professional_share": 0.22449951427646242,
+      "total_retail": 1140.0,
+      "total_dining": 1327.0,
+      "total_tourism": 155.0,
+      "total_office": 464.0,
+      "total_education": 19.0,
+      "total_leisure": 117.0
     }
   },
   {
@@ -3875,6 +6202,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 5.854,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Westminster",
+      "annualised_total": 7087668.0,
+      "borough_children_share": 0.11697365664107888,
+      "borough_student_age_share": 0.14739328368159393,
+      "borough_young_professional_share": 0.22449951427646242,
+      "total_retail": 130.0,
+      "total_dining": 151.0,
+      "total_tourism": 75.0,
+      "total_office": 111.0,
+      "total_education": 43.0,
+      "total_leisure": 125.0
     }
   },
   {
@@ -3896,6 +6236,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 3.783,
       "zone_centrality": 2.0
+    },
+    "context": {
+      "borough_name": "Harrow",
+      "annualised_total": 2223811.0,
+      "borough_children_share": 0.18438335721989924,
+      "borough_student_age_share": 0.11851184231911467,
+      "borough_young_professional_share": 0.1547775594332235,
+      "total_retail": 29.0,
+      "total_dining": 26.0,
+      "total_tourism": 1.0,
+      "total_office": 13.0,
+      "total_education": 4.0,
+      "total_leisure": 21.0
     }
   },
   {
@@ -3918,6 +6271,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 4.996,
       "zone_centrality": 6.0
+    },
+    "context": {
+      "borough_name": "Newham",
+      "annualised_total": 4383503.0,
+      "borough_children_share": 0.18855717806383052,
+      "borough_student_age_share": 0.15815317083329997,
+      "borough_young_professional_share": 0.22160988777725266,
+      "total_retail": 69.0,
+      "total_dining": 34.0,
+      "total_tourism": 2.0,
+      "total_office": 45.0,
+      "total_education": 31.0,
+      "total_leisure": 624.0
     }
   },
   {
@@ -3939,6 +6305,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 3.937,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": "Brent",
+      "annualised_total": 2423452.0,
+      "borough_children_share": 0.17527253977607543,
+      "borough_student_age_share": 0.1460410906123929,
+      "borough_young_professional_share": 0.18031254249580708,
+      "total_retail": 14.0,
+      "total_dining": 25.0,
+      "total_tourism": 10.0,
+      "total_office": 13.0,
+      "total_education": 8.0,
+      "total_leisure": 25.0
     }
   },
   {
@@ -3960,6 +6339,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 5.234,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Hammersmith & Fulham",
+      "annualised_total": 5008989.0,
+      "borough_children_share": 0.14172147524736733,
+      "borough_student_age_share": 0.14244224562370486,
+      "borough_young_professional_share": 0.23704865730018496,
+      "total_retail": 145.0,
+      "total_dining": 99.0,
+      "total_tourism": 8.0,
+      "total_office": 93.0,
+      "total_education": 13.0,
+      "total_leisure": 152.0
     }
   },
   {
@@ -3981,6 +6373,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.992,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Brent",
+      "annualised_total": 4373423.0,
+      "borough_children_share": 0.17527253977607543,
+      "borough_student_age_share": 0.1460410906123929,
+      "borough_young_professional_share": 0.18031254249580708,
+      "total_retail": 37.0,
+      "total_dining": 51.0,
+      "total_tourism": 4.0,
+      "total_office": 25.0,
+      "total_education": 31.0,
+      "total_leisure": 85.0
     }
   },
   {
@@ -4002,6 +6407,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.354,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": "Brent",
+      "annualised_total": 3061427.0,
+      "borough_children_share": 0.17527253977607543,
+      "borough_student_age_share": 0.1460410906123929,
+      "borough_young_professional_share": 0.18031254249580708,
+      "total_retail": 17.0,
+      "total_dining": 12.0,
+      "total_tourism": 0.0,
+      "total_office": 6.0,
+      "total_education": 7.0,
+      "total_leisure": 9.0
     }
   },
   {
@@ -4023,6 +6441,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 5.601,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Westminster",
+      "annualised_total": 6151983.0,
+      "borough_children_share": 0.11697365664107888,
+      "borough_student_age_share": 0.14739328368159393,
+      "borough_young_professional_share": 0.22449951427646242,
+      "total_retail": 163.0,
+      "total_dining": 202.0,
+      "total_tourism": 133.0,
+      "total_office": 92.0,
+      "total_education": 30.0,
+      "total_leisure": 56.0
     }
   },
   {
@@ -4044,6 +6475,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.141,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Hammersmith & Fulham",
+      "annualised_total": 2717311.0,
+      "borough_children_share": 0.14172147524736733,
+      "borough_student_age_share": 0.14244224562370486,
+      "borough_young_professional_share": 0.23704865730018496,
+      "total_retail": 83.0,
+      "total_dining": 118.0,
+      "total_tourism": 16.0,
+      "total_office": 86.0,
+      "total_education": 46.0,
+      "total_leisure": 89.0
     }
   },
   {
@@ -4066,6 +6510,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 4.51,
       "zone_centrality": 2.0
+    },
+    "context": {
+      "borough_name": "Harrow",
+      "annualised_total": 3340365.0,
+      "borough_children_share": 0.18438335721989924,
+      "borough_student_age_share": 0.11851184231911467,
+      "borough_young_professional_share": 0.1547775594332235,
+      "total_retail": 18.0,
+      "total_dining": 27.0,
+      "total_tourism": 0.0,
+      "total_office": 15.0,
+      "total_education": 5.0,
+      "total_leisure": 26.0
     }
   },
   {
@@ -4087,6 +6544,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 3.599,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": "Redbridge",
+      "annualised_total": 2005688.0,
+      "borough_children_share": 0.2024617798406754,
+      "borough_student_age_share": 0.13156575797479073,
+      "borough_young_professional_share": 0.15923743349801234,
+      "total_retail": 7.0,
+      "total_dining": 4.0,
+      "total_tourism": 3.0,
+      "total_office": 9.0,
+      "total_education": 6.0,
+      "total_leisure": 50.0
     }
   },
   {
@@ -4108,6 +6578,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 3.842,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Westminster",
+      "annualised_total": 2297814.0,
+      "borough_children_share": 0.11697365664107888,
+      "borough_student_age_share": 0.14739328368159393,
+      "borough_young_professional_share": 0.22449951427646242,
+      "total_retail": 261.0,
+      "total_dining": 364.0,
+      "total_tourism": 101.0,
+      "total_office": 544.0,
+      "total_education": 77.0,
+      "total_leisure": 101.0
     }
   },
   {
@@ -4129,6 +6612,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 6.256,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": "Richmond upon Thames",
+      "annualised_total": 8875310.0,
+      "borough_children_share": 0.18464698644484895,
+      "borough_student_age_share": 0.10027557733961094,
+      "borough_young_professional_share": 0.11066311432900477,
+      "total_retail": 156.0,
+      "total_dining": 149.0,
+      "total_tourism": 14.0,
+      "total_office": 92.0,
+      "total_education": 20.0,
+      "total_leisure": 80.0
     }
   },
   {
@@ -4150,6 +6646,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 3.455,
       "zone_centrality": 0.0
+    },
+    "context": {
+      "borough_name": null,
+      "annualised_total": 1851241.0,
+      "borough_children_share": null,
+      "borough_student_age_share": null,
+      "borough_young_professional_share": null,
+      "total_retail": 0.0,
+      "total_dining": 0.0,
+      "total_tourism": 0.0,
+      "total_office": 0.0,
+      "total_education": 0.0,
+      "total_leisure": 0.0
     }
   },
   {
@@ -4171,6 +6680,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 0.0,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": null,
+      "annualised_total": 267679.0,
+      "borough_children_share": null,
+      "borough_student_age_share": null,
+      "borough_young_professional_share": null,
+      "total_retail": 1.0,
+      "total_dining": 2.0,
+      "total_tourism": 0.0,
+      "total_office": 0.0,
+      "total_education": 0.0,
+      "total_leisure": 17.0
     }
   },
   {
@@ -4193,6 +6715,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 3.713,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Westminster",
+      "annualised_total": 2138577.0,
+      "borough_children_share": 0.11697365664107888,
+      "borough_student_age_share": 0.14739328368159393,
+      "borough_young_professional_share": 0.22449951427646242,
+      "total_retail": 83.0,
+      "total_dining": 181.0,
+      "total_tourism": 59.0,
+      "total_office": 93.0,
+      "total_education": 38.0,
+      "total_leisure": 86.0
     }
   },
   {
@@ -4215,6 +6750,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 3.036,
       "zone_centrality": 0.0
+    },
+    "context": {
+      "borough_name": "Hillingdon",
+      "annualised_total": 1463521.0,
+      "borough_children_share": 0.1912359311633276,
+      "borough_student_age_share": 0.13345687075656545,
+      "borough_young_professional_share": 0.15536552394550177,
+      "total_retail": 132.0,
+      "total_dining": 35.0,
+      "total_tourism": 2.0,
+      "total_office": 11.0,
+      "total_education": 3.0,
+      "total_leisure": 27.0
     }
   },
   {
@@ -4236,6 +6784,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 1.971,
       "zone_centrality": 2.0
+    },
+    "context": {
+      "borough_name": "Hillingdon",
+      "annualised_total": 806675.0,
+      "borough_children_share": 0.1912359311633276,
+      "borough_student_age_share": 0.13345687075656545,
+      "borough_young_professional_share": 0.15536552394550177,
+      "total_retail": 9.0,
+      "total_dining": 6.0,
+      "total_tourism": 1.0,
+      "total_office": 11.0,
+      "total_education": 5.0,
+      "total_leisure": 34.0
     }
   },
   {
@@ -4258,6 +6819,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 2.951,
       "zone_centrality": 0.0
+    },
+    "context": {
+      "borough_name": "Hillingdon",
+      "annualised_total": 1396078.0,
+      "borough_children_share": 0.1912359311633276,
+      "borough_student_age_share": 0.13345687075656545,
+      "borough_young_professional_share": 0.15536552394550177,
+      "total_retail": 68.0,
+      "total_dining": 20.0,
+      "total_tourism": 1.0,
+      "total_office": 7.0,
+      "total_education": 4.0,
+      "total_leisure": 22.0
     }
   },
   {
@@ -4279,6 +6853,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 6.031,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Camden",
+      "annualised_total": 7822836.0,
+      "borough_children_share": 0.1336664469468939,
+      "borough_student_age_share": 0.18603965096822667,
+      "borough_young_professional_share": 0.20026919513420577,
+      "total_retail": 156.0,
+      "total_dining": 471.0,
+      "total_tourism": 181.0,
+      "total_office": 312.0,
+      "total_education": 137.0,
+      "total_leisure": 129.0
     }
   },
   {
@@ -4300,6 +6887,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 6.82,
       "zone_centrality": 6.0
+    },
+    "context": {
+      "borough_name": "Haringey",
+      "annualised_total": 12165434.0,
+      "borough_children_share": 0.16769755542922116,
+      "borough_student_age_share": 0.12113321963236688,
+      "borough_young_professional_share": 0.18632177373507675,
+      "total_retail": 50.0,
+      "total_dining": 53.0,
+      "total_tourism": 8.0,
+      "total_office": 19.0,
+      "total_education": 15.0,
+      "total_leisure": 56.0
     }
   },
   {
@@ -4321,6 +6921,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 6.85,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Hammersmith & Fulham",
+      "annualised_total": 12373422.0,
+      "borough_children_share": 0.14172147524736733,
+      "borough_student_age_share": 0.14244224562370486,
+      "borough_young_professional_share": 0.23704865730018496,
+      "total_retail": 282.0,
+      "total_dining": 173.0,
+      "total_tourism": 32.0,
+      "total_office": 115.0,
+      "total_education": 52.0,
+      "total_leisure": 101.0
     }
   },
   {
@@ -4343,6 +6956,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 4.443,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Hammersmith & Fulham",
+      "annualised_total": 3216718.0,
+      "borough_children_share": 0.14172147524736733,
+      "borough_student_age_share": 0.14244224562370486,
+      "borough_young_professional_share": 0.23704865730018496,
+      "total_retail": 293.0,
+      "total_dining": 199.0,
+      "total_tourism": 27.0,
+      "total_office": 88.0,
+      "total_education": 37.0,
+      "total_leisure": 102.0
     }
   },
   {
@@ -4365,6 +6991,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 6.96,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Kensington & Chelsea",
+      "annualised_total": 13156281.0,
+      "borough_children_share": 0.1302259926099171,
+      "borough_student_age_share": 0.12686308971892774,
+      "borough_young_professional_share": 0.1848627852585837,
+      "total_retail": 281.0,
+      "total_dining": 149.0,
+      "total_tourism": 52.0,
+      "total_office": 121.0,
+      "total_education": 40.0,
+      "total_leisure": 72.0
     }
   },
   {
@@ -4386,6 +7025,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 3.454,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": "Redbridge",
+      "annualised_total": 1849887.0,
+      "borough_children_share": 0.2024617798406754,
+      "borough_student_age_share": 0.13156575797479073,
+      "borough_young_professional_share": 0.15923743349801234,
+      "total_retail": 32.0,
+      "total_dining": 43.0,
+      "total_tourism": 5.0,
+      "total_office": 64.0,
+      "total_education": 7.0,
+      "total_leisure": 21.0
     }
   },
   {
@@ -4407,6 +7059,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 3.264,
       "zone_centrality": 6.0
+    },
+    "context": {
+      "borough_name": "Ealing",
+      "annualised_total": 1663555.0,
+      "borough_children_share": 0.1756726297654054,
+      "borough_student_age_share": 0.13436791585165225,
+      "borough_young_professional_share": 0.16826042462790006,
+      "total_retail": 88.0,
+      "total_dining": 76.0,
+      "total_tourism": 4.0,
+      "total_office": 55.0,
+      "total_education": 15.0,
+      "total_leisure": 46.0
     }
   },
   {
@@ -4428,6 +7093,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 3.631,
       "zone_centrality": 2.0
+    },
+    "context": {
+      "borough_name": "Harrow",
+      "annualised_total": 2042489.0,
+      "borough_children_share": 0.18438335721989924,
+      "borough_student_age_share": 0.11851184231911467,
+      "borough_young_professional_share": 0.1547775594332235,
+      "total_retail": 30.0,
+      "total_dining": 31.0,
+      "total_tourism": 1.0,
+      "total_office": 15.0,
+      "total_education": 20.0,
+      "total_leisure": 16.0
     }
   },
   {
@@ -4451,6 +7129,19 @@
       "interchange_score": 2.5,
       "footfall_proxy": 8.183,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Kensington & Chelsea",
+      "annualised_total": 26088906.0,
+      "borough_children_share": 0.1302259926099171,
+      "borough_student_age_share": 0.12686308971892774,
+      "borough_young_professional_share": 0.1848627852585837,
+      "total_retail": 191.0,
+      "total_dining": 235.0,
+      "total_tourism": 64.0,
+      "total_office": 119.0,
+      "total_education": 79.0,
+      "total_leisure": 100.0
     }
   },
   {
@@ -4472,6 +7163,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 2.002,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": "Brent",
+      "annualised_total": 820575.0,
+      "borough_children_share": 0.17527253977607543,
+      "borough_student_age_share": 0.1460410906123929,
+      "borough_young_professional_share": 0.18031254249580708,
+      "total_retail": 3.0,
+      "total_dining": 4.0,
+      "total_tourism": 10.0,
+      "total_office": 1.0,
+      "total_education": 8.0,
+      "total_leisure": 23.0
     }
   },
   {
@@ -4493,6 +7197,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 3.083,
       "zone_centrality": 2.0
+    },
+    "context": {
+      "borough_name": "Hillingdon",
+      "annualised_total": 1503305.0,
+      "borough_children_share": 0.1912359311633276,
+      "borough_student_age_share": 0.13345687075656545,
+      "borough_young_professional_share": 0.15536552394550177,
+      "total_retail": 20.0,
+      "total_dining": 12.0,
+      "total_tourism": 1.0,
+      "total_office": 21.0,
+      "total_education": 6.0,
+      "total_leisure": 44.0
     }
   },
   {
@@ -4514,6 +7231,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.648,
       "zone_centrality": 6.0
+    },
+    "context": {
+      "borough_name": "Merton",
+      "annualised_total": 3609039.0,
+      "borough_children_share": 0.1797985714220345,
+      "borough_student_age_share": 0.10674067328943575,
+      "borough_young_professional_share": 0.16681690682212327,
+      "total_retail": 45.0,
+      "total_dining": 58.0,
+      "total_tourism": 6.0,
+      "total_office": 46.0,
+      "total_education": 23.0,
+      "total_leisure": 72.0
     }
   },
   {
@@ -4535,6 +7265,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.855,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": "Redbridge",
+      "annualised_total": 4051381.0,
+      "borough_children_share": 0.2024617798406754,
+      "borough_student_age_share": 0.13156575797479073,
+      "borough_young_professional_share": 0.15923743349801234,
+      "total_retail": 40.0,
+      "total_dining": 48.0,
+      "total_tourism": 1.0,
+      "total_office": 7.0,
+      "total_education": 14.0,
+      "total_leisure": 19.0
     }
   },
   {
@@ -4556,6 +7299,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 5.132,
       "zone_centrality": 6.0
+    },
+    "context": {
+      "borough_name": "Wandsworth",
+      "annualised_total": 4731235.0,
+      "borough_children_share": 0.14748782040840502,
+      "borough_student_age_share": 0.11276598895322149,
+      "borough_young_professional_share": 0.28188535635485923,
+      "total_retail": 69.0,
+      "total_dining": 18.0,
+      "total_tourism": 0.0,
+      "total_office": 7.0,
+      "total_education": 36.0,
+      "total_leisure": 48.0
     }
   },
   {
@@ -4577,6 +7333,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.809,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": "Enfield",
+      "annualised_total": 3947509.0,
+      "borough_children_share": 0.20000366486070476,
+      "borough_student_age_share": 0.12773261176298123,
+      "borough_young_professional_share": 0.12931460996719948,
+      "total_retail": 67.0,
+      "total_dining": 54.0,
+      "total_tourism": 2.0,
+      "total_office": 39.0,
+      "total_education": 20.0,
+      "total_leisure": 46.0
     }
   },
   {
@@ -4598,6 +7367,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 6.181,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Southwark",
+      "annualised_total": 8508705.0,
+      "borough_children_share": 0.14535906933599335,
+      "borough_student_age_share": 0.14588005819826802,
+      "borough_young_professional_share": 0.23931496318133588,
+      "total_retail": 95.0,
+      "total_dining": 317.0,
+      "total_tourism": 74.0,
+      "total_office": 227.0,
+      "total_education": 52.0,
+      "total_leisure": 113.0
     }
   },
   {
@@ -4620,6 +7402,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 6.384,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Westminster",
+      "annualised_total": 9534074.0,
+      "borough_children_share": 0.11697365664107888,
+      "borough_student_age_share": 0.14739328368159393,
+      "borough_young_professional_share": 0.22449951427646242,
+      "total_retail": 65.0,
+      "total_dining": 211.0,
+      "total_tourism": 82.0,
+      "total_office": 227.0,
+      "total_education": 42.0,
+      "total_leisure": 99.0
     }
   },
   {
@@ -4641,6 +7436,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 5.518,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Westminster",
+      "annualised_total": 5870213.0,
+      "borough_children_share": 0.11697365664107888,
+      "borough_student_age_share": 0.14739328368159393,
+      "borough_young_professional_share": 0.22449951427646242,
+      "total_retail": 57.0,
+      "total_dining": 42.0,
+      "total_tourism": 9.0,
+      "total_office": 39.0,
+      "total_education": 31.0,
+      "total_leisure": 51.0
     }
   },
   {
@@ -4662,6 +7470,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 6.318,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "City of London",
+      "annualised_total": 9189088.0,
+      "borough_children_share": 0.044801800013235395,
+      "borough_student_age_share": 0.16762623254582754,
+      "borough_young_professional_share": 0.33902455165111506,
+      "total_retail": 142.0,
+      "total_dining": 530.0,
+      "total_tourism": 93.0,
+      "total_office": 606.0,
+      "total_education": 25.0,
+      "total_leisure": 155.0
     }
   },
   {
@@ -4683,6 +7504,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 3.71,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Hounslow",
+      "annualised_total": 2134593.0,
+      "borough_children_share": 0.18690552527519505,
+      "borough_student_age_share": 0.1229360371914075,
+      "borough_young_professional_share": 0.15777292401410709,
+      "total_retail": 90.0,
+      "total_dining": 107.0,
+      "total_tourism": 12.0,
+      "total_office": 54.0,
+      "total_education": 13.0,
+      "total_leisure": 60.0
     }
   },
   {
@@ -4704,6 +7538,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.32,
       "zone_centrality": 2.0
+    },
+    "context": {
+      "borough_name": "Harrow",
+      "annualised_total": 3002979.0,
+      "borough_children_share": 0.18438335721989924,
+      "borough_student_age_share": 0.11851184231911467,
+      "borough_young_professional_share": 0.1547775594332235,
+      "total_retail": 7.0,
+      "total_dining": 5.0,
+      "total_tourism": 12.0,
+      "total_office": 7.0,
+      "total_education": 4.0,
+      "total_leisure": 11.0
     }
   },
   {
@@ -4726,6 +7573,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 5.278,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Tower Hamlets",
+      "annualised_total": 5133701.0,
+      "borough_children_share": 0.15874125452715693,
+      "borough_student_age_share": 0.17106476320182232,
+      "borough_young_professional_share": 0.27629668018536485,
+      "total_retail": 83.0,
+      "total_dining": 84.0,
+      "total_tourism": 26.0,
+      "total_office": 71.0,
+      "total_education": 69.0,
+      "total_leisure": 751.0
     }
   },
   {
@@ -4748,6 +7608,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 5.927,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Lambeth",
+      "annualised_total": 7381051.0,
+      "borough_children_share": 0.1330966805502966,
+      "borough_student_age_share": 0.13179351255837435,
+      "borough_young_professional_share": 0.27245677142496527,
+      "total_retail": 86.0,
+      "total_dining": 96.0,
+      "total_tourism": 11.0,
+      "total_office": 20.0,
+      "total_education": 24.0,
+      "total_leisure": 93.0
     }
   },
   {
@@ -4769,6 +7642,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 3.909,
       "zone_centrality": 6.0
+    },
+    "context": {
+      "borough_name": "Brent",
+      "annualised_total": 2385943.0,
+      "borough_children_share": 0.17527253977607543,
+      "borough_student_age_share": 0.1460410906123929,
+      "borough_young_professional_share": 0.18031254249580708,
+      "total_retail": 15.0,
+      "total_dining": 8.0,
+      "total_tourism": 0.0,
+      "total_office": 6.0,
+      "total_education": 1.0,
+      "total_leisure": 11.0
     }
   },
   {
@@ -4791,6 +7677,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 9.495,
       "zone_centrality": 0.0
+    },
+    "context": {
+      "borough_name": "Newham",
+      "annualised_total": 54376225.0,
+      "borough_children_share": 0.18855717806383052,
+      "borough_student_age_share": 0.15815317083329997,
+      "borough_young_professional_share": 0.22160988777725266,
+      "total_retail": 234.0,
+      "total_dining": 222.0,
+      "total_tourism": 73.0,
+      "total_office": 228.0,
+      "total_education": 36.0,
+      "total_leisure": 475.0
     }
   },
   {
@@ -4812,6 +7711,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 3.23,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": "Harrow",
+      "annualised_total": 1631696.0,
+      "borough_children_share": 0.18438335721989924,
+      "borough_student_age_share": 0.11851184231911467,
+      "borough_young_professional_share": 0.1547775594332235,
+      "total_retail": 40.0,
+      "total_dining": 24.0,
+      "total_tourism": 2.0,
+      "total_office": 8.0,
+      "total_education": 19.0,
+      "total_leisure": 26.0
     }
   },
   {
@@ -4833,6 +7745,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 3.144,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": "Brent",
+      "annualised_total": 1555062.0,
+      "borough_children_share": 0.17527253977607543,
+      "borough_student_age_share": 0.1460410906123929,
+      "borough_young_professional_share": 0.18031254249580708,
+      "total_retail": 13.0,
+      "total_dining": 5.0,
+      "total_tourism": 2.0,
+      "total_office": 1.0,
+      "total_education": 4.0,
+      "total_leisure": 15.0
     }
   },
   {
@@ -4854,6 +7779,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 5.314,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Camden",
+      "annualised_total": 5236551.0,
+      "borough_children_share": 0.1336664469468939,
+      "borough_student_age_share": 0.18603965096822667,
+      "borough_young_professional_share": 0.20026919513420577,
+      "total_retail": 46.0,
+      "total_dining": 60.0,
+      "total_tourism": 12.0,
+      "total_office": 41.0,
+      "total_education": 47.0,
+      "total_leisure": 79.0
     }
   },
   {
@@ -4876,6 +7814,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 5.845,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Westminster",
+      "annualised_total": 7049636.0,
+      "borough_children_share": 0.11697365664107888,
+      "borough_student_age_share": 0.14739328368159393,
+      "borough_young_professional_share": 0.22449951427646242,
+      "total_retail": 198.0,
+      "total_dining": 543.0,
+      "total_tourism": 95.0,
+      "total_office": 285.0,
+      "total_education": 81.0,
+      "total_leisure": 100.0
     }
   },
   {
@@ -4897,6 +7848,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 1.803,
       "zone_centrality": 0.0
+    },
+    "context": {
+      "borough_name": null,
+      "annualised_total": 734300.0,
+      "borough_children_share": null,
+      "borough_student_age_share": null,
+      "borough_young_professional_share": null,
+      "total_retail": 0.0,
+      "total_dining": 0.0,
+      "total_tourism": 0.0,
+      "total_office": 0.0,
+      "total_education": 0.0,
+      "total_leisure": 0.0
     }
   },
   {
@@ -4918,6 +7882,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 5.634,
       "zone_centrality": 6.0
+    },
+    "context": {
+      "borough_name": "Wandsworth",
+      "annualised_total": 6265211.0,
+      "borough_children_share": 0.14748782040840502,
+      "borough_student_age_share": 0.11276598895322149,
+      "borough_young_professional_share": 0.28188535635485923,
+      "total_retail": 118.0,
+      "total_dining": 66.0,
+      "total_tourism": 3.0,
+      "total_office": 17.0,
+      "total_education": 22.0,
+      "total_leisure": 17.0
     }
   },
   {
@@ -4939,6 +7916,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 6.853,
       "zone_centrality": 6.0
+    },
+    "context": {
+      "borough_name": "Wandsworth",
+      "annualised_total": 12397420.0,
+      "borough_children_share": 0.14748782040840502,
+      "borough_student_age_share": 0.11276598895322149,
+      "borough_young_professional_share": 0.28188535635485923,
+      "total_retail": 294.0,
+      "total_dining": 161.0,
+      "total_tourism": 5.0,
+      "total_office": 38.0,
+      "total_education": 23.0,
+      "total_leisure": 34.0
     }
   },
   {
@@ -4961,6 +7951,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 9.633,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Westminster",
+      "annualised_total": 58726155.0,
+      "borough_children_share": 0.11697365664107888,
+      "borough_student_age_share": 0.14739328368159393,
+      "borough_young_professional_share": 0.22449951427646242,
+      "total_retail": 1044.0,
+      "total_dining": 1480.0,
+      "total_tourism": 171.0,
+      "total_office": 743.0,
+      "total_education": 102.0,
+      "total_leisure": 118.0
     }
   },
   {
@@ -4982,6 +7985,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 6.971,
       "zone_centrality": 6.0
+    },
+    "context": {
+      "borough_name": "Haringey",
+      "annualised_total": 13239937.0,
+      "borough_children_share": 0.16769755542922116,
+      "borough_student_age_share": 0.12113321963236688,
+      "borough_young_professional_share": 0.18632177373507675,
+      "total_retail": 36.0,
+      "total_dining": 38.0,
+      "total_tourism": 13.0,
+      "total_office": 19.0,
+      "total_education": 9.0,
+      "total_leisure": 49.0
     }
   },
   {
@@ -5003,6 +8019,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 3.584,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": "Barnet",
+      "annualised_total": 1989399.0,
+      "borough_children_share": 0.19161091223305765,
+      "borough_student_age_share": 0.11684977163313172,
+      "borough_young_professional_share": 0.14641402296012837,
+      "total_retail": 25.0,
+      "total_dining": 27.0,
+      "total_tourism": 1.0,
+      "total_office": 14.0,
+      "total_education": 7.0,
+      "total_leisure": 44.0
     }
   },
   {
@@ -5025,6 +8054,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 7.19,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Tower Hamlets",
+      "annualised_total": 14965619.0,
+      "borough_children_share": 0.15874125452715693,
+      "borough_student_age_share": 0.17106476320182232,
+      "borough_young_professional_share": 0.27629668018536485,
+      "total_retail": 140.0,
+      "total_dining": 533.0,
+      "total_tourism": 161.0,
+      "total_office": 371.0,
+      "total_education": 25.0,
+      "total_leisure": 133.0
     }
   },
   {
@@ -5046,6 +8088,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 5.186,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Camden",
+      "annualised_total": 4875982.0,
+      "borough_children_share": 0.1336664469468939,
+      "borough_student_age_share": 0.18603965096822667,
+      "borough_young_professional_share": 0.20026919513420577,
+      "total_retail": 59.0,
+      "total_dining": 85.0,
+      "total_tourism": 2.0,
+      "total_office": 42.0,
+      "total_education": 28.0,
+      "total_leisure": 90.0
     }
   },
   {
@@ -5068,6 +8123,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 5.106,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Hounslow",
+      "annualised_total": 4663306.0,
+      "borough_children_share": 0.18690552527519505,
+      "borough_student_age_share": 0.1229360371914075,
+      "borough_young_professional_share": 0.15777292401410709,
+      "total_retail": 89.0,
+      "total_dining": 82.0,
+      "total_tourism": 16.0,
+      "total_office": 37.0,
+      "total_education": 12.0,
+      "total_leisure": 56.0
     }
   },
   {
@@ -5089,6 +8157,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 6.059,
       "zone_centrality": 6.0
+    },
+    "context": {
+      "borough_name": "Haringey",
+      "annualised_total": 7948900.0,
+      "borough_children_share": 0.16769755542922116,
+      "borough_student_age_share": 0.12113321963236688,
+      "borough_young_professional_share": 0.18632177373507675,
+      "total_retail": 189.0,
+      "total_dining": 97.0,
+      "total_tourism": 13.0,
+      "total_office": 74.0,
+      "total_education": 11.0,
+      "total_leisure": 162.0
     }
   },
   {
@@ -5110,6 +8191,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 5.148,
       "zone_centrality": 0.0
+    },
+    "context": {
+      "borough_name": "Havering",
+      "annualised_total": 4774045.0,
+      "borough_children_share": 0.19374968328543402,
+      "borough_student_age_share": 0.10908011611660888,
+      "borough_young_professional_share": 0.13636100393088021,
+      "total_retail": 109.0,
+      "total_dining": 50.0,
+      "total_tourism": 4.0,
+      "total_office": 16.0,
+      "total_education": 26.0,
+      "total_leisure": 15.0
     }
   },
   {
@@ -5131,6 +8225,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 2.041,
       "zone_centrality": 0.0
+    },
+    "context": {
+      "borough_name": "Havering",
+      "annualised_total": 838918.0,
+      "borough_children_share": 0.19374968328543402,
+      "borough_student_age_share": 0.10908011611660888,
+      "borough_young_professional_share": 0.13636100393088021,
+      "total_retail": 14.0,
+      "total_dining": 16.0,
+      "total_tourism": 4.0,
+      "total_office": 4.0,
+      "total_education": 17.0,
+      "total_leisure": 20.0
     }
   },
   {
@@ -5152,6 +8259,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 3.725,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": "Barking & Dagenham",
+      "annualised_total": 2153159.0,
+      "borough_children_share": 0.2367162627230426,
+      "borough_student_age_share": 0.14077517647918125,
+      "borough_young_professional_share": 0.1564918129986638,
+      "total_retail": 18.0,
+      "total_dining": 16.0,
+      "total_tourism": 1.0,
+      "total_office": 2.0,
+      "total_education": 22.0,
+      "total_leisure": 26.0
     }
   },
   {
@@ -5174,6 +8294,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 6.177,
       "zone_centrality": 6.0
+    },
+    "context": {
+      "borough_name": "Newham",
+      "annualised_total": 8491273.0,
+      "borough_children_share": 0.18855717806383052,
+      "borough_student_age_share": 0.15815317083329997,
+      "borough_young_professional_share": 0.22160988777725266,
+      "total_retail": 139.0,
+      "total_dining": 122.0,
+      "total_tourism": 2.0,
+      "total_office": 240.0,
+      "total_education": 53.0,
+      "total_leisure": 252.0
     }
   },
   {
@@ -5196,6 +8329,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 5.375,
       "zone_centrality": 0.0
+    },
+    "context": {
+      "borough_name": "Hillingdon",
+      "annualised_total": 5419509.0,
+      "borough_children_share": 0.1912359311633276,
+      "borough_student_age_share": 0.13345687075656545,
+      "borough_young_professional_share": 0.15536552394550177,
+      "total_retail": 55.0,
+      "total_dining": 53.0,
+      "total_tourism": 11.0,
+      "total_office": 42.0,
+      "total_education": 14.0,
+      "total_leisure": 34.0
     }
   },
   {
@@ -5217,6 +8363,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 7.776,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Lambeth",
+      "annualised_total": 20770515.0,
+      "borough_children_share": 0.1330966805502966,
+      "borough_student_age_share": 0.13179351255837435,
+      "borough_young_professional_share": 0.27245677142496527,
+      "total_retail": 40.0,
+      "total_dining": 98.0,
+      "total_tourism": 40.0,
+      "total_office": 75.0,
+      "total_education": 38.0,
+      "total_leisure": 154.0
     }
   },
   {
@@ -5240,6 +8399,19 @@
       "interchange_score": 2.5,
       "footfall_proxy": 9.658,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Westminster",
+      "annualised_total": 59572570.0,
+      "borough_children_share": 0.11697365664107888,
+      "borough_student_age_share": 0.14739328368159393,
+      "borough_young_professional_share": 0.22449951427646242,
+      "total_retail": 166.0,
+      "total_dining": 313.0,
+      "total_tourism": 117.0,
+      "total_office": 213.0,
+      "total_education": 22.0,
+      "total_leisure": 89.0
     }
   },
   {
@@ -5261,6 +8433,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 6.986,
       "zone_centrality": 6.0
+    },
+    "context": {
+      "borough_name": "Waltham Forest",
+      "annualised_total": 13349683.0,
+      "borough_children_share": 0.18844486070845115,
+      "borough_student_age_share": 0.11269871343440446,
+      "borough_young_professional_share": 0.17277657228039195,
+      "total_retail": 318.0,
+      "total_dining": 119.0,
+      "total_tourism": 14.0,
+      "total_office": 40.0,
+      "total_education": 20.0,
+      "total_leisure": 35.0
     }
   },
   {
@@ -5282,6 +8467,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 3.547,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": "Redbridge",
+      "annualised_total": 1948236.0,
+      "borough_children_share": 0.2024617798406754,
+      "borough_student_age_share": 0.13156575797479073,
+      "borough_young_professional_share": 0.15923743349801234,
+      "total_retail": 34.0,
+      "total_dining": 39.0,
+      "total_tourism": 4.0,
+      "total_office": 64.0,
+      "total_education": 9.0,
+      "total_leisure": 136.0
     }
   },
   {
@@ -5304,6 +8502,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 7.08,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Camden",
+      "annualised_total": 14076462.0,
+      "borough_children_share": 0.1336664469468939,
+      "borough_student_age_share": 0.18603965096822667,
+      "borough_young_professional_share": 0.20026919513420577,
+      "total_retail": 223.0,
+      "total_dining": 401.0,
+      "total_tourism": 98.0,
+      "total_office": 435.0,
+      "total_education": 134.0,
+      "total_leisure": 94.0
     }
   },
   {
@@ -5325,6 +8536,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.33,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Westminster",
+      "annualised_total": 3019402.0,
+      "borough_children_share": 0.11697365664107888,
+      "borough_student_age_share": 0.14739328368159393,
+      "borough_young_professional_share": 0.22449951427646242,
+      "total_retail": 67.0,
+      "total_dining": 122.0,
+      "total_tourism": 9.0,
+      "total_office": 76.0,
+      "total_education": 32.0,
+      "total_leisure": 85.0
     }
   },
   {
@@ -5349,6 +8573,19 @@
       "interchange_score": 3.75,
       "footfall_proxy": 9.955,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Lambeth",
+      "annualised_total": 70329553.0,
+      "borough_children_share": 0.1330966805502966,
+      "borough_student_age_share": 0.13179351255837435,
+      "borough_young_professional_share": 0.27245677142496527,
+      "total_retail": 83.0,
+      "total_dining": 268.0,
+      "total_tourism": 88.0,
+      "total_office": 109.0,
+      "total_education": 27.0,
+      "total_leisure": 99.0
     }
   },
   {
@@ -5370,6 +8607,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 3.254,
       "zone_centrality": 0.0
+    },
+    "context": {
+      "borough_name": null,
+      "annualised_total": 1653584.0,
+      "borough_children_share": null,
+      "borough_student_age_share": null,
+      "borough_young_professional_share": null,
+      "total_retail": 0.0,
+      "total_dining": 0.0,
+      "total_tourism": 0.0,
+      "total_office": 0.0,
+      "total_education": 0.0,
+      "total_leisure": 0.0
     }
   },
   {
@@ -5391,6 +8641,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 5.082,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": "Brent",
+      "annualised_total": 4598994.0,
+      "borough_children_share": 0.17527253977607543,
+      "borough_student_age_share": 0.1460410906123929,
+      "borough_young_professional_share": 0.18031254249580708,
+      "total_retail": 80.0,
+      "total_dining": 69.0,
+      "total_tourism": 5.0,
+      "total_office": 30.0,
+      "total_education": 14.0,
+      "total_leisure": 32.0
     }
   },
   {
@@ -5413,6 +8676,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 7.254,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": "Brent",
+      "annualised_total": 15510977.0,
+      "borough_children_share": 0.17527253977607543,
+      "borough_student_age_share": 0.1460410906123929,
+      "borough_young_professional_share": 0.18031254249580708,
+      "total_retail": 34.0,
+      "total_dining": 35.0,
+      "total_tourism": 5.0,
+      "total_office": 4.0,
+      "total_education": 14.0,
+      "total_leisure": 22.0
     }
   },
   {
@@ -5434,6 +8710,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 2.455,
       "zone_centrality": 6.0
+    },
+    "context": {
+      "borough_name": "Ealing",
+      "annualised_total": 1057631.0,
+      "borough_children_share": 0.1756726297654054,
+      "borough_student_age_share": 0.13436791585165225,
+      "borough_young_professional_share": 0.16826042462790006,
+      "total_retail": 12.0,
+      "total_dining": 10.0,
+      "total_tourism": 1.0,
+      "total_office": 7.0,
+      "total_education": 15.0,
+      "total_leisure": 36.0
     }
   },
   {
@@ -5455,6 +8744,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 5.295,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Kensington & Chelsea",
+      "annualised_total": 5181211.0,
+      "borough_children_share": 0.1302259926099171,
+      "borough_student_age_share": 0.12686308971892774,
+      "borough_young_professional_share": 0.1848627852585837,
+      "total_retail": 114.0,
+      "total_dining": 176.0,
+      "total_tourism": 68.0,
+      "total_office": 59.0,
+      "total_education": 32.0,
+      "total_leisure": 80.0
     }
   },
   {
@@ -5476,6 +8778,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 2.819,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": "Barnet",
+      "annualised_total": 1296777.0,
+      "borough_children_share": 0.19161091223305765,
+      "borough_student_age_share": 0.11684977163313172,
+      "borough_young_professional_share": 0.14641402296012837,
+      "total_retail": 25.0,
+      "total_dining": 25.0,
+      "total_tourism": 4.0,
+      "total_office": 9.0,
+      "total_education": 11.0,
+      "total_leisure": 30.0
     }
   },
   {
@@ -5499,6 +8814,19 @@
       "interchange_score": 2.5,
       "footfall_proxy": 5.348,
       "zone_centrality": 0.0
+    },
+    "context": {
+      "borough_name": "Newham",
+      "annualised_total": 5338957.0,
+      "borough_children_share": 0.18855717806383052,
+      "borough_student_age_share": 0.15815317083329997,
+      "borough_young_professional_share": 0.22160988777725266,
+      "total_retail": 16.0,
+      "total_dining": 14.0,
+      "total_tourism": 10.0,
+      "total_office": 43.0,
+      "total_education": 23.0,
+      "total_leisure": 234.0
     }
   },
   {
@@ -5520,6 +8848,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 5.929,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Camden",
+      "annualised_total": 7390480.0,
+      "borough_children_share": 0.1336664469468939,
+      "borough_student_age_share": 0.18603965096822667,
+      "borough_young_professional_share": 0.20026919513420577,
+      "total_retail": 64.0,
+      "total_dining": 109.0,
+      "total_tourism": 4.0,
+      "total_office": 39.0,
+      "total_education": 18.0,
+      "total_leisure": 96.0
     }
   },
   {
@@ -5541,6 +8882,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 2.361,
       "zone_centrality": 2.0
+    },
+    "context": {
+      "borough_name": "Harrow",
+      "annualised_total": 1003523.0,
+      "borough_children_share": 0.18438335721989924,
+      "borough_student_age_share": 0.11851184231911467,
+      "borough_young_professional_share": 0.1547775594332235,
+      "total_retail": 16.0,
+      "total_dining": 5.0,
+      "total_tourism": 2.0,
+      "total_office": 19.0,
+      "total_education": 7.0,
+      "total_leisure": 31.0
     }
   },
   {
@@ -5562,6 +8916,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.723,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Hammersmith & Fulham",
+      "annualised_total": 3763523.0,
+      "borough_children_share": 0.14172147524736733,
+      "borough_student_age_share": 0.14244224562370486,
+      "borough_young_professional_share": 0.23704865730018496,
+      "total_retail": 73.0,
+      "total_dining": 104.0,
+      "total_tourism": 33.0,
+      "total_office": 88.0,
+      "total_education": 38.0,
+      "total_leisure": 86.0
     }
   },
   {
@@ -5583,6 +8950,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 2.699,
       "zone_centrality": 0.0
+    },
+    "context": {
+      "borough_name": "Hillingdon",
+      "annualised_total": 1212120.0,
+      "borough_children_share": 0.1912359311633276,
+      "borough_student_age_share": 0.13345687075656545,
+      "borough_young_professional_share": 0.15536552394550177,
+      "total_retail": 13.0,
+      "total_dining": 8.0,
+      "total_tourism": 4.0,
+      "total_office": 8.0,
+      "total_education": 3.0,
+      "total_leisure": 20.0
     }
   },
   {
@@ -5605,6 +8985,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 4.609,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Kensington & Chelsea",
+      "annualised_total": 3529781.0,
+      "borough_children_share": 0.1302259926099171,
+      "borough_student_age_share": 0.12686308971892774,
+      "borough_young_professional_share": 0.1848627852585837,
+      "total_retail": 274.0,
+      "total_dining": 211.0,
+      "total_tourism": 20.0,
+      "total_office": 80.0,
+      "total_education": 59.0,
+      "total_leisure": 84.0
     }
   },
   {
@@ -5628,6 +9021,19 @@
       "interchange_score": 2.5,
       "footfall_proxy": 7.633,
       "zone_centrality": 10.0
+    },
+    "context": {
+      "borough_name": "Westminster",
+      "annualised_total": 19172572.0,
+      "borough_children_share": 0.11697365664107888,
+      "borough_student_age_share": 0.14739328368159393,
+      "borough_young_professional_share": 0.22449951427646242,
+      "total_retail": 40.0,
+      "total_dining": 220.0,
+      "total_tourism": 113.0,
+      "total_office": 200.0,
+      "total_education": 33.0,
+      "total_leisure": 82.0
     }
   },
   {
@@ -5649,6 +9055,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 6.046,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Hammersmith & Fulham",
+      "annualised_total": 7890670.0,
+      "borough_children_share": 0.14172147524736733,
+      "borough_student_age_share": 0.14244224562370486,
+      "borough_young_professional_share": 0.23704865730018496,
+      "total_retail": 213.0,
+      "total_dining": 119.0,
+      "total_tourism": 8.0,
+      "total_office": 96.0,
+      "total_education": 48.0,
+      "total_leisure": 153.0
     }
   },
   {
@@ -5671,6 +9090,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 7.465,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Tower Hamlets",
+      "annualised_total": 17452196.0,
+      "borough_children_share": 0.15874125452715693,
+      "borough_student_age_share": 0.17106476320182232,
+      "borough_young_professional_share": 0.27629668018536485,
+      "total_retail": 251.0,
+      "total_dining": 168.0,
+      "total_tourism": 30.0,
+      "total_office": 129.0,
+      "total_education": 57.0,
+      "total_leisure": 180.0
     }
   },
   {
@@ -5693,6 +9125,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 5.377,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Brent",
+      "annualised_total": 5426495.0,
+      "borough_children_share": 0.17527253977607543,
+      "borough_student_age_share": 0.1460410906123929,
+      "borough_young_professional_share": 0.18031254249580708,
+      "total_retail": 36.0,
+      "total_dining": 34.0,
+      "total_tourism": 5.0,
+      "total_office": 16.0,
+      "total_education": 10.0,
+      "total_leisure": 16.0
     }
   },
   {
@@ -5714,6 +9159,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.97,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Brent",
+      "annualised_total": 4321012.0,
+      "borough_children_share": 0.17527253977607543,
+      "borough_student_age_share": 0.1460410906123929,
+      "borough_young_professional_share": 0.18031254249580708,
+      "total_retail": 85.0,
+      "total_dining": 76.0,
+      "total_tourism": 11.0,
+      "total_office": 45.0,
+      "total_education": 15.0,
+      "total_leisure": 13.0
     }
   },
   {
@@ -5735,6 +9193,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 6.676,
       "zone_centrality": 6.0
+    },
+    "context": {
+      "borough_name": "Merton",
+      "annualised_total": 11223888.0,
+      "borough_children_share": 0.1797985714220345,
+      "borough_student_age_share": 0.10674067328943575,
+      "borough_young_professional_share": 0.16681690682212327,
+      "total_retail": 89.0,
+      "total_dining": 94.0,
+      "total_tourism": 7.0,
+      "total_office": 67.0,
+      "total_education": 21.0,
+      "total_leisure": 34.0
     }
   },
   {
@@ -5756,6 +9227,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 3.446,
       "zone_centrality": 6.0
+    },
+    "context": {
+      "borough_name": "Merton",
+      "annualised_total": 1841679.0,
+      "borough_children_share": 0.1797985714220345,
+      "borough_student_age_share": 0.10674067328943575,
+      "borough_young_professional_share": 0.16681690682212327,
+      "total_retail": 43.0,
+      "total_dining": 19.0,
+      "total_tourism": 0.0,
+      "total_office": 32.0,
+      "total_education": 6.0,
+      "total_leisure": 73.0
     }
   },
   {
@@ -5777,6 +9261,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 6.299,
       "zone_centrality": 6.0
+    },
+    "context": {
+      "borough_name": "Haringey",
+      "annualised_total": 9088053.0,
+      "borough_children_share": 0.16769755542922116,
+      "borough_student_age_share": 0.12113321963236688,
+      "borough_young_professional_share": 0.18632177373507675,
+      "total_retail": 98.0,
+      "total_dining": 63.0,
+      "total_tourism": 11.0,
+      "total_office": 53.0,
+      "total_education": 32.0,
+      "total_leisure": 186.0
     }
   },
   {
@@ -5799,6 +9296,19 @@
       "interchange_score": 1.25,
       "footfall_proxy": 5.198,
       "zone_centrality": 8.0
+    },
+    "context": {
+      "borough_name": "Hammersmith & Fulham",
+      "annualised_total": 4909025.0,
+      "borough_children_share": 0.14172147524736733,
+      "borough_student_age_share": 0.14244224562370486,
+      "borough_young_professional_share": 0.23704865730018496,
+      "total_retail": 258.0,
+      "total_dining": 178.0,
+      "total_tourism": 15.0,
+      "total_office": 93.0,
+      "total_education": 54.0,
+      "total_leisure": 146.0
     }
   },
   {
@@ -5820,6 +9330,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 5.04,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": "Redbridge",
+      "annualised_total": 4492296.0,
+      "borough_children_share": 0.2024617798406754,
+      "borough_student_age_share": 0.13156575797479073,
+      "borough_young_professional_share": 0.15923743349801234,
+      "total_retail": 20.0,
+      "total_dining": 9.0,
+      "total_tourism": 0.0,
+      "total_office": 1.0,
+      "total_education": 7.0,
+      "total_leisure": 24.0
     }
   },
   {
@@ -5841,6 +9364,19 @@
       "interchange_score": 0.0,
       "footfall_proxy": 4.672,
       "zone_centrality": 4.0
+    },
+    "context": {
+      "borough_name": "Barnet",
+      "annualised_total": 3657219.0,
+      "borough_children_share": 0.19161091223305765,
+      "borough_student_age_share": 0.11684977163313172,
+      "borough_young_professional_share": 0.14641402296012837,
+      "total_retail": 44.0,
+      "total_dining": 46.0,
+      "total_tourism": 1.0,
+      "total_office": 21.0,
+      "total_education": 21.0,
+      "total_leisure": 18.0
     }
   }
 ]

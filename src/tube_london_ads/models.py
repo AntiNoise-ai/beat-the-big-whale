@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 from dataclasses import dataclass, field
-from typing import Dict, List
+from typing import Any, Dict, List
 
 FEATURE_NAMES = [
     "resident_density",
@@ -25,6 +25,7 @@ class StationFeatureVector:
     lines: List[str]
     zone: int
     features: Dict[str, float]
+    context: Dict[str, Any] = field(default_factory=dict)
 
 
 @dataclass(slots=True)
@@ -41,6 +42,7 @@ class StationRecommendation:
     lines: List[str]
     top_reasons: List[str]
     feature_breakdown: Dict[str, float]
+    context_notes: List[str] = field(default_factory=list)
 
 
 @dataclass(slots=True)

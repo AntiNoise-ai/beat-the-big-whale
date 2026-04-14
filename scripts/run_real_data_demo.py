@@ -33,6 +33,8 @@ def main() -> None:
     for idx, station in enumerate(result.stations, start=1):
         print(f"{idx}. {station.station_name} — {station.score:.2f}")
         print(f"   Why: {'; '.join(station.top_reasons)}")
+        if station.context_notes:
+            print(f"   Context: {'; '.join(station.context_notes)}")
     print("Top lines:")
     for line, score in sorted(result.line_scores.items(), key=lambda item: item[1], reverse=True):
         print(f"- {line}: {score:.2f}")

@@ -257,6 +257,19 @@ def main() -> None:
                     "footfall_proxy": float(row["footfall_proxy"]),
                     "zone_centrality": float(row["zone_centrality"]),
                 },
+                "context": {
+                    "borough_name": None if pd.isna(row["borough_name"]) else row["borough_name"],
+                    "annualised_total": None if pd.isna(row["annualised_total"]) else float(row["annualised_total"]),
+                    "borough_children_share": None if pd.isna(row["borough_children_share"]) else float(row["borough_children_share"]),
+                    "borough_student_age_share": None if pd.isna(row["borough_student_age_share"]) else float(row["borough_student_age_share"]),
+                    "borough_young_professional_share": None if pd.isna(row["borough_young_professional_share"]) else float(row["borough_young_professional_share"]),
+                    "total_retail": None if pd.isna(row["total_retail"]) else float(row["total_retail"]),
+                    "total_dining": None if pd.isna(row["total_dining"]) else float(row["total_dining"]),
+                    "total_tourism": None if pd.isna(row["total_tourism"]) else float(row["total_tourism"]),
+                    "total_office": None if pd.isna(row["total_office"]) else float(row["total_office"]),
+                    "total_education": None if pd.isna(row["total_education"]) else float(row["total_education"]),
+                    "total_leisure": None if pd.isna(row["total_leisure"]) else float(row["total_leisure"]),
+                },
             }
         )
     OUTPUT_JSON.write_text(json.dumps(vectors, indent=2))

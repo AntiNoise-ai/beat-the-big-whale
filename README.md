@@ -13,6 +13,7 @@ Current status:
 - OSM point + polygon catchment aggregation completed
 - NOMIS London borough jobs, population, and age-band extracts completed
 - first richer real-data feature table built with improved family/student/affluence proxies
+- real-data demo explanations now include borough, footfall, and nearby-POI context
 
 Contents:
 - `STATUS.md` — concise progress log

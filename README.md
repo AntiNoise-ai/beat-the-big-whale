@@ -14,11 +14,13 @@ Current status:
 - NOMIS London borough jobs, population, and age-band extracts completed
 - first richer real-data feature table built with improved family/student/affluence proxies
 - real-data demo explanations now include borough, footfall, and nearby-POI context
+- first visual layer shipped as a Streamlit app with a map, ranked table, and station drilldown
 
 Contents:
 - `STATUS.md` — concise progress log
 - `docs/` — MVP and public-data planning docs
 - `src/tube_london_ads/` — starter code for scoring and Phase 1 ingestion
+- `streamlit_app.py` — visual app for exploring ranked stations and lines
 - `data/sample_stations.json` — seed station features used by the current demo
 - `data/processed/station_reference_with_counts.csv` — joined station metadata + footfall proxy input
 - `data/processed/station_poi_counts_osm_points.csv` — OSM point POI counts around stations
@@ -36,6 +38,13 @@ python -m venv .venv
 . .venv/bin/activate
 pip install -r requirements.txt
 python scripts/run_real_data_demo.py --industry luxury_retail --top-k 5
+```
+
+Visual app:
+```bash
+cd london-tube-advertising
+. .venv/bin/activate
+streamlit run streamlit_app.py
 ```
 
 Important:

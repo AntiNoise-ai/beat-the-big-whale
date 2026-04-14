@@ -26,6 +26,7 @@ Done:
 - Rebuilt `data/processed/station_feature_vectors_real.json`
 - Added richer context payloads to station vectors for explanation generation
 - Added borough/footfall/POI context notes to the real-data demo output
+- Added a Streamlit visual layer with a map, ranked table, line ranking chart, and station drilldown
 - Added a real-data runnable demo script
 - Added `docs/data_sources.md` with access notes and registration requirements
 

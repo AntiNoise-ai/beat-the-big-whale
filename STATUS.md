@@ -16,24 +16,27 @@ Done:
 - Matched 272/272 station rows after normalization/alias handling
 - Downloaded the Greater London OSM PBF extract
 - Created a local `.venv` with pandas/geopandas/shapely/pyproj/pyogrio
-- Aggregated first-pass OSM point-based POI counts into `data/processed/station_poi_counts_osm_points.csv`
-- Pulled first NOMIS London borough extracts into `nomis_jobs_density_london_boroughs.csv` and `nomis_population_london_boroughs.csv`
+- Aggregated OSM point POIs into `data/processed/station_poi_counts_osm_points.csv`
+- Aggregated OSM polygon POIs and clipped polygon areas into `data/processed/station_poi_counts_osm_polygons.csv`
+- Built a combined OSM station catchment table in `data/processed/station_poi_counts_osm_combined.csv`
+- Pulled NOMIS London borough extracts into `nomis_jobs_density_london_boroughs.csv`, `nomis_population_london_boroughs.csv`, and `nomis_population_age_bands_london_boroughs.csv`
+- Confirmed the current NOMIS borough pulls work anonymously without storing credentials
 - Downloaded London borough boundaries and assigned stations to boroughs
-- Built `data/processed/station_feature_table_real.csv`
-- Built `data/processed/station_feature_vectors_real.json`
+- Built a richer `data/processed/station_feature_table_real.csv` with family/student/affluence proxy improvements
+- Rebuilt `data/processed/station_feature_vectors_real.json`
 - Added a real-data runnable demo script
 - Added `docs/data_sources.md` with access notes and registration requirements
 
 In progress:
-- extending OSM aggregation beyond point features
-- improving proxy quality for affluence and family/student segmentation
-- refining station feature engineering
+- refining borough-level context and explanation quality
+- improving proxy quality for affluence and family/student segmentation beyond borough level
+- comparing ranked outputs against manual expectations for key station clusters
 
 Next:
-- extend OSM aggregation to polygon features and shopping centres/offices
-- add borough-level enrichment into the ranking explanations
-- improve affluence/family/student proxies from additional public datasets
+- add borough/station context into recommendation explanations
+- improve affluence/family/student proxies with more granular public datasets
 - compare real-data output against manual expectations for key stations
+- decide whether to move from borough-level demographics to smaller-area catchment demographics
 
 Blocking items:
 - none currently

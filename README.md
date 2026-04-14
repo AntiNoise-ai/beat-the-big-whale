@@ -10,8 +10,9 @@ Current status:
 - seed scoring engine built
 - Phase 1 started: real public-data ingestion scaffold
 - real TfL station metadata and station counts ingested
-- initial OSM point-based POI aggregation completed
-- initial NOMIS London borough extracts completed
+- OSM point + polygon catchment aggregation completed
+- NOMIS London borough jobs, population, and age-band extracts completed
+- first richer real-data feature table built with improved family/student/affluence proxies
 
 Contents:
 - `STATUS.md` — concise progress log
@@ -19,9 +20,12 @@ Contents:
 - `src/tube_london_ads/` — starter code for scoring and Phase 1 ingestion
 - `data/sample_stations.json` — seed station features used by the current demo
 - `data/processed/station_reference_with_counts.csv` — joined station metadata + footfall proxy input
-- `data/processed/station_poi_counts_osm_points.csv` — initial OSM POI counts around stations
-- `data/processed/nomis_jobs_density_london_boroughs.csv` — first workplace proxy extract
-- `data/processed/station_feature_table_real.csv` — first real station-level feature table
+- `data/processed/station_poi_counts_osm_points.csv` — OSM point POI counts around stations
+- `data/processed/station_poi_counts_osm_polygons.csv` — polygon POI counts and clipped polygon areas around stations
+- `data/processed/station_poi_counts_osm_combined.csv` — combined station catchment POI table
+- `data/processed/nomis_jobs_density_london_boroughs.csv` — borough-level workplace proxy extract
+- `data/processed/nomis_population_age_bands_london_boroughs.csv` — borough-level age-band extract for family/student proxies
+- `data/processed/station_feature_table_real.csv` — richer real station-level feature table
 - `scripts/download_public_inputs.py` — downloader for public datasets
 
 Quick demo:

@@ -19,9 +19,10 @@ BOROUGH_CODES = [
 ]
 
 
-def fetch_csv(dataset: str, params: dict[str, str], uid: str) -> list[dict[str, str]]:
+def fetch_csv(dataset: str, params: dict[str, str], uid: str | None = None) -> list[dict[str, str]]:
     query = dict(params)
-    query["uid"] = uid
+    if uid:
+        query["uid"] = uid
     url = f"https://www.nomisweb.co.uk/api/v01/dataset/{dataset}.data.csv?{urllib.parse.urlencode(query)}"
     request = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
     with urllib.request.urlopen(request, timeout=120) as response:
@@ -40,10 +41,7 @@ def write_csv(path: Path, rows: list[dict[str, str]]) -> None:
 
 
 def main() -> None:
-    uid = os.environ.get("NOMIS_UID")
-    if not uid:
-        raise SystemExit("Set NOMIS_UID in the environment before running this script")
-
+    uid = os.environ.get("NOMIS_UID") or None
     geography = ",".join(str(code) for code in BOROUGH_CODES)
 
     jobs_density_rows = fetch_csv(
@@ -73,7 +71,22 @@ def main() -> None:
     )
     write_csv(OUTPUT_DIR / "nomis_population_london_boroughs.csv", population_rows)
 
-    print("Saved jobs density and population extracts to data/processed/")
+    population_age_band_rows = fetch_csv(
+        "NM_31_1",
+        {
+            "geography": geography,
+            "time": "latest",
+            "sex": "7",
+            "age": ",".join(str(code) for code in range(1, 20)),
+            "measures": "20100",
+            "select": "date_name,geography_name,geography_code,age_name,obs_value",
+        },
+        uid,
+    )
+    write_csv(OUTPUT_DIR / "nomis_population_age_bands_london_boroughs.csv", population_age_band_rows)
+
+    mode = "UID-authenticated" if uid else "anonymous"
+    print(f"Saved NOMIS borough extracts to data/processed/ using {mode} access")
 
 
 if __name__ == "__main__":

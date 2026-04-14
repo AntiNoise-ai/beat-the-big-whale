@@ -1,0 +1,628 @@
+DATE_NAME,GEOGRAPHY_NAME,GEOGRAPHY_CODE,AGE_NAME,OBS_VALUE
+2024,City of London,E09000001,Aged under 1 year,54
+2024,City of London,E09000001,Aged 1 - 4 years,185
+2024,City of London,E09000001,Aged 5 - 9 years,219
+2024,City of London,E09000001,Aged 10 - 14 years,219
+2024,City of London,E09000001,Aged 15 - 19 years,478
+2024,City of London,E09000001,Aged 20 - 24 years,2055
+2024,City of London,E09000001,Aged 25 - 29 years,2710
+2024,City of London,E09000001,Aged 30 - 34 years,2413
+2024,City of London,E09000001,Aged 35 - 39 years,1598
+2024,City of London,E09000001,Aged 40 - 44 years,1040
+2024,City of London,E09000001,Aged 45 - 49 years,785
+2024,City of London,E09000001,Aged 50 - 54 years,775
+2024,City of London,E09000001,Aged 55 - 59 years,650
+2024,City of London,E09000001,Aged 60 - 64 years,531
+2024,City of London,E09000001,Aged 65 - 69 years,471
+2024,City of London,E09000001,Aged 70 - 74 years,315
+2024,City of London,E09000001,Aged 75 - 79 years,301
+2024,City of London,E09000001,Aged 80 - 84 years,168
+2024,City of London,E09000001,Aged 85 and over,144
+2024,Barking and Dagenham,E09000002,Aged under 1 year,3514
+2024,Barking and Dagenham,E09000002,Aged 1 - 4 years,14539
+2024,Barking and Dagenham,E09000002,Aged 5 - 9 years,18701
+2024,Barking and Dagenham,E09000002,Aged 10 - 14 years,18341
+2024,Barking and Dagenham,E09000002,Aged 15 - 19 years,17523
+2024,Barking and Dagenham,E09000002,Aged 20 - 24 years,15242
+2024,Barking and Dagenham,E09000002,Aged 25 - 29 years,18255
+2024,Barking and Dagenham,E09000002,Aged 30 - 34 years,18168
+2024,Barking and Dagenham,E09000002,Aged 35 - 39 years,19197
+2024,Barking and Dagenham,E09000002,Aged 40 - 44 years,18319
+2024,Barking and Dagenham,E09000002,Aged 45 - 49 years,15448
+2024,Barking and Dagenham,E09000002,Aged 50 - 54 years,14006
+2024,Barking and Dagenham,E09000002,Aged 55 - 59 years,12183
+2024,Barking and Dagenham,E09000002,Aged 60 - 64 years,9299
+2024,Barking and Dagenham,E09000002,Aged 65 - 69 years,6788
+2024,Barking and Dagenham,E09000002,Aged 70 - 74 years,4659
+2024,Barking and Dagenham,E09000002,Aged 75 - 79 years,3742
+2024,Barking and Dagenham,E09000002,Aged 80 - 84 years,2368
+2024,Barking and Dagenham,E09000002,Aged 85 and over,2455
+2024,Barnet,E09000003,Aged under 1 year,4570
+2024,Barnet,E09000003,Aged 1 - 4 years,19717
+2024,Barnet,E09000003,Aged 5 - 9 years,25981
+2024,Barnet,E09000003,Aged 10 - 14 years,27344
+2024,Barnet,E09000003,Aged 15 - 19 years,24741
+2024,Barnet,E09000003,Aged 20 - 24 years,22589
+2024,Barnet,E09000003,Aged 25 - 29 years,29770
+2024,Barnet,E09000003,Aged 30 - 34 years,29535
+2024,Barnet,E09000003,Aged 35 - 39 years,29891
+2024,Barnet,E09000003,Aged 40 - 44 years,30818
+2024,Barnet,E09000003,Aged 45 - 49 years,28588
+2024,Barnet,E09000003,Aged 50 - 54 years,26499
+2024,Barnet,E09000003,Aged 55 - 59 years,23843
+2024,Barnet,E09000003,Aged 60 - 64 years,20506
+2024,Barnet,E09000003,Aged 65 - 69 years,16861
+2024,Barnet,E09000003,Aged 70 - 74 years,13925
+2024,Barnet,E09000003,Aged 75 - 79 years,12416
+2024,Barnet,E09000003,Aged 80 - 84 years,8205
+2024,Barnet,E09000003,Aged 85 and over,9251
+2024,Bexley,E09000004,Aged under 1 year,2644
+2024,Bexley,E09000004,Aged 1 - 4 years,12194
+2024,Bexley,E09000004,Aged 5 - 9 years,16552
+2024,Bexley,E09000004,Aged 10 - 14 years,17159
+2024,Bexley,E09000004,Aged 15 - 19 years,15616
+2024,Bexley,E09000004,Aged 20 - 24 years,14014
+2024,Bexley,E09000004,Aged 25 - 29 years,15524
+2024,Bexley,E09000004,Aged 30 - 34 years,17864
+2024,Bexley,E09000004,Aged 35 - 39 years,19147
+2024,Bexley,E09000004,Aged 40 - 44 years,19023
+2024,Bexley,E09000004,Aged 45 - 49 years,16649
+2024,Bexley,E09000004,Aged 50 - 54 years,16305
+2024,Bexley,E09000004,Aged 55 - 59 years,16468
+2024,Bexley,E09000004,Aged 60 - 64 years,14824
+2024,Bexley,E09000004,Aged 65 - 69 years,11523
+2024,Bexley,E09000004,Aged 70 - 74 years,9513
+2024,Bexley,E09000004,Aged 75 - 79 years,9049
+2024,Bexley,E09000004,Aged 80 - 84 years,6000
+2024,Bexley,E09000004,Aged 85 and over,6366
+2024,Brent,E09000005,Aged under 1 year,4309
+2024,Brent,E09000005,Aged 1 - 4 years,16983
+2024,Brent,E09000005,Aged 5 - 9 years,20131
+2024,Brent,E09000005,Aged 10 - 14 years,20444
+2024,Brent,E09000005,Aged 15 - 19 years,22058
+2024,Brent,E09000005,Aged 20 - 24 years,29491
+2024,Brent,E09000005,Aged 25 - 29 years,34345
+2024,Brent,E09000005,Aged 30 - 34 years,29301
+2024,Brent,E09000005,Aged 35 - 39 years,26070
+2024,Brent,E09000005,Aged 40 - 44 years,24591
+2024,Brent,E09000005,Aged 45 - 49 years,22481
+2024,Brent,E09000005,Aged 50 - 54 years,21207
+2024,Brent,E09000005,Aged 55 - 59 years,20901
+2024,Brent,E09000005,Aged 60 - 64 years,17717
+2024,Brent,E09000005,Aged 65 - 69 years,13940
+2024,Brent,E09000005,Aged 70 - 74 years,10348
+2024,Brent,E09000005,Aged 75 - 79 years,7548
+2024,Brent,E09000005,Aged 80 - 84 years,5355
+2024,Brent,E09000005,Aged 85 and over,5756
+2024,Bromley,E09000006,Aged under 1 year,3402
+2024,Bromley,E09000006,Aged 1 - 4 years,15197
+2024,Bromley,E09000006,Aged 5 - 9 years,20787
+2024,Bromley,E09000006,Aged 10 - 14 years,21588
+2024,Bromley,E09000006,Aged 15 - 19 years,18653
+2024,Bromley,E09000006,Aged 20 - 24 years,14167
+2024,Bromley,E09000006,Aged 25 - 29 years,18278
+2024,Bromley,E09000006,Aged 30 - 34 years,21723
+2024,Bromley,E09000006,Aged 35 - 39 years,25155
+2024,Bromley,E09000006,Aged 40 - 44 years,25996
+2024,Bromley,E09000006,Aged 45 - 49 years,24388
+2024,Bromley,E09000006,Aged 50 - 54 years,23293
+2024,Bromley,E09000006,Aged 55 - 59 years,22702
+2024,Bromley,E09000006,Aged 60 - 64 years,20006
+2024,Bromley,E09000006,Aged 65 - 69 years,15443
+2024,Bromley,E09000006,Aged 70 - 74 years,13143
+2024,Bromley,E09000006,Aged 75 - 79 years,13579
+2024,Bromley,E09000006,Aged 80 - 84 years,8567
+2024,Bromley,E09000006,Aged 85 and over,9252
+2024,Camden,E09000007,Aged under 1 year,1954
+2024,Camden,E09000007,Aged 1 - 4 years,7688
+2024,Camden,E09000007,Aged 5 - 9 years,9430
+2024,Camden,E09000007,Aged 10 - 14 years,9926
+2024,Camden,E09000007,Aged 15 - 19 years,14799
+2024,Camden,E09000007,Aged 20 - 24 years,25561
+2024,Camden,E09000007,Aged 25 - 29 years,23676
+2024,Camden,E09000007,Aged 30 - 34 years,19771
+2024,Camden,E09000007,Aged 35 - 39 years,15893
+2024,Camden,E09000007,Aged 40 - 44 years,13329
+2024,Camden,E09000007,Aged 45 - 49 years,13119
+2024,Camden,E09000007,Aged 50 - 54 years,12818
+2024,Camden,E09000007,Aged 55 - 59 years,12326
+2024,Camden,E09000007,Aged 60 - 64 years,10341
+2024,Camden,E09000007,Aged 65 - 69 years,7743
+2024,Camden,E09000007,Aged 70 - 74 years,6260
+2024,Camden,E09000007,Aged 75 - 79 years,5538
+2024,Camden,E09000007,Aged 80 - 84 years,3516
+2024,Camden,E09000007,Aged 85 and over,3255
+2024,Croydon,E09000008,Aged under 1 year,5053
+2024,Croydon,E09000008,Aged 1 - 4 years,20702
+2024,Croydon,E09000008,Aged 5 - 9 years,25831
+2024,Croydon,E09000008,Aged 10 - 14 years,26127
+2024,Croydon,E09000008,Aged 15 - 19 years,24908
+2024,Croydon,E09000008,Aged 20 - 24 years,21950
+2024,Croydon,E09000008,Aged 25 - 29 years,30377
+2024,Croydon,E09000008,Aged 30 - 34 years,32839
+2024,Croydon,E09000008,Aged 35 - 39 years,32895
+2024,Croydon,E09000008,Aged 40 - 44 years,30488
+2024,Croydon,E09000008,Aged 45 - 49 years,27183
+2024,Croydon,E09000008,Aged 50 - 54 years,25132
+2024,Croydon,E09000008,Aged 55 - 59 years,26115
+2024,Croydon,E09000008,Aged 60 - 64 years,23008
+2024,Croydon,E09000008,Aged 65 - 69 years,16927
+2024,Croydon,E09000008,Aged 70 - 74 years,13181
+2024,Croydon,E09000008,Aged 75 - 79 years,11408
+2024,Croydon,E09000008,Aged 80 - 84 years,7455
+2024,Croydon,E09000008,Aged 85 and over,7763
+2024,Ealing,E09000009,Aged under 1 year,4598
+2024,Ealing,E09000009,Aged 1 - 4 years,17606
+2024,Ealing,E09000009,Aged 5 - 9 years,22097
+2024,Ealing,E09000009,Aged 10 - 14 years,23506
+2024,Ealing,E09000009,Aged 15 - 19 years,23899
+2024,Ealing,E09000009,Aged 20 - 24 years,27965
+2024,Ealing,E09000009,Aged 25 - 29 years,33284
+2024,Ealing,E09000009,Aged 30 - 34 years,31662
+2024,Ealing,E09000009,Aged 35 - 39 years,29782
+2024,Ealing,E09000009,Aged 40 - 44 years,29345
+2024,Ealing,E09000009,Aged 45 - 49 years,26920
+2024,Ealing,E09000009,Aged 50 - 54 years,24637
+2024,Ealing,E09000009,Aged 55 - 59 years,22893
+2024,Ealing,E09000009,Aged 60 - 64 years,19146
+2024,Ealing,E09000009,Aged 65 - 69 years,15246
+2024,Ealing,E09000009,Aged 70 - 74 years,11726
+2024,Ealing,E09000009,Aged 75 - 79 years,9417
+2024,Ealing,E09000009,Aged 80 - 84 years,6165
+2024,Ealing,E09000009,Aged 85 and over,6091
+2024,Enfield,E09000010,Aged under 1 year,3734
+2024,Enfield,E09000010,Aged 1 - 4 years,16399
+2024,Enfield,E09000010,Aged 5 - 9 years,22071
+2024,Enfield,E09000010,Aged 10 - 14 years,23284
+2024,Enfield,E09000010,Aged 15 - 19 years,23117
+2024,Enfield,E09000010,Aged 20 - 24 years,18707
+2024,Enfield,E09000010,Aged 25 - 29 years,21739
+2024,Enfield,E09000010,Aged 30 - 34 years,20603
+2024,Enfield,E09000010,Aged 35 - 39 years,22680
+2024,Enfield,E09000010,Aged 40 - 44 years,23345
+2024,Enfield,E09000010,Aged 45 - 49 years,22270
+2024,Enfield,E09000010,Aged 50 - 54 years,22038
+2024,Enfield,E09000010,Aged 55 - 59 years,20975
+2024,Enfield,E09000010,Aged 60 - 64 years,18435
+2024,Enfield,E09000010,Aged 65 - 69 years,14112
+2024,Enfield,E09000010,Aged 70 - 74 years,10964
+2024,Enfield,E09000010,Aged 75 - 79 years,9377
+2024,Enfield,E09000010,Aged 80 - 84 years,6459
+2024,Enfield,E09000010,Aged 85 and over,7125
+2024,Greenwich,E09000011,Aged under 1 year,3517
+2024,Greenwich,E09000011,Aged 1 - 4 years,14942
+2024,Greenwich,E09000011,Aged 5 - 9 years,18008
+2024,Greenwich,E09000011,Aged 10 - 14 years,17990
+2024,Greenwich,E09000011,Aged 15 - 19 years,17622
+2024,Greenwich,E09000011,Aged 20 - 24 years,19567
+2024,Greenwich,E09000011,Aged 25 - 29 years,26821
+2024,Greenwich,E09000011,Aged 30 - 34 years,28853
+2024,Greenwich,E09000011,Aged 35 - 39 years,26713
+2024,Greenwich,E09000011,Aged 40 - 44 years,23954
+2024,Greenwich,E09000011,Aged 45 - 49 years,20164
+2024,Greenwich,E09000011,Aged 50 - 54 years,18113
+2024,Greenwich,E09000011,Aged 55 - 59 years,16907
+2024,Greenwich,E09000011,Aged 60 - 64 years,14123
+2024,Greenwich,E09000011,Aged 65 - 69 years,10311
+2024,Greenwich,E09000011,Aged 70 - 74 years,7682
+2024,Greenwich,E09000011,Aged 75 - 79 years,6490
+2024,Greenwich,E09000011,Aged 80 - 84 years,4073
+2024,Greenwich,E09000011,Aged 85 and over,3678
+2024,Hackney,E09000012,Aged under 1 year,3519
+2024,Hackney,E09000012,Aged 1 - 4 years,12784
+2024,Hackney,E09000012,Aged 5 - 9 years,14327
+2024,Hackney,E09000012,Aged 10 - 14 years,14511
+2024,Hackney,E09000012,Aged 15 - 19 years,15045
+2024,Hackney,E09000012,Aged 20 - 24 years,19789
+2024,Hackney,E09000012,Aged 25 - 29 years,35276
+2024,Hackney,E09000012,Aged 30 - 34 years,33195
+2024,Hackney,E09000012,Aged 35 - 39 years,23153
+2024,Hackney,E09000012,Aged 40 - 44 years,18075
+2024,Hackney,E09000012,Aged 45 - 49 years,15400
+2024,Hackney,E09000012,Aged 50 - 54 years,14011
+2024,Hackney,E09000012,Aged 55 - 59 years,13699
+2024,Hackney,E09000012,Aged 60 - 64 years,11374
+2024,Hackney,E09000012,Aged 65 - 69 years,8320
+2024,Hackney,E09000012,Aged 70 - 74 years,5547
+2024,Hackney,E09000012,Aged 75 - 79 years,4073
+2024,Hackney,E09000012,Aged 80 - 84 years,2453
+2024,Hackney,E09000012,Aged 85 and over,2207
+2024,Hammersmith and Fulham,E09000013,Aged under 1 year,2039
+2024,Hammersmith and Fulham,E09000013,Aged 1 - 4 years,7374
+2024,Hammersmith and Fulham,E09000013,Aged 5 - 9 years,8580
+2024,Hammersmith and Fulham,E09000013,Aged 10 - 14 years,8748
+2024,Hammersmith and Fulham,E09000013,Aged 15 - 19 years,8661
+2024,Hammersmith and Fulham,E09000013,Aged 20 - 24 years,18216
+2024,Hammersmith and Fulham,E09000013,Aged 25 - 29 years,25663
+2024,Hammersmith and Fulham,E09000013,Aged 30 - 34 years,19065
+2024,Hammersmith and Fulham,E09000013,Aged 35 - 39 years,14814
+2024,Hammersmith and Fulham,E09000013,Aged 40 - 44 years,11938
+2024,Hammersmith and Fulham,E09000013,Aged 45 - 49 years,11475
+2024,Hammersmith and Fulham,E09000013,Aged 50 - 54 years,11717
+2024,Hammersmith and Fulham,E09000013,Aged 55 - 59 years,11108
+2024,Hammersmith and Fulham,E09000013,Aged 60 - 64 years,8790
+2024,Hammersmith and Fulham,E09000013,Aged 65 - 69 years,6293
+2024,Hammersmith and Fulham,E09000013,Aged 70 - 74 years,5028
+2024,Hammersmith and Fulham,E09000013,Aged 75 - 79 years,4130
+2024,Hammersmith and Fulham,E09000013,Aged 80 - 84 years,2691
+2024,Hammersmith and Fulham,E09000013,Aged 85 and over,2357
+2024,Haringey,E09000014,Aged under 1 year,3069
+2024,Haringey,E09000014,Aged 1 - 4 years,11891
+2024,Haringey,E09000014,Aged 5 - 9 years,14446
+2024,Haringey,E09000014,Aged 10 - 14 years,14841
+2024,Haringey,E09000014,Aged 15 - 19 years,14894
+2024,Haringey,E09000014,Aged 20 - 24 years,17067
+2024,Haringey,E09000014,Aged 25 - 29 years,24310
+2024,Haringey,E09000014,Aged 30 - 34 years,24851
+2024,Haringey,E09000014,Aged 35 - 39 years,22551
+2024,Haringey,E09000014,Aged 40 - 44 years,20072
+2024,Haringey,E09000014,Aged 45 - 49 years,18162
+2024,Haringey,E09000014,Aged 50 - 54 years,17474
+2024,Haringey,E09000014,Aged 55 - 59 years,16770
+2024,Haringey,E09000014,Aged 60 - 64 years,13701
+2024,Haringey,E09000014,Aged 65 - 69 years,9690
+2024,Haringey,E09000014,Aged 70 - 74 years,7349
+2024,Haringey,E09000014,Aged 75 - 79 years,5645
+2024,Haringey,E09000014,Aged 80 - 84 years,3625
+2024,Haringey,E09000014,Aged 85 and over,3442
+2024,Harrow,E09000015,Aged under 1 year,3118
+2024,Harrow,E09000015,Aged 1 - 4 years,13301
+2024,Harrow,E09000015,Aged 5 - 9 years,16658
+2024,Harrow,E09000015,Aged 10 - 14 years,16840
+2024,Harrow,E09000015,Aged 15 - 19 years,16208
+2024,Harrow,E09000015,Aged 20 - 24 years,15876
+2024,Harrow,E09000015,Aged 25 - 29 years,21963
+2024,Harrow,E09000015,Aged 30 - 34 years,19939
+2024,Harrow,E09000015,Aged 35 - 39 years,20824
+2024,Harrow,E09000015,Aged 40 - 44 years,20040
+2024,Harrow,E09000015,Aged 45 - 49 years,18021
+2024,Harrow,E09000015,Aged 50 - 54 years,15944
+2024,Harrow,E09000015,Aged 55 - 59 years,15111
+2024,Harrow,E09000015,Aged 60 - 64 years,14294
+2024,Harrow,E09000015,Aged 65 - 69 years,12368
+2024,Harrow,E09000015,Aged 70 - 74 years,10073
+2024,Harrow,E09000015,Aged 75 - 79 years,8353
+2024,Harrow,E09000015,Aged 80 - 84 years,5651
+2024,Harrow,E09000015,Aged 85 and over,6142
+2024,Havering,E09000016,Aged under 1 year,3301
+2024,Havering,E09000016,Aged 1 - 4 years,13945
+2024,Havering,E09000016,Aged 5 - 9 years,18667
+2024,Havering,E09000016,Aged 10 - 14 years,17615
+2024,Havering,E09000016,Aged 15 - 19 years,15877
+2024,Havering,E09000016,Aged 20 - 24 years,14259
+2024,Havering,E09000016,Aged 25 - 29 years,17853
+2024,Havering,E09000016,Aged 30 - 34 years,19820
+2024,Havering,E09000016,Aged 35 - 39 years,21473
+2024,Havering,E09000016,Aged 40 - 44 years,20101
+2024,Havering,E09000016,Aged 45 - 49 years,17023
+2024,Havering,E09000016,Aged 50 - 54 years,16408
+2024,Havering,E09000016,Aged 55 - 59 years,16851
+2024,Havering,E09000016,Aged 60 - 64 years,15372
+2024,Havering,E09000016,Aged 65 - 69 years,12713
+2024,Havering,E09000016,Aged 70 - 74 years,10739
+2024,Havering,E09000016,Aged 75 - 79 years,10371
+2024,Havering,E09000016,Aged 80 - 84 years,6607
+2024,Havering,E09000016,Aged 85 and over,7279
+2024,Hillingdon,E09000017,Aged under 1 year,4151
+2024,Hillingdon,E09000017,Aged 1 - 4 years,16981
+2024,Hillingdon,E09000017,Aged 5 - 9 years,21244
+2024,Hillingdon,E09000017,Aged 10 - 14 years,20576
+2024,Hillingdon,E09000017,Aged 15 - 19 years,20467
+2024,Hillingdon,E09000017,Aged 20 - 24 years,23465
+2024,Hillingdon,E09000017,Aged 25 - 29 years,25463
+2024,Hillingdon,E09000017,Aged 30 - 34 years,25681
+2024,Hillingdon,E09000017,Aged 35 - 39 years,26110
+2024,Hillingdon,E09000017,Aged 40 - 44 years,25412
+2024,Hillingdon,E09000017,Aged 45 - 49 years,21580
+2024,Hillingdon,E09000017,Aged 50 - 54 years,19921
+2024,Hillingdon,E09000017,Aged 55 - 59 years,18619
+2024,Hillingdon,E09000017,Aged 60 - 64 years,16317
+2024,Hillingdon,E09000017,Aged 65 - 69 years,12677
+2024,Hillingdon,E09000017,Aged 70 - 74 years,9909
+2024,Hillingdon,E09000017,Aged 75 - 79 years,8731
+2024,Hillingdon,E09000017,Aged 80 - 84 years,5705
+2024,Hillingdon,E09000017,Aged 85 and over,6176
+2024,Hounslow,E09000018,Aged under 1 year,3675
+2024,Hounslow,E09000018,Aged 1 - 4 years,14434
+2024,Hounslow,E09000018,Aged 5 - 9 years,18648
+2024,Hounslow,E09000018,Aged 10 - 14 years,19207
+2024,Hounslow,E09000018,Aged 15 - 19 years,18264
+2024,Hounslow,E09000018,Aged 20 - 24 years,18546
+2024,Hounslow,E09000018,Aged 25 - 29 years,24074
+2024,Hounslow,E09000018,Aged 30 - 34 years,23167
+2024,Hounslow,E09000018,Aged 35 - 39 years,25026
+2024,Hounslow,E09000018,Aged 40 - 44 years,24189
+2024,Hounslow,E09000018,Aged 45 - 49 years,21744
+2024,Hounslow,E09000018,Aged 50 - 54 years,19794
+2024,Hounslow,E09000018,Aged 55 - 59 years,17443
+2024,Hounslow,E09000018,Aged 60 - 64 years,14589
+2024,Hounslow,E09000018,Aged 65 - 69 years,11285
+2024,Hounslow,E09000018,Aged 70 - 74 years,9126
+2024,Hounslow,E09000018,Aged 75 - 79 years,7190
+2024,Hounslow,E09000018,Aged 80 - 84 years,4570
+2024,Hounslow,E09000018,Aged 85 and over,4453
+2024,Islington,E09000019,Aged under 1 year,2259
+2024,Islington,E09000019,Aged 1 - 4 years,8352
+2024,Islington,E09000019,Aged 5 - 9 years,9597
+2024,Islington,E09000019,Aged 10 - 14 years,9556
+2024,Islington,E09000019,Aged 15 - 19 years,11811
+2024,Islington,E09000019,Aged 20 - 24 years,21963
+2024,Islington,E09000019,Aged 25 - 29 years,30637
+2024,Islington,E09000019,Aged 30 - 34 years,27717
+2024,Islington,E09000019,Aged 35 - 39 years,18901
+2024,Islington,E09000019,Aged 40 - 44 years,14327
+2024,Islington,E09000019,Aged 45 - 49 years,12184
+2024,Islington,E09000019,Aged 50 - 54 years,11865
+2024,Islington,E09000019,Aged 55 - 59 years,11967
+2024,Islington,E09000019,Aged 60 - 64 years,10258
+2024,Islington,E09000019,Aged 65 - 69 years,7083
+2024,Islington,E09000019,Aged 70 - 74 years,5314
+2024,Islington,E09000019,Aged 75 - 79 years,4307
+2024,Islington,E09000019,Aged 80 - 84 years,2576
+2024,Islington,E09000019,Aged 85 and over,2350
+2024,Kensington and Chelsea,E09000020,Aged under 1 year,1282
+2024,Kensington and Chelsea,E09000020,Aged 1 - 4 years,5089
+2024,Kensington and Chelsea,E09000020,Aged 5 - 9 years,6329
+2024,Kensington and Chelsea,E09000020,Aged 10 - 14 years,6120
+2024,Kensington and Chelsea,E09000020,Aged 15 - 19 years,6464
+2024,Kensington and Chelsea,E09000020,Aged 20 - 24 years,11870
+2024,Kensington and Chelsea,E09000020,Aged 25 - 29 years,14951
+2024,Kensington and Chelsea,E09000020,Aged 30 - 34 years,11765
+2024,Kensington and Chelsea,E09000020,Aged 35 - 39 years,10119
+2024,Kensington and Chelsea,E09000020,Aged 40 - 44 years,9230
+2024,Kensington and Chelsea,E09000020,Aged 45 - 49 years,8914
+2024,Kensington and Chelsea,E09000020,Aged 50 - 54 years,10100
+2024,Kensington and Chelsea,E09000020,Aged 55 - 59 years,10624
+2024,Kensington and Chelsea,E09000020,Aged 60 - 64 years,9347
+2024,Kensington and Chelsea,E09000020,Aged 65 - 69 years,6648
+2024,Kensington and Chelsea,E09000020,Aged 70 - 74 years,5211
+2024,Kensington and Chelsea,E09000020,Aged 75 - 79 years,4619
+2024,Kensington and Chelsea,E09000020,Aged 80 - 84 years,3098
+2024,Kensington and Chelsea,E09000020,Aged 85 and over,2738
+2024,Kingston upon Thames,E09000021,Aged under 1 year,1660
+2024,Kingston upon Thames,E09000021,Aged 1 - 4 years,7247
+2024,Kingston upon Thames,E09000021,Aged 5 - 9 years,10459
+2024,Kingston upon Thames,E09000021,Aged 10 - 14 years,11238
+2024,Kingston upon Thames,E09000021,Aged 15 - 19 years,10838
+2024,Kingston upon Thames,E09000021,Aged 20 - 24 years,11496
+2024,Kingston upon Thames,E09000021,Aged 25 - 29 years,11499
+2024,Kingston upon Thames,E09000021,Aged 30 - 34 years,12089
+2024,Kingston upon Thames,E09000021,Aged 35 - 39 years,12836
+2024,Kingston upon Thames,E09000021,Aged 40 - 44 years,13265
+2024,Kingston upon Thames,E09000021,Aged 45 - 49 years,12898
+2024,Kingston upon Thames,E09000021,Aged 50 - 54 years,11960
+2024,Kingston upon Thames,E09000021,Aged 55 - 59 years,10495
+2024,Kingston upon Thames,E09000021,Aged 60 - 64 years,8786
+2024,Kingston upon Thames,E09000021,Aged 65 - 69 years,7067
+2024,Kingston upon Thames,E09000021,Aged 70 - 74 years,6109
+2024,Kingston upon Thames,E09000021,Aged 75 - 79 years,5647
+2024,Kingston upon Thames,E09000021,Aged 80 - 84 years,3463
+2024,Kingston upon Thames,E09000021,Aged 85 and over,3640
+2024,Lambeth,E09000022,Aged under 1 year,3271
+2024,Lambeth,E09000022,Aged 1 - 4 years,11284
+2024,Lambeth,E09000022,Aged 5 - 9 years,13456
+2024,Lambeth,E09000022,Aged 10 - 14 years,14170
+2024,Lambeth,E09000022,Aged 15 - 19 years,15812
+2024,Lambeth,E09000022,Aged 20 - 24 years,25956
+2024,Lambeth,E09000022,Aged 25 - 29 years,50052
+2024,Lambeth,E09000022,Aged 30 - 34 years,36295
+2024,Lambeth,E09000022,Aged 35 - 39 years,24562
+2024,Lambeth,E09000022,Aged 40 - 44 years,20427
+2024,Lambeth,E09000022,Aged 45 - 49 years,18961
+2024,Lambeth,E09000022,Aged 50 - 54 years,18690
+2024,Lambeth,E09000022,Aged 55 - 59 years,18746
+2024,Lambeth,E09000022,Aged 60 - 64 years,15224
+2024,Lambeth,E09000022,Aged 65 - 69 years,10751
+2024,Lambeth,E09000022,Aged 70 - 74 years,7104
+2024,Lambeth,E09000022,Aged 75 - 79 years,5268
+2024,Lambeth,E09000022,Aged 80 - 84 years,3535
+2024,Lambeth,E09000022,Aged 85 and over,3356
+2024,Lewisham,E09000023,Aged under 1 year,3624
+2024,Lewisham,E09000023,Aged 1 - 4 years,14071
+2024,Lewisham,E09000023,Aged 5 - 9 years,17200
+2024,Lewisham,E09000023,Aged 10 - 14 years,16934
+2024,Lewisham,E09000023,Aged 15 - 19 years,16369
+2024,Lewisham,E09000023,Aged 20 - 24 years,19255
+2024,Lewisham,E09000023,Aged 25 - 29 years,27053
+2024,Lewisham,E09000023,Aged 30 - 34 years,30941
+2024,Lewisham,E09000023,Aged 35 - 39 years,27523
+2024,Lewisham,E09000023,Aged 40 - 44 years,23562
+2024,Lewisham,E09000023,Aged 45 - 49 years,20435
+2024,Lewisham,E09000023,Aged 50 - 54 years,19132
+2024,Lewisham,E09000023,Aged 55 - 59 years,18285
+2024,Lewisham,E09000023,Aged 60 - 64 years,15764
+2024,Lewisham,E09000023,Aged 65 - 69 years,10668
+2024,Lewisham,E09000023,Aged 70 - 74 years,7229
+2024,Lewisham,E09000023,Aged 75 - 79 years,5488
+2024,Lewisham,E09000023,Aged 80 - 84 years,3749
+2024,Lewisham,E09000023,Aged 85 and over,3973
+2024,Merton,E09000024,Aged under 1 year,2494
+2024,Merton,E09000024,Aged 1 - 4 years,10271
+2024,Merton,E09000024,Aged 5 - 9 years,13356
+2024,Merton,E09000024,Aged 10 - 14 years,13172
+2024,Merton,E09000024,Aged 15 - 19 years,11839
+2024,Merton,E09000024,Aged 20 - 24 years,11488
+2024,Merton,E09000024,Aged 25 - 29 years,17992
+2024,Merton,E09000024,Aged 30 - 34 years,18464
+2024,Merton,E09000024,Aged 35 - 39 years,18055
+2024,Merton,E09000024,Aged 40 - 44 years,17655
+2024,Merton,E09000024,Aged 45 - 49 years,15961
+2024,Merton,E09000024,Aged 50 - 54 years,14412
+2024,Merton,E09000024,Aged 55 - 59 years,13358
+2024,Merton,E09000024,Aged 60 - 64 years,11132
+2024,Merton,E09000024,Aged 65 - 69 years,8667
+2024,Merton,E09000024,Aged 70 - 74 years,6963
+2024,Merton,E09000024,Aged 75 - 79 years,5706
+2024,Merton,E09000024,Aged 80 - 84 years,3672
+2024,Merton,E09000024,Aged 85 and over,3882
+2024,Newham,E09000025,Aged under 1 year,5502
+2024,Newham,E09000025,Aged 1 - 4 years,20103
+2024,Newham,E09000025,Aged 5 - 9 years,22563
+2024,Newham,E09000025,Aged 10 - 14 years,22451
+2024,Newham,E09000025,Aged 15 - 19 years,23587
+2024,Newham,E09000025,Aged 20 - 24 years,35645
+2024,Newham,E09000025,Aged 25 - 29 years,46719
+2024,Newham,E09000025,Aged 30 - 34 years,36279
+2024,Newham,E09000025,Aged 35 - 39 years,31910
+2024,Newham,E09000025,Aged 40 - 44 years,27265
+2024,Newham,E09000025,Aged 45 - 49 years,22799
+2024,Newham,E09000025,Aged 50 - 54 years,20410
+2024,Newham,E09000025,Aged 55 - 59 years,17043
+2024,Newham,E09000025,Aged 60 - 64 years,14039
+2024,Newham,E09000025,Aged 65 - 69 years,10302
+2024,Newham,E09000025,Aged 70 - 74 years,7348
+2024,Newham,E09000025,Aged 75 - 79 years,4637
+2024,Newham,E09000025,Aged 80 - 84 years,2993
+2024,Newham,E09000025,Aged 85 and over,2928
+2024,Redbridge,E09000026,Aged under 1 year,4317
+2024,Redbridge,E09000026,Aged 1 - 4 years,17579
+2024,Redbridge,E09000026,Aged 5 - 9 years,21753
+2024,Redbridge,E09000026,Aged 10 - 14 years,21388
+2024,Redbridge,E09000026,Aged 15 - 19 years,20729
+2024,Redbridge,E09000026,Aged 20 - 24 years,21534
+2024,Redbridge,E09000026,Aged 25 - 29 years,27183
+2024,Redbridge,E09000026,Aged 30 - 34 years,23969
+2024,Redbridge,E09000026,Aged 35 - 39 years,24113
+2024,Redbridge,E09000026,Aged 40 - 44 years,24681
+2024,Redbridge,E09000026,Aged 45 - 49 years,22116
+2024,Redbridge,E09000026,Aged 50 - 54 years,19147
+2024,Redbridge,E09000026,Aged 55 - 59 years,17340
+2024,Redbridge,E09000026,Aged 60 - 64 years,15018
+2024,Redbridge,E09000026,Aged 65 - 69 years,12198
+2024,Redbridge,E09000026,Aged 70 - 74 years,9676
+2024,Redbridge,E09000026,Aged 75 - 79 years,7893
+2024,Redbridge,E09000026,Aged 80 - 84 years,5071
+2024,Redbridge,E09000026,Aged 85 and over,5526
+2024,Richmond upon Thames,E09000027,Aged under 1 year,1722
+2024,Richmond upon Thames,E09000027,Aged 1 - 4 years,8233
+2024,Richmond upon Thames,E09000027,Aged 5 - 9 years,12649
+2024,Richmond upon Thames,E09000027,Aged 10 - 14 years,13712
+2024,Richmond upon Thames,E09000027,Aged 15 - 19 years,11422
+2024,Richmond upon Thames,E09000027,Aged 20 - 24 years,8300
+2024,Richmond upon Thames,E09000027,Aged 25 - 29 years,10544
+2024,Richmond upon Thames,E09000027,Aged 30 - 34 years,11221
+2024,Richmond upon Thames,E09000027,Aged 35 - 39 years,13049
+2024,Richmond upon Thames,E09000027,Aged 40 - 44 years,15182
+2024,Richmond upon Thames,E09000027,Aged 45 - 49 years,15811
+2024,Richmond upon Thames,E09000027,Aged 50 - 54 years,15537
+2024,Richmond upon Thames,E09000027,Aged 55 - 59 years,14196
+2024,Richmond upon Thames,E09000027,Aged 60 - 64 years,11714
+2024,Richmond upon Thames,E09000027,Aged 65 - 69 years,8901
+2024,Richmond upon Thames,E09000027,Aged 70 - 74 years,7858
+2024,Richmond upon Thames,E09000027,Aged 75 - 79 years,7647
+2024,Richmond upon Thames,E09000027,Aged 80 - 84 years,4602
+2024,Richmond upon Thames,E09000027,Aged 85 and over,4378
+2024,Southwark,E09000028,Aged under 1 year,3215
+2024,Southwark,E09000028,Aged 1 - 4 years,11985
+2024,Southwark,E09000028,Aged 5 - 9 years,15047
+2024,Southwark,E09000028,Aged 10 - 14 years,15510
+2024,Southwark,E09000028,Aged 15 - 19 years,18008
+2024,Southwark,E09000028,Aged 20 - 24 years,27913
+2024,Southwark,E09000028,Aged 25 - 29 years,38920
+2024,Southwark,E09000028,Aged 30 - 34 years,36413
+2024,Southwark,E09000028,Aged 35 - 39 years,26561
+2024,Southwark,E09000028,Aged 40 - 44 years,21488
+2024,Southwark,E09000028,Aged 45 - 49 years,19207
+2024,Southwark,E09000028,Aged 50 - 54 years,18525
+2024,Southwark,E09000028,Aged 55 - 59 years,17923
+2024,Southwark,E09000028,Aged 60 - 64 years,15389
+2024,Southwark,E09000028,Aged 65 - 69 years,10377
+2024,Southwark,E09000028,Aged 70 - 74 years,6757
+2024,Southwark,E09000028,Aged 75 - 79 years,5178
+2024,Southwark,E09000028,Aged 80 - 84 years,3233
+2024,Southwark,E09000028,Aged 85 and over,3137
+2024,Sutton,E09000029,Aged under 1 year,2095
+2024,Sutton,E09000029,Aged 1 - 4 years,9689
+2024,Sutton,E09000029,Aged 5 - 9 years,14497
+2024,Sutton,E09000029,Aged 10 - 14 years,15861
+2024,Sutton,E09000029,Aged 15 - 19 years,12865
+2024,Sutton,E09000029,Aged 20 - 24 years,9521
+2024,Sutton,E09000029,Aged 25 - 29 years,12108
+2024,Sutton,E09000029,Aged 30 - 34 years,13959
+2024,Sutton,E09000029,Aged 35 - 39 years,16210
+2024,Sutton,E09000029,Aged 40 - 44 years,18135
+2024,Sutton,E09000029,Aged 45 - 49 years,16558
+2024,Sutton,E09000029,Aged 50 - 54 years,14776
+2024,Sutton,E09000029,Aged 55 - 59 years,13673
+2024,Sutton,E09000029,Aged 60 - 64 years,11688
+2024,Sutton,E09000029,Aged 65 - 69 years,9100
+2024,Sutton,E09000029,Aged 70 - 74 years,7549
+2024,Sutton,E09000029,Aged 75 - 79 years,7144
+2024,Sutton,E09000029,Aged 80 - 84 years,4436
+2024,Sutton,E09000029,Aged 85 and over,4661
+2024,Tower Hamlets,E09000030,Aged under 1 year,4386
+2024,Tower Hamlets,E09000030,Aged 1 - 4 years,14506
+2024,Tower Hamlets,E09000030,Aged 5 - 9 years,16830
+2024,Tower Hamlets,E09000030,Aged 10 - 14 years,16962
+2024,Tower Hamlets,E09000030,Aged 15 - 19 years,19661
+2024,Tower Hamlets,E09000030,Aged 20 - 24 years,37113
+2024,Tower Hamlets,E09000030,Aged 25 - 29 years,50771
+2024,Tower Hamlets,E09000030,Aged 30 - 34 years,40928
+2024,Tower Hamlets,E09000030,Aged 35 - 39 years,30597
+2024,Tower Hamlets,E09000030,Aged 40 - 44 years,24093
+2024,Tower Hamlets,E09000030,Aged 45 - 49 years,19017
+2024,Tower Hamlets,E09000030,Aged 50 - 54 years,15331
+2024,Tower Hamlets,E09000030,Aged 55 - 59 years,12435
+2024,Tower Hamlets,E09000030,Aged 60 - 64 years,9697
+2024,Tower Hamlets,E09000030,Aged 65 - 69 years,7093
+2024,Tower Hamlets,E09000030,Aged 70 - 74 years,4932
+2024,Tower Hamlets,E09000030,Aged 75 - 79 years,3345
+2024,Tower Hamlets,E09000030,Aged 80 - 84 years,2081
+2024,Tower Hamlets,E09000030,Aged 85 and over,2108
+2024,Waltham Forest,E09000031,Aged under 1 year,3926
+2024,Waltham Forest,E09000031,Aged 1 - 4 years,14856
+2024,Waltham Forest,E09000031,Aged 5 - 9 years,17264
+2024,Waltham Forest,E09000031,Aged 10 - 14 years,16669
+2024,Waltham Forest,E09000031,Aged 15 - 19 years,15766
+2024,Waltham Forest,E09000031,Aged 20 - 24 years,15760
+2024,Waltham Forest,E09000031,Aged 25 - 29 years,21503
+2024,Waltham Forest,E09000031,Aged 30 - 34 years,26829
+2024,Waltham Forest,E09000031,Aged 35 - 39 years,27395
+2024,Waltham Forest,E09000031,Aged 40 - 44 years,23723
+2024,Waltham Forest,E09000031,Aged 45 - 49 years,19848
+2024,Waltham Forest,E09000031,Aged 50 - 54 years,17154
+2024,Waltham Forest,E09000031,Aged 55 - 59 years,15781
+2024,Waltham Forest,E09000031,Aged 60 - 64 years,13196
+2024,Waltham Forest,E09000031,Aged 65 - 69 years,9561
+2024,Waltham Forest,E09000031,Aged 70 - 74 years,7235
+2024,Waltham Forest,E09000031,Aged 75 - 79 years,5747
+2024,Waltham Forest,E09000031,Aged 80 - 84 years,3740
+2024,Waltham Forest,E09000031,Aged 85 and over,3784
+2024,Wandsworth,E09000032,Aged under 1 year,3825
+2024,Wandsworth,E09000032,Aged 1 - 4 years,14214
+2024,Wandsworth,E09000032,Aged 5 - 9 years,16263
+2024,Wandsworth,E09000032,Aged 10 - 14 years,15498
+2024,Wandsworth,E09000032,Aged 15 - 19 years,14278
+2024,Wandsworth,E09000032,Aged 20 - 24 years,23798
+2024,Wandsworth,E09000032,Aged 25 - 29 years,53553
+2024,Wandsworth,E09000032,Aged 30 - 34 years,41627
+2024,Wandsworth,E09000032,Aged 35 - 39 years,27883
+2024,Wandsworth,E09000032,Aged 40 - 44 years,23174
+2024,Wandsworth,E09000032,Aged 45 - 49 years,20441
+2024,Wandsworth,E09000032,Aged 50 - 54 years,18549
+2024,Wandsworth,E09000032,Aged 55 - 59 years,17079
+2024,Wandsworth,E09000032,Aged 60 - 64 years,13922
+2024,Wandsworth,E09000032,Aged 65 - 69 years,9883
+2024,Wandsworth,E09000032,Aged 70 - 74 years,8008
+2024,Wandsworth,E09000032,Aged 75 - 79 years,6743
+2024,Wandsworth,E09000032,Aged 80 - 84 years,4441
+2024,Wandsworth,E09000032,Aged 85 and over,4476
+2024,Westminster,E09000033,Aged under 1 year,1883
+2024,Westminster,E09000033,Aged 1 - 4 years,7234
+2024,Westminster,E09000033,Aged 5 - 9 years,7595
+2024,Westminster,E09000033,Aged 10 - 14 years,7852
+2024,Westminster,E09000033,Aged 15 - 19 years,11053
+2024,Westminster,E09000033,Aged 20 - 24 years,19899
+2024,Westminster,E09000033,Aged 25 - 29 years,25704
+2024,Westminster,E09000033,Aged 30 - 34 years,21440
+2024,Westminster,E09000033,Aged 35 - 39 years,16300
+2024,Westminster,E09000033,Aged 40 - 44 years,13422
+2024,Westminster,E09000033,Aged 45 - 49 years,12719
+2024,Westminster,E09000033,Aged 50 - 54 years,13412
+2024,Westminster,E09000033,Aged 55 - 59 years,13917
+2024,Westminster,E09000033,Aged 60 - 64 years,11038
+2024,Westminster,E09000033,Aged 65 - 69 years,8071
+2024,Westminster,E09000033,Aged 70 - 74 years,6291
+2024,Westminster,E09000033,Aged 75 - 79 years,5259
+2024,Westminster,E09000033,Aged 80 - 84 years,3480
+2024,Westminster,E09000033,Aged 85 and over,3427

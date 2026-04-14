@@ -70,7 +70,7 @@ def recommend(
         stations=top,
         line_scores={line: round(sum(scores) / len(scores), 3) for line, scores in line_scores.items()},
         notes=[
-            "Seed data only.",
-            "Phase 1 will replace this with real public-data ingestion."
+            "Recommendations are proxy-based, not ROI guarantees.",
+            "Feature inputs can come from seed or real public data depending on the caller."
         ]
     )

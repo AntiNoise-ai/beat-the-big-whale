@@ -64,8 +64,9 @@ Candidate datasets identified:
 Notes:
 - API works anonymously
 - anonymous access is limited to 25,000 cells
+- current London borough pulls for jobs, total population, and age bands fit within anonymous limits
 - for larger pulls, create an account and use a Nomis UID/signature
-- local scripts should read `NOMIS_UID` from the environment and must not commit credentials or keys
+- local scripts should read `NOMIS_UID` from the environment when needed and must not commit credentials or keys
 
 If needed later, registration page is:
 - https://www.nomisweb.co.uk/

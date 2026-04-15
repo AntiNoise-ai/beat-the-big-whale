@@ -27,6 +27,7 @@ Done:
 - Added richer context payloads to station vectors for explanation generation
 - Added borough/footfall/POI context notes to the real-data demo output
 - Added a Streamlit visual layer with a map, ranked table, line ranking chart, and station drilldown
+- Upgraded the map to use TfL Tube line geometries with clearer line-focused recommendation overlays
 - Added a real-data runnable demo script
 - Added `docs/data_sources.md` with access notes and registration requirements
 

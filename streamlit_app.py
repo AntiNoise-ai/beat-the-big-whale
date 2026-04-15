@@ -2,9 +2,11 @@ from __future__ import annotations
 
 import json
 import sys
+import urllib.request
 from pathlib import Path
 
 import pandas as pd
+import pydeck as pdk
 import streamlit as st
 
 ROOT = Path(__file__).resolve().parent
@@ -46,6 +48,34 @@ FRIENDLY_FEATURE_NAMES = {
     "zone_centrality": "Zone centrality",
 }
 
+LINE_API_IDS = {
+    "Bakerloo": "bakerloo",
+    "Central": "central",
+    "Circle": "circle",
+    "District": "district",
+    "Hammersmith & City": "hammersmith-city",
+    "Jubilee": "jubilee",
+    "Metropolitan": "metropolitan",
+    "Northern": "northern",
+    "Piccadilly": "piccadilly",
+    "Victoria": "victoria",
+    "Waterloo & City": "waterloo-city",
+}
+
+LINE_COLORS = {
+    "Bakerloo": [137, 78, 36],
+    "Central": [220, 36, 31],
+    "Circle": [255, 205, 0],
+    "District": [0, 121, 52],
+    "Hammersmith & City": [236, 155, 173],
+    "Jubilee": [161, 165, 167],
+    "Metropolitan": [117, 16, 86],
+    "Northern": [0, 0, 0],
+    "Piccadilly": [0, 25, 168],
+    "Victoria": [0, 152, 216],
+    "Waterloo & City": [147, 206, 186],
+}
+
 
 @st.cache_data
 def load_vectors() -> list[StationFeatureVector]:
@@ -60,12 +90,15 @@ def load_station_frame() -> pd.DataFrame:
         STATION_REFERENCE_PATH,
         usecols=["station_id", "station_name", "latitude", "longitude", "annualised_total"],
     )
+    reference["annualised_total"] = pd.to_numeric(reference["annualised_total"], errors="coerce")
+    features["annualised_total"] = pd.to_numeric(features["annualised_total"], errors="coerce")
     merged = features.merge(
         reference,
         on=["station_id", "station_name", "annualised_total"],
         how="left",
     )
     merged["annualised_total_m"] = merged["annualised_total"] / 1_000_000
+    merged["line_list"] = merged["lines"].fillna("").map(lambda value: [part for part in str(value).split("|") if part])
     return merged
 
 
@@ -84,10 +117,40 @@ def load_results(industry: str, top_k: int) -> tuple[pd.DataFrame, pd.DataFrame]
         station_rows.append(row)
 
     stations_df = pd.DataFrame(station_rows)
+    if stations_df.empty:
+        return stations_df, pd.DataFrame(columns=["line", "score"])
+
+    stations_df["primary_line"] = stations_df["line_list"].map(lambda lines: lines[0] if lines else "Other")
+    stations_df["line_color"] = stations_df["primary_line"].map(lambda line: LINE_COLORS.get(line, [255, 140, 0]))
+    stations_df["score_radius"] = stations_df["score"].map(lambda value: max(9000, int(value * 220)))
+    stations_df["label"] = stations_df.apply(lambda row: f"{row['station_name']} ({row['score']:.1f})", axis=1)
+
     line_df = pd.DataFrame(
         [{"line": line, "score": score} for line, score in result.line_scores.items()]
     ).sort_values("score", ascending=False)
     return stations_df, line_df
+
+
+@st.cache_data
+def fetch_tube_network() -> pd.DataFrame:
+    rows = []
+    for line_name, api_id in LINE_API_IDS.items():
+        url = f"https://api.tfl.gov.uk/Line/{api_id}/Route/Sequence/all"
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=60) as response:
+            payload = json.load(response)
+        for idx, line_string in enumerate(payload.get("lineStrings", [])):
+            coordinates = json.loads(line_string)
+            rows.append(
+                {
+                    "line": line_name,
+                    "path": [[point[0], point[1]] for point in coordinates],
+                    "color": LINE_COLORS.get(line_name, [120, 120, 120]),
+                    "width": 3,
+                    "segment": idx,
+                }
+            )
+    return pd.DataFrame(rows)
 
 
 def build_feature_chart_data(row: pd.Series) -> pd.DataFrame:
@@ -99,18 +162,101 @@ def build_feature_chart_data(row: pd.Series) -> pd.DataFrame:
     ).sort_values("value", ascending=False)
 
 
-st.set_page_config(page_title="London Tube Advertising Recommender", layout="wide")
+def build_line_network_for_display(line_df: pd.DataFrame, focus_line: str) -> pd.DataFrame:
+    network = fetch_tube_network().copy()
+    top_lines = set(line_df["line"].head(4).tolist()) if not line_df.empty else set()
 
-st.title("London Tube Advertising Recommender")
-st.caption("Public-data-first station ranking for London Underground advertising ideas")
+    def style_row(row: pd.Series) -> pd.Series:
+        line = row["line"]
+        if focus_line != "All" and line != focus_line:
+            row["color"] = [210, 210, 210]
+            row["width"] = 1
+        elif line in top_lines:
+            row["width"] = 6
+        else:
+            row["width"] = 3
+        return row
+
+    return network.apply(style_row, axis=1)
+
+
+def build_map(stations_df: pd.DataFrame, line_df: pd.DataFrame, focus_line: str) -> pdk.Deck:
+    network_df = build_line_network_for_display(line_df, focus_line)
+    if focus_line != "All":
+        network_df = network_df.loc[network_df["line"] == focus_line].copy()
+        filtered_stations = stations_df.loc[stations_df["line_list"].map(lambda lines: focus_line in lines)].copy()
+        if filtered_stations.empty:
+            filtered_stations = stations_df.copy()
+    else:
+        filtered_stations = stations_df.copy()
+
+    line_layer = pdk.Layer(
+        "PathLayer",
+        data=network_df,
+        get_path="path",
+        get_color="color",
+        get_width="width",
+        width_min_pixels=2,
+        pickable=True,
+        opacity=0.78,
+    )
+
+    station_layer = pdk.Layer(
+        "ScatterplotLayer",
+        data=filtered_stations,
+        get_position="[longitude, latitude]",
+        get_fill_color="line_color",
+        get_line_color=[255, 255, 255],
+        get_line_width=2,
+        line_width_min_pixels=1,
+        get_radius="score_radius",
+        radius_min_pixels=6,
+        radius_max_pixels=22,
+        pickable=True,
+        opacity=0.92,
+    )
+
+    text_layer = pdk.Layer(
+        "TextLayer",
+        data=filtered_stations.head(8),
+        get_position="[longitude, latitude]",
+        get_text="station_name",
+        get_size=13,
+        size_units="pixels",
+        get_color=[25, 25, 25],
+        get_angle=0,
+        get_text_anchor='start',
+        get_alignment_baseline='bottom',
+        get_pixel_offset=[8, -8],
+    )
+
+    mid_lat = filtered_stations["latitude"].mean()
+    mid_lon = filtered_stations["longitude"].mean()
+    return pdk.Deck(
+        map_style="light",
+        initial_view_state=pdk.ViewState(latitude=mid_lat, longitude=mid_lon, zoom=10.2, pitch=0),
+        layers=[line_layer, station_layer, text_layer],
+        tooltip={
+            "html": "<b>{station_name}</b><br/>Score: {score}<br/>Lines: {lines}<br/>Annual entries/exits: {annualised_total_m}M",
+            "style": {"backgroundColor": "#111827", "color": "white"},
+        },
+    )
+
+
+st.set_page_config(page_title="Beat the Big Whale", layout="wide")
+
+st.title("Beat the Big Whale")
+st.caption("Use smarter location intelligence to beat big-budget spray-and-pray")
 
 with st.sidebar:
     st.header("Campaign settings")
     industry = st.selectbox("Business profile", BUSINESS_PROFILES, index=BUSINESS_PROFILES.index("luxury_retail"))
     top_k = st.slider("Top stations", min_value=3, max_value=20, value=8)
-    st.info("This is a strategy proxy tool, not an ROI predictor.")
+    st.info("Proxy-based strategy tool for underdog teams, not an ROI guarantee.")
 
 stations_df, line_df = load_results(industry, top_k)
+line_focus_options = ["All"] + line_df["line"].tolist()
+focus_line = st.selectbox("Map focus", line_focus_options, index=0)
 
 best_station = stations_df.iloc[0]
 col1, col2, col3 = st.columns(3)
@@ -118,9 +264,9 @@ col1.metric("Top station", best_station["station_name"])
 col2.metric("Top score", f"{best_station['score']:.2f}")
 col3.metric("Top station footfall", f"{best_station['annualised_total_m']:.1f}M annual")
 
-st.subheader("Recommended stations")
-map_df = stations_df.rename(columns={"latitude": "lat", "longitude": "lon"})[["lat", "lon", "score", "station_name"]]
-st.map(map_df, size="score", zoom=10)
+st.subheader("Recommended stations on the Tube network")
+st.caption("Tube lines are drawn from TfL route sequences. Top lines for the current profile are visually emphasized.")
+st.pydeck_chart(build_map(stations_df, line_df, focus_line), width="stretch")
 
 st.dataframe(
     stations_df[DISPLAY_COLUMNS].rename(
@@ -135,7 +281,7 @@ st.dataframe(
             "context_notes": "Context",
         }
     ),
-    use_container_width=True,
+    width="stretch",
     hide_index=True,
 )
 
@@ -169,4 +315,4 @@ with right:
     st.bar_chart(chart_df.set_index("feature"))
 
 st.subheader("How to run locally")
-st.code("cd london-tube-advertising && . .venv/bin/activate && streamlit run streamlit_app.py", language="bash")
+st.code("cd /srv/agents/beat-the-big-whale && . .venv/bin/activate && streamlit run streamlit_app.py", language="bash")

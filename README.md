@@ -1,6 +1,6 @@
-# London Tube Advertising Recommender
+# Beat the Big Whale
 
-This folder tracks progress on a public-data-first product for recommending London Underground stations and lines for advertising campaigns.
+This repo tracks a public-data-first location-intelligence product for recommending London Underground stations and lines to smaller teams that want sharper ad decisions.
 
 Goal:
 A company enters its business/industry and the product recommends the best stations or lines based on nearby residents, workers, retail, restaurants, tourism, and other public-data proxies.
@@ -15,6 +15,7 @@ Current status:
 - first richer real-data feature table built with improved family/student/affluence proxies
 - real-data demo explanations now include borough, footfall, and nearby-POI context
 - first visual layer shipped as a Streamlit app with a map, ranked table, and station drilldown
+- map upgraded to use TfL Tube line geometries so recommendations sit on a recognizable London network view
 
 Contents:
 - `STATUS.md` — concise progress log

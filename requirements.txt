@@ -4,3 +4,4 @@ shapely
 pyproj
 pyogrio
 streamlit
+pypdfium2

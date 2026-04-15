@@ -7,6 +7,7 @@ from pathlib import Path
 
 import pandas as pd
 import pydeck as pdk
+import pypdfium2 as pdfium
 import streamlit as st
 
 ROOT = Path(__file__).resolve().parent
@@ -21,6 +22,8 @@ from tube_london_ads.scoring import recommend
 VECTORS_PATH = ROOT / "data" / "processed" / "station_feature_vectors_real.json"
 FEATURE_TABLE_PATH = ROOT / "data" / "processed" / "station_feature_table_real.csv"
 STATION_REFERENCE_PATH = ROOT / "data" / "processed" / "station_reference_with_counts.csv"
+CACHE_DIR = ROOT / ".cache"
+TFL_STANDARD_TUBE_MAP_URL = "https://content.tfl.gov.uk/standard-tube-map.pdf"
 
 DISPLAY_COLUMNS = [
     "station_name",
@@ -153,6 +156,26 @@ def fetch_tube_network() -> pd.DataFrame:
     return pd.DataFrame(rows)
 
 
+@st.cache_data
+def get_official_tfl_map_image() -> bytes:
+    CACHE_DIR.mkdir(exist_ok=True)
+    pdf_path = CACHE_DIR / "standard-tube-map.pdf"
+    png_path = CACHE_DIR / "standard-tube-map-page1.png"
+
+    if not pdf_path.exists():
+        req = urllib.request.Request(TFL_STANDARD_TUBE_MAP_URL, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=60) as response:
+            pdf_path.write_bytes(response.read())
+
+    if not png_path.exists() or png_path.stat().st_mtime < pdf_path.stat().st_mtime:
+        pdf = pdfium.PdfDocument(str(pdf_path))
+        page = pdf[0]
+        image = page.render(scale=2.2).to_pil()
+        image.save(png_path)
+
+    return png_path.read_bytes()
+
+
 def build_feature_chart_data(row: pd.Series) -> pd.DataFrame:
     return pd.DataFrame(
         {
@@ -264,9 +287,19 @@ col1.metric("Top station", best_station["station_name"])
 col2.metric("Top score", f"{best_station['score']:.2f}")
 col3.metric("Top station footfall", f"{best_station['annualised_total_m']:.1f}M annual")
 
-st.subheader("Recommended stations on the Tube network")
-st.caption("Tube lines are drawn from TfL route sequences. Top lines for the current profile are visually emphasized.")
-st.pydeck_chart(build_map(stations_df, line_df, focus_line), width="stretch")
+st.subheader("Map views")
+geo_tab, classic_tab = st.tabs(["Geographic network view", "Classic TfL map reference"])
+
+with geo_tab:
+    st.caption("Tube lines are drawn from TfL route sequences. Top lines for the current profile are visually emphasized.")
+    st.pydeck_chart(build_map(stations_df, line_df, focus_line), width="stretch")
+
+with classic_tab:
+    st.caption("This is the official TfL schematic Tube map for visual reference. It is not yet station-overlaid, because schematic map coordinates differ from real geography.")
+    st.image(get_official_tfl_map_image(), caption="Official TfL standard Tube map", width="stretch")
+    st.markdown("Top recommended stations on that map:")
+    for idx, row in stations_df.head(8).iterrows():
+        st.write(f"{idx + 1}. {row['station_name']} — {row['lines']}")
 
 st.dataframe(
     stations_df[DISPLAY_COLUMNS].rename(

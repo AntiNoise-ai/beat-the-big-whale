@@ -1,0 +1,1090 @@
+{
+  "Acton Town": {
+    "x": 776,
+    "y": 2031
+  },
+  "Aldgate": {
+    "x": 2798,
+    "y": 1809
+  },
+  "Aldgate East": {
+    "x": 2972,
+    "y": 1767
+  },
+  "Alperton": {
+    "x": 775,
+    "y": 1437
+  },
+  "Amersham": {
+    "x": 170,
+    "y": 668
+  },
+  "Angel": {
+    "x": 2517,
+    "y": 1553
+  },
+  "Archway": {
+    "x": 2287,
+    "y": 1031
+  },
+  "Arnos Grove": {
+    "x": 2674,
+    "y": 730
+  },
+  "Arsenal": {
+    "x": 2606,
+    "y": 1174
+  },
+  "Baker Street": {
+    "x": 1945,
+    "y": 1532
+  },
+  "Balham": {
+    "x": 1923,
+    "y": 2849
+  },
+  "Bank": {
+    "x": 2286,
+    "y": 2077
+  },
+  "Barbican": {
+    "x": 2469,
+    "y": 1731
+  },
+  "Barking": {
+    "x": 3982,
+    "y": 1033
+  },
+  "Barkingside": {
+    "x": 3982,
+    "y": 1033
+  },
+  "Barons Court": {
+    "x": 1369,
+    "y": 2033
+  },
+  "Battersea Power Station": {
+    "x": 1710,
+    "y": 2487
+  },
+  "Bayswater": {
+    "x": 1618,
+    "y": 1760
+  },
+  "Becontree": {
+    "x": 4150,
+    "y": 1671
+  },
+  "Belsize Park": {
+    "x": 2080,
+    "y": 1270
+  },
+  "Bermondsey": {
+    "x": 2758,
+    "y": 2152
+  },
+  "Bethnal Green": {
+    "x": 3095,
+    "y": 1575
+  },
+  "Blackfriars": {
+    "x": 2346,
+    "y": 2039
+  },
+  "Blackhorse Road": {
+    "x": 3258,
+    "y": 1018
+  },
+  "Bond Street": {
+    "x": 1938,
+    "y": 1720
+  },
+  "Borough": {
+    "x": 2490,
+    "y": 2309
+  },
+  "Boston Manor": {
+    "x": 458,
+    "y": 2143
+  },
+  "Bounds Green": {
+    "x": 2660,
+    "y": 775
+  },
+  "Bow Road": {
+    "x": 3357,
+    "y": 1764
+  },
+  "Brent Cross": {
+    "x": 1646,
+    "y": 1031
+  },
+  "Brixton": {
+    "x": 2174,
+    "y": 2774
+  },
+  "Buckhurst Hill": {
+    "x": 3617,
+    "y": 757
+  },
+  "Burnt Oak": {
+    "x": 1601,
+    "y": 777
+  },
+  "Caledonian Road": {
+    "x": 2582,
+    "y": 1348
+  },
+  "Camden Town": {
+    "x": 2121,
+    "y": 1364
+  },
+  "Canada Water": {
+    "x": 2975,
+    "y": 2177
+  },
+  "Canary Wharf": {
+    "x": 3277,
+    "y": 2128
+  },
+  "Canning Town": {
+    "x": 3680,
+    "y": 2003
+  },
+  "Cannon Street": {
+    "x": 2481,
+    "y": 1911
+  },
+  "Canons Park": {
+    "x": 1436,
+    "y": 881
+  },
+  "Chalfont & Latimer": {
+    "x": 384,
+    "y": 596
+  },
+  "Chalk Farm": {
+    "x": 2130,
+    "y": 1314
+  },
+  "Chancery Lane": {
+    "x": 2334,
+    "y": 1875
+  },
+  "Charing Cross": {
+    "x": 2232,
+    "y": 1976
+  },
+  "Chesham": {
+    "x": 179,
+    "y": 562
+  },
+  "Chigwell": {
+    "x": 3824,
+    "y": 887
+  },
+  "Chiswick Park": {
+    "x": 821,
+    "y": 2130
+  },
+  "Chorleywood": {
+    "x": 528,
+    "y": 705
+  },
+  "Clapham Common": {
+    "x": 2014,
+    "y": 2754
+  },
+  "Clapham North": {
+    "x": 1888,
+    "y": 2693
+  },
+  "Clapham South": {
+    "x": 1964,
+    "y": 2808
+  },
+  "Cockfosters": {
+    "x": 2678,
+    "y": 597
+  },
+  "Colindale": {
+    "x": 1650,
+    "y": 819
+  },
+  "Colliers Wood": {
+    "x": 1707,
+    "y": 2920
+  },
+  "Covent Garden": {
+    "x": 2285,
+    "y": 1909
+  },
+  "Croxley": {
+    "x": 776,
+    "y": 717
+  },
+  "Dagenham East": {
+    "x": 4250,
+    "y": 1572
+  },
+  "Dagenham Heathway": {
+    "x": 4196,
+    "y": 1625
+  },
+  "Debden": {
+    "x": 3787,
+    "y": 631
+  },
+  "Dollis Hill": {
+    "x": 1553,
+    "y": 1142
+  },
+  "Ealing Broadway": {
+    "x": 653,
+    "y": 1821
+  },
+  "Ealing Common": {
+    "x": 654,
+    "y": 1984
+  },
+  "East Acton": {
+    "x": 1175,
+    "y": 1851
+  },
+  "East Finchley": {
+    "x": 2249,
+    "y": 927
+  },
+  "East Ham": {
+    "x": 3902,
+    "y": 1765
+  },
+  "East Putney": {
+    "x": 1385,
+    "y": 2474
+  },
+  "Eastcote": {
+    "x": 724,
+    "y": 908
+  },
+  "Edgware": {
+    "x": 1530,
+    "y": 1498
+  },
+  "Edgware Road (Bakerloo)": {
+    "x": 1530,
+    "y": 1498
+  },
+  "Edgware Road (Circle Line)": {
+    "x": 1530,
+    "y": 1498
+  },
+  "Elephant & Castle": {
+    "x": 2378,
+    "y": 2478
+  },
+  "Elm Park": {
+    "x": 4299,
+    "y": 1520
+  },
+  "Embankment": {
+    "x": 2257,
+    "y": 2077
+  },
+  "Epping": {
+    "x": 3857,
+    "y": 566
+  },
+  "Euston": {
+    "x": 2123,
+    "y": 1589
+  },
+  "Euston Square": {
+    "x": 2123,
+    "y": 1589
+  },
+  "Fairlop": {
+    "x": 3981,
+    "y": 975
+  },
+  "Farringdon": {
+    "x": 2495,
+    "y": 1615
+  },
+  "Finchley Central": {
+    "x": 2219,
+    "y": 875
+  },
+  "Finchley Road": {
+    "x": 1662,
+    "y": 1431
+  },
+  "Finsbury Park": {
+    "x": 2761,
+    "y": 1154
+  },
+  "Fulham Broadway": {
+    "x": 1330,
+    "y": 2298
+  },
+  "Gants Hill": {
+    "x": 3887,
+    "y": 1156
+  },
+  "Gloucester Road": {
+    "x": 1620,
+    "y": 2036
+  },
+  "Golders Green": {
+    "x": 1960,
+    "y": 989
+  },
+  "Goldhawk Road": {
+    "x": 1166,
+    "y": 2004
+  },
+  "Goodge Street": {
+    "x": 2134,
+    "y": 1703
+  },
+  "Grange Hill": {
+    "x": 3879,
+    "y": 839
+  },
+  "Great Portland Street": {
+    "x": 1970,
+    "y": 1592
+  },
+  "Green Park": {
+    "x": 1964,
+    "y": 1892
+  },
+  "Greenford": {
+    "x": 611,
+    "y": 1404
+  },
+  "Gunnersbury": {
+    "x": 887,
+    "y": 2249
+  },
+  "Hainault": {
+    "x": 3984,
+    "y": 914
+  },
+  "Hammersmith (Dist&Picc Line)": {
+    "x": 4897,
+    "y": 1960
+  },
+  "Hammersmith (H&C Line)": {
+    "x": 4897,
+    "y": 1960
+  },
+  "Hampstead": {
+    "x": 1940,
+    "y": 1392
+  },
+  "Hanger Lane": {
+    "x": 816,
+    "y": 1592
+  },
+  "Harlesden": {
+    "x": 1187,
+    "y": 1266
+  },
+  "Harrow & Wealdstone": {
+    "x": 1194,
+    "y": 872
+  },
+  "Hatton Cross": {
+    "x": 418,
+    "y": 2360
+  },
+  "Heathrow Terminal 4": {
+    "x": 360,
+    "y": 2599
+  },
+  "Heathrow Terminal 5": {
+    "x": 199,
+    "y": 2599
+  },
+  "Heathrow Terminals 2 & 3": {
+    "x": 226,
+    "y": 2331
+  },
+  "Hendon Central": {
+    "x": 1861,
+    "y": 885
+  },
+  "High Barnet": {
+    "x": 2261,
+    "y": 632
+  },
+  "High Street Kensington": {
+    "x": 1618,
+    "y": 1956
+  },
+  "Highbury & Islington": {
+    "x": 4732,
+    "y": 1273
+  },
+  "Highgate": {
+    "x": 2289,
+    "y": 975
+  },
+  "Hillingdon": {
+    "x": 307,
+    "y": 877
+  },
+  "Holborn": {
+    "x": 2259,
+    "y": 1815
+  },
+  "Holland Park": {
+    "x": 1512,
+    "y": 1915
+  },
+  "Holloway Road": {
+    "x": 2543,
+    "y": 1203
+  },
+  "Hornchurch": {
+    "x": 4352,
+    "y": 1470
+  },
+  "Hounslow Central": {
+    "x": 515,
+    "y": 2261
+  },
+  "Hounslow East": {
+    "x": 544,
+    "y": 2234
+  },
+  "Hounslow West": {
+    "x": 4679,
+    "y": 842
+  },
+  "Hyde Park Corner": {
+    "x": 1762,
+    "y": 1933
+  },
+  "Ickenham": {
+    "x": 411,
+    "y": 928
+  },
+  "Kennington": {
+    "x": 2091,
+    "y": 2493
+  },
+  "Kensal Green": {
+    "x": 1321,
+    "y": 1374
+  },
+  "Kensington (Olympia)": {
+    "x": 1358,
+    "y": 1978
+  },
+  "Kentish Town": {
+    "x": 2272,
+    "y": 1203
+  },
+  "Kenton": {
+    "x": 1214,
+    "y": 983
+  },
+  "Kew Gardens": {
+    "x": 768,
+    "y": 2375
+  },
+  "Kilburn": {
+    "x": 1492,
+    "y": 1427
+  },
+  "Kilburn Park": {
+    "x": 1241,
+    "y": 1487
+  },
+  "King's Cross St. Pancras": {
+    "x": 1439,
+    "y": 990
+  },
+  "Kingsbury": {
+    "x": 1439,
+    "y": 990
+  },
+  "Knightsbridge": {
+    "x": 1670,
+    "y": 2003
+  },
+  "Ladbroke Grove": {
+    "x": 1401,
+    "y": 1756
+  },
+  "Lambeth North": {
+    "x": 2262,
+    "y": 2329
+  },
+  "Lancaster Gate": {
+    "x": 1772,
+    "y": 1870
+  },
+  "Latimer Road": {
+    "x": 1363,
+    "y": 1794
+  },
+  "Leicester Square": {
+    "x": 2125,
+    "y": 1872
+  },
+  "Leyton": {
+    "x": 3407,
+    "y": 1174
+  },
+  "Leytonstone": {
+    "x": 3583,
+    "y": 1209
+  },
+  "Liverpool Street": {
+    "x": 2751,
+    "y": 1633
+  },
+  "London Bridge": {
+    "x": 2666,
+    "y": 2087
+  },
+  "Loughton": {
+    "x": 3739,
+    "y": 663
+  },
+  "Maida Vale": {
+    "x": 1294,
+    "y": 1523
+  },
+  "Manor House": {
+    "x": 2825,
+    "y": 1042
+  },
+  "Mansion House": {
+    "x": 2395,
+    "y": 1982
+  },
+  "Marble Arch": {
+    "x": 1677,
+    "y": 1805
+  },
+  "Marylebone": {
+    "x": 1707,
+    "y": 1496
+  },
+  "Mile End": {
+    "x": 3265,
+    "y": 1663
+  },
+  "Mill Hill East": {
+    "x": 2218,
+    "y": 814
+  },
+  "Monument": {
+    "x": 2670,
+    "y": 1927
+  },
+  "Moor Park": {
+    "x": 796,
+    "y": 787
+  },
+  "Moorgate": {
+    "x": 2538,
+    "y": 1768
+  },
+  "Morden": {
+    "x": 1458,
+    "y": 3032
+  },
+  "Mornington Crescent": {
+    "x": 2134,
+    "y": 1419
+  },
+  "Neasden": {
+    "x": 1510,
+    "y": 1098
+  },
+  "Newbury Park": {
+    "x": 3985,
+    "y": 1088
+  },
+  "Nine Elms": {
+    "x": 1837,
+    "y": 2488
+  },
+  "North Acton": {
+    "x": 1111,
+    "y": 1915
+  },
+  "North Ealing": {
+    "x": 774,
+    "y": 1747
+  },
+  "North Greenwich": {
+    "x": 3569,
+    "y": 2219
+  },
+  "North Harrow": {
+    "x": 978,
+    "y": 973
+  },
+  "North Wembley": {
+    "x": 1134,
+    "y": 1138
+  },
+  "Northfields": {
+    "x": 634,
+    "y": 2144
+  },
+  "Northolt": {
+    "x": 438,
+    "y": 1196
+  },
+  "Northwick Park": {
+    "x": 1145,
+    "y": 1010
+  },
+  "Northwood": {
+    "x": 840,
+    "y": 833
+  },
+  "Northwood Hills": {
+    "x": 875,
+    "y": 867
+  },
+  "Notting Hill Gate": {
+    "x": 1615,
+    "y": 1854
+  },
+  "Oakwood": {
+    "x": 2699,
+    "y": 640
+  },
+  "Old Street": {
+    "x": 2645,
+    "y": 1570
+  },
+  "Osterley": {
+    "x": 578,
+    "y": 2201
+  },
+  "Oval": {
+    "x": 2161,
+    "y": 2607
+  },
+  "Oxford Circus": {
+    "x": 2044,
+    "y": 1811
+  },
+  "Paddington": {
+    "x": 1647,
+    "y": 1633
+  },
+  "Paddington (H&C Line)-Underground": {
+    "x": 1647,
+    "y": 1633
+  },
+  "Park Royal": {
+    "x": 703,
+    "y": 1671
+  },
+  "Parsons Green": {
+    "x": 1364,
+    "y": 2343
+  },
+  "Perivale": {
+    "x": 603,
+    "y": 1511
+  },
+  "Piccadilly Circus": {
+    "x": 2039,
+    "y": 1938
+  },
+  "Pimlico": {
+    "x": 1870,
+    "y": 2336
+  },
+  "Pinner": {
+    "x": 935,
+    "y": 924
+  },
+  "Plaistow": {
+    "x": 3725,
+    "y": 1767
+  },
+  "Preston Road": {
+    "x": 1323,
+    "y": 1012
+  },
+  "Putney Bridge": {
+    "x": 1367,
+    "y": 2386
+  },
+  "Queensbury": {
+    "x": 1437,
+    "y": 935
+  },
+  "Queensway": {
+    "x": 1640,
+    "y": 1915
+  },
+  "Ravenscourt Park": {
+    "x": 1194,
+    "y": 2131
+  },
+  "Rayners Lane": {
+    "x": 660,
+    "y": 979
+  },
+  "Redbridge": {
+    "x": 3819,
+    "y": 1107
+  },
+  "Richmond": {
+    "x": 683,
+    "y": 2459
+  },
+  "Rickmansworth": {
+    "x": 571,
+    "y": 757
+  },
+  "Roding Valley": {
+    "x": 3768,
+    "y": 819
+  },
+  "Royal Oak": {
+    "x": 1374,
+    "y": 1624
+  },
+  "Ruislip": {
+    "x": 560,
+    "y": 931
+  },
+  "Ruislip Gardens": {
+    "x": 456,
+    "y": 1010
+  },
+  "Ruislip Manor": {
+    "x": 582,
+    "y": 875
+  },
+  "Russell Square": {
+    "x": 2329,
+    "y": 1624
+  },
+  "Seven Sisters": {
+    "x": 2988,
+    "y": 1043
+  },
+  "Shepherd's Bush (Central)": {
+    "x": 1205,
+    "y": 1958
+  },
+  "Shepherd's Bush Market": {
+    "x": 1205,
+    "y": 1958
+  },
+  "Sloane Square": {
+    "x": 1827,
+    "y": 2130
+  },
+  "Snaresbrook": {
+    "x": 3615,
+    "y": 1088
+  },
+  "South Ealing": {
+    "x": 595,
+    "y": 2056
+  },
+  "South Harrow": {
+    "x": 773,
+    "y": 1148
+  },
+  "South Kensington": {
+    "x": 1692,
+    "y": 2131
+  },
+  "South Kenton": {
+    "x": 1153,
+    "y": 1097
+  },
+  "South Ruislip": {
+    "x": 459,
+    "y": 1093
+  },
+  "South Wimbledon": {
+    "x": 1743,
+    "y": 3023
+  },
+  "South Woodford": {
+    "x": 3576,
+    "y": 1003
+  },
+  "Southfields": {
+    "x": 1388,
+    "y": 2533
+  },
+  "Southgate": {
+    "x": 2484,
+    "y": 809
+  },
+  "Southwark": {
+    "x": 2278,
+    "y": 2282
+  },
+  "Stamford Brook": {
+    "x": 1098,
+    "y": 2131
+  },
+  "Stanmore": {
+    "x": 1438,
+    "y": 820
+  },
+  "Stepney Green": {
+    "x": 3231,
+    "y": 1767
+  },
+  "Stockwell": {
+    "x": 2117,
+    "y": 2641
+  },
+  "Stonebridge Park": {
+    "x": 1124,
+    "y": 1225
+  },
+  "Stratford": {
+    "x": 3418,
+    "y": 1331
+  },
+  "Sudbury Hill": {
+    "x": 776,
+    "y": 1235
+  },
+  "Sudbury Town": {
+    "x": 776,
+    "y": 1344
+  },
+  "Swiss Cottage": {
+    "x": 1849,
+    "y": 1452
+  },
+  "Temple": {
+    "x": 2323,
+    "y": 2129
+  },
+  "Theydon Bois": {
+    "x": 3769,
+    "y": 598
+  },
+  "Tooting Bec": {
+    "x": 1882,
+    "y": 2888
+  },
+  "Tooting Broadway": {
+    "x": 1841,
+    "y": 2927
+  },
+  "Tottenham Court Road": {
+    "x": 2230,
+    "y": 1703
+  },
+  "Tottenham Hale": {
+    "x": 3091,
+    "y": 1106
+  },
+  "Totteridge & Whetstone": {
+    "x": 2152,
+    "y": 680
+  },
+  "Tower Hill": {
+    "x": 2787,
+    "y": 1927
+  },
+  "Tufnell Park": {
+    "x": 2398,
+    "y": 1121
+  },
+  "Turnham Green": {
+    "x": 1001,
+    "y": 2132
+  },
+  "Turnpike Lane": {
+    "x": 2706,
+    "y": 893
+  },
+  "Upminster": {
+    "x": 4405,
+    "y": 1417
+  },
+  "Upminster Bridge": {
+    "x": 4405,
+    "y": 1417
+  },
+  "Upney": {
+    "x": 4102,
+    "y": 1720
+  },
+  "Uxbridge": {
+    "x": 209,
+    "y": 928
+  },
+  "Vauxhall": {
+    "x": 1863,
+    "y": 2537
+  },
+  "Victoria": {
+    "x": 4897,
+    "y": 2262
+  },
+  "Walthamstow Central": {
+    "x": 3421,
+    "y": 1065
+  },
+  "Wanstead": {
+    "x": 3768,
+    "y": 1156
+  },
+  "Warren Street": {
+    "x": 2238,
+    "y": 1624
+  },
+  "Warwick Avenue": {
+    "x": 1419,
+    "y": 1545
+  },
+  "Waterloo": {
+    "x": 4902,
+    "y": 2323
+  },
+  "Watford": {
+    "x": 779,
+    "y": 657
+  },
+  "Wembley Central": {
+    "x": 1127,
+    "y": 1182
+  },
+  "Wembley Park": {
+    "x": 1463,
+    "y": 1052
+  },
+  "West Acton": {
+    "x": 903,
+    "y": 1851
+  },
+  "West Brompton": {
+    "x": 1414,
+    "y": 2182
+  },
+  "West Finchley": {
+    "x": 2242,
+    "y": 763
+  },
+  "West Ham": {
+    "x": 1752,
+    "y": 1275
+  },
+  "West Hampstead": {
+    "x": 1752,
+    "y": 1275
+  },
+  "West Harrow": {
+    "x": 918,
+    "y": 1077
+  },
+  "West Kensington": {
+    "x": 1416,
+    "y": 2131
+  },
+  "West Ruislip": {
+    "x": 406,
+    "y": 817
+  },
+  "Westbourne Park": {
+    "x": 1453,
+    "y": 1709
+  },
+  "Westminster": {
+    "x": 1983,
+    "y": 2074
+  },
+  "White City": {
+    "x": 1259,
+    "y": 1849
+  },
+  "Whitechapel": {
+    "x": 3065,
+    "y": 1763
+  },
+  "Willesden Green": {
+    "x": 1600,
+    "y": 1189
+  },
+  "Willesden Junction": {
+    "x": 1112,
+    "y": 1304
+  },
+  "Wimbledon": {
+    "x": 1346,
+    "y": 2585
+  },
+  "Wimbledon Park": {
+    "x": 1346,
+    "y": 2585
+  },
+  "Wood Green": {
+    "x": 2677,
+    "y": 838
+  },
+  "Wood Lane": {
+    "x": 1209,
+    "y": 1930
+  },
+  "Woodford": {
+    "x": 3637,
+    "y": 914
+  },
+  "Woodside Park": {
+    "x": 2235,
+    "y": 720
+  },
+  "Bromley-by-Bow": {
+    "x": 4078,
+    "y": 2667
+  },
+  "Earl's Court": {
+    "x": 1528,
+    "y": 2130
+  },
+  "Harrow-on-the-Hill": {
+    "x": 1036,
+    "y": 1076
+  },
+  "Queen's Park": {
+    "x": 1202,
+    "y": 1449
+  },
+  "Regent's Park": {
+    "x": 1980,
+    "y": 1644
+  },
+  "St. James's Park": {
+    "x": 2002,
+    "y": 2129
+  },
+  "St. John's Wood": {
+    "x": 1917,
+    "y": 1489
+  },
+  "St. Paul's": {
+    "x": 2518,
+    "y": 1876
+  },
+  "Upton Park": {
+    "x": 3818,
+    "y": 1767
+  }
+}

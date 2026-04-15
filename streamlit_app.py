@@ -24,6 +24,7 @@ from tube_london_ads.profiles import BUSINESS_PROFILES
 from tube_london_ads.scoring import recommend
 
 VECTORS_PATH = ROOT / "data" / "processed" / "station_feature_vectors_real.json"
+SCHEMATIC_POSITIONS_PATH = ROOT / "data" / "processed" / "schematic_positions.json"
 FEATURE_TABLE_PATH = ROOT / "data" / "processed" / "station_feature_table_real.csv"
 STATION_REFERENCE_PATH = ROOT / "data" / "processed" / "station_reference_with_counts.csv"
 CACHE_DIR = ROOT / ".cache"
@@ -83,24 +84,7 @@ LINE_COLORS = {
     "Waterloo & City": [147, 206, 186],
 }
 
-_SCALE = 4.5 / 2.2  # ratio between new and original render scale
-def _s(x: int, y: int) -> dict:
-    return {"x": round(x * _SCALE), "y": round(y * _SCALE)}
-
-SCHEMATIC_STATION_POSITIONS = {
-    "Liverpool Street": _s(1351, 808),
-    "Oxford Circus": _s(1013, 871),
-    "Tottenham Court Road": _s(1119, 924),
-    "Monument": _s(1316, 965),
-    "Piccadilly Circus": _s(1087, 991),
-    "Bank": _s(1300, 932),
-    "Leicester Square": _s(1121, 1034),
-    "Moorgate": _s(1274, 852),
-    "Barbican": _s(1230, 884),
-    "Aldgate": _s(1460, 912),
-    "Blackfriars": _s(1189, 1039),
-    "St. Paul's": _s(1228, 949),
-}
+SCHEMATIC_STATION_POSITIONS: dict = json.loads(SCHEMATIC_POSITIONS_PATH.read_text()) if SCHEMATIC_POSITIONS_PATH.exists() else {}
 
 
 @st.cache_data
@@ -208,7 +192,7 @@ def build_official_map_plotly(stations_df: pd.DataFrame) -> go.Figure:
     b64 = base64.b64encode(buf.getvalue()).decode()
 
     covered = stations_df[stations_df["station_name"].isin(SCHEMATIC_STATION_POSITIONS)].copy()
-    covered = covered.head(8).reset_index(drop=True)
+    covered = covered.reset_index(drop=True)
 
     fig = go.Figure()
 
@@ -394,9 +378,9 @@ with classic_tab:
         use_container_width=True,
         config={"scrollZoom": True, "displayModeBar": True, "modeBarButtonsToAdd": ["resetScale2d"]},
     )
-    st.write(f"Overlay coverage: {covered_count}/{min(len(stations_df), 8)} top stations currently mapped onto the schematic view")
+    st.write(f"Overlay coverage: {covered_count}/{len(stations_df)} top stations mapped onto the schematic view")
     st.markdown("Top recommended stations on that map:")
-    for idx, row in stations_df.head(8).iterrows():
+    for idx, row in stations_df.iterrows():
         marker = "✓" if row["station_name"] in SCHEMATIC_STATION_POSITIONS else "•"
         st.write(f"{marker} {idx + 1}. {row['station_name']} — {row['lines']}")
 

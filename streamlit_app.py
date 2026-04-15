@@ -1,5 +1,7 @@
 from __future__ import annotations
 
+import base64
+import io
 import json
 import sys
 import urllib.request
@@ -7,6 +9,7 @@ from pathlib import Path
 
 import pandas as pd
 from PIL import Image, ImageDraw, ImageFont
+import plotly.graph_objects as go
 import pydeck as pdk
 import pypdfium2 as pdfium
 import streamlit as st
@@ -192,40 +195,72 @@ def get_official_tfl_map_image() -> bytes:
     return png_path.read_bytes()
 
 
-def build_official_map_overlay(stations_df: pd.DataFrame) -> bytes:
-    image = Image.open(CACHE_DIR / "standard-tube-map-page1.png").convert("RGBA")
-    draw = ImageDraw.Draw(image)
-    font = ImageFont.load_default()
+def build_official_map_plotly(stations_df: pd.DataFrame) -> go.Figure:
+    img = Image.open(CACHE_DIR / "standard-tube-map-page1.png").convert("RGB")
+    img_width, img_height = img.size
+
+    buf = io.BytesIO()
+    img.save(buf, format="PNG")
+    b64 = base64.b64encode(buf.getvalue()).decode()
 
     covered = stations_df[stations_df["station_name"].isin(SCHEMATIC_STATION_POSITIONS)].copy()
-    for rank, (_, row) in enumerate(covered.head(8).iterrows(), start=1):
-        pos = SCHEMATIC_STATION_POSITIONS[row["station_name"]]
-        x = pos["x"]
-        y = pos["y"]
-        line_color = tuple(row["line_color"])
-        radius = 15
-        draw.ellipse((x - radius, y - radius, x + radius, y + radius), fill=line_color, outline=(255, 255, 255), width=4)
-        text = str(rank)
-        bbox = draw.textbbox((x, y), text, font=font)
-        tw = bbox[2] - bbox[0]
-        th = bbox[3] - bbox[1]
-        draw.text((x - tw / 2, y - th / 2 - 1), text, fill=(255, 255, 255), font=font)
+    covered = covered.head(8).reset_index(drop=True)
 
-        label = f"{rank}. {row['station_name']}"
-        lbbox = draw.textbbox((x + 20, y - 18), label, font=font)
-        padding = 5
-        draw.rounded_rectangle(
-            (lbbox[0] - padding, lbbox[1] - padding, lbbox[2] + padding, lbbox[3] + padding),
-            radius=6,
-            fill=(255, 255, 255, 235),
-            outline=(31, 41, 55, 220),
-            width=1,
+    fig = go.Figure()
+
+    fig.add_layout_image(
+        dict(
+            source=f"data:image/png;base64,{b64}",
+            xref="x", yref="y",
+            x=0, y=img_height,
+            sizex=img_width, sizey=img_height,
+            sizing="stretch",
+            layer="below",
         )
-        draw.text((x + 20, y - 18), label, fill=(17, 24, 39), font=font)
+    )
 
-    out_path = CACHE_DIR / "standard-tube-map-overlay.png"
-    image.save(out_path)
-    return out_path.read_bytes()
+    for rank, row in covered.iterrows():
+        pos = SCHEMATIC_STATION_POSITIONS[row["station_name"]]
+        px, py = pos["x"], img_height - pos["y"]  # flip y for plotly
+        r, g, b = row["line_color"]
+        color = f"rgb({r},{g},{b})"
+        hover = (
+            f"<b>#{rank + 1} {row['station_name']}</b><br>"
+            f"Score: {row['score']:.2f}<br>"
+            f"Lines: {row['lines']}<br>"
+            f"Annual entries/exits: {row['annualised_total_m']:.1f}M<br>"
+            f"Borough: {row.get('borough_name', 'N/A')}"
+        )
+        fig.add_trace(go.Scatter(
+            x=[px], y=[py],
+            mode="markers+text",
+            marker=dict(size=22, color=color, line=dict(color="white", width=3)),
+            text=[str(rank + 1)],
+            textfont=dict(color="white", size=11, family="Arial Black"),
+            textposition="middle center",
+            hovertemplate=hover + "<extra></extra>",
+            name=row["station_name"],
+            showlegend=True,
+        ))
+
+    fig.update_layout(
+        xaxis=dict(range=[0, img_width], showgrid=False, zeroline=False, showticklabels=False, fixedrange=False),
+        yaxis=dict(range=[0, img_height], showgrid=False, zeroline=False, showticklabels=False, fixedrange=False, scaleanchor="x"),
+        margin=dict(l=0, r=0, t=0, b=0),
+        plot_bgcolor="white",
+        paper_bgcolor="white",
+        legend=dict(
+            title="Top stations",
+            bgcolor="rgba(255,255,255,0.9)",
+            bordercolor="#ccc",
+            borderwidth=1,
+            font=dict(size=11),
+            x=1.01, y=1,
+        ),
+        height=680,
+        dragmode="pan",
+    )
+    return fig
 
 
 def build_feature_chart_data(row: pd.Series) -> pd.DataFrame:
@@ -349,8 +384,8 @@ with geo_tab:
 with classic_tab:
     get_official_tfl_map_image()
     covered_count = int(stations_df["station_name"].isin(SCHEMATIC_STATION_POSITIONS).sum())
-    st.caption("Official TfL schematic Tube map with overlaid recommendation markers where we have schematic station positions.")
-    st.image(build_official_map_overlay(stations_df), caption="Official TfL standard Tube map with recommendation markers", width="stretch")
+    st.caption("Official TfL schematic Tube map — hover over markers for details, scroll to zoom, drag to pan.")
+    st.plotly_chart(build_official_map_plotly(stations_df), use_container_width=True)
     st.write(f"Overlay coverage: {covered_count}/{min(len(stations_df), 8)} top stations currently mapped onto the schematic view")
     st.markdown("Top recommended stations on that map:")
     for idx, row in stations_df.head(8).iterrows():

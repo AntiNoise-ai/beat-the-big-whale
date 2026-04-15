@@ -5,3 +5,4 @@ pyproj
 pyogrio
 streamlit
 pypdfium2
+plotly

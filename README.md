@@ -16,7 +16,7 @@ Current status:
 - real-data demo explanations now include borough, footfall, and nearby-POI context
 - first visual layer shipped as a Streamlit app with a map, ranked table, and station drilldown
 - map upgraded to use TfL Tube line geometries so recommendations sit on a recognizable London network view
-- added a classic TfL schematic Tube map reference tab alongside the geographic analysis map
+- added a classic TfL schematic Tube map tab alongside the geographic analysis map, with overlaid markers for mapped priority stations
 
 Contents:
 - `STATUS.md` — concise progress log

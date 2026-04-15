@@ -6,6 +6,7 @@ import urllib.request
 from pathlib import Path
 
 import pandas as pd
+from PIL import Image, ImageDraw, ImageFont
 import pydeck as pdk
 import pypdfium2 as pdfium
 import streamlit as st
@@ -77,6 +78,21 @@ LINE_COLORS = {
     "Piccadilly": [0, 25, 168],
     "Victoria": [0, 152, 216],
     "Waterloo & City": [147, 206, 186],
+}
+
+SCHEMATIC_STATION_POSITIONS = {
+    "Liverpool Street": {"x": 1351, "y": 808},
+    "Oxford Circus": {"x": 1013, "y": 871},
+    "Tottenham Court Road": {"x": 1119, "y": 924},
+    "Monument": {"x": 1316, "y": 965},
+    "Piccadilly Circus": {"x": 1087, "y": 991},
+    "Bank": {"x": 1300, "y": 932},
+    "Leicester Square": {"x": 1121, "y": 1034},
+    "Moorgate": {"x": 1274, "y": 852},
+    "Barbican": {"x": 1230, "y": 884},
+    "Aldgate": {"x": 1460, "y": 912},
+    "Blackfriars": {"x": 1189, "y": 1039},
+    "St. Paul's": {"x": 1228, "y": 949},
 }
 
 
@@ -174,6 +190,42 @@ def get_official_tfl_map_image() -> bytes:
         image.save(png_path)
 
     return png_path.read_bytes()
+
+
+def build_official_map_overlay(stations_df: pd.DataFrame) -> bytes:
+    image = Image.open(CACHE_DIR / "standard-tube-map-page1.png").convert("RGBA")
+    draw = ImageDraw.Draw(image)
+    font = ImageFont.load_default()
+
+    covered = stations_df[stations_df["station_name"].isin(SCHEMATIC_STATION_POSITIONS)].copy()
+    for rank, (_, row) in enumerate(covered.head(8).iterrows(), start=1):
+        pos = SCHEMATIC_STATION_POSITIONS[row["station_name"]]
+        x = pos["x"]
+        y = pos["y"]
+        line_color = tuple(row["line_color"])
+        radius = 15
+        draw.ellipse((x - radius, y - radius, x + radius, y + radius), fill=line_color, outline=(255, 255, 255), width=4)
+        text = str(rank)
+        bbox = draw.textbbox((x, y), text, font=font)
+        tw = bbox[2] - bbox[0]
+        th = bbox[3] - bbox[1]
+        draw.text((x - tw / 2, y - th / 2 - 1), text, fill=(255, 255, 255), font=font)
+
+        label = f"{rank}. {row['station_name']}"
+        lbbox = draw.textbbox((x + 20, y - 18), label, font=font)
+        padding = 5
+        draw.rounded_rectangle(
+            (lbbox[0] - padding, lbbox[1] - padding, lbbox[2] + padding, lbbox[3] + padding),
+            radius=6,
+            fill=(255, 255, 255, 235),
+            outline=(31, 41, 55, 220),
+            width=1,
+        )
+        draw.text((x + 20, y - 18), label, fill=(17, 24, 39), font=font)
+
+    out_path = CACHE_DIR / "standard-tube-map-overlay.png"
+    image.save(out_path)
+    return out_path.read_bytes()
 
 
 def build_feature_chart_data(row: pd.Series) -> pd.DataFrame:
@@ -295,11 +347,15 @@ with geo_tab:
     st.pydeck_chart(build_map(stations_df, line_df, focus_line), width="stretch")
 
 with classic_tab:
-    st.caption("This is the official TfL schematic Tube map for visual reference. It is not yet station-overlaid, because schematic map coordinates differ from real geography.")
-    st.image(get_official_tfl_map_image(), caption="Official TfL standard Tube map", width="stretch")
+    get_official_tfl_map_image()
+    covered_count = int(stations_df["station_name"].isin(SCHEMATIC_STATION_POSITIONS).sum())
+    st.caption("Official TfL schematic Tube map with overlaid recommendation markers where we have schematic station positions.")
+    st.image(build_official_map_overlay(stations_df), caption="Official TfL standard Tube map with recommendation markers", width="stretch")
+    st.write(f"Overlay coverage: {covered_count}/{min(len(stations_df), 8)} top stations currently mapped onto the schematic view")
     st.markdown("Top recommended stations on that map:")
     for idx, row in stations_df.head(8).iterrows():
-        st.write(f"{idx + 1}. {row['station_name']} — {row['lines']}")
+        marker = "✓" if row["station_name"] in SCHEMATIC_STATION_POSITIONS else "•"
+        st.write(f"{marker} {idx + 1}. {row['station_name']} — {row['lines']}")
 
 st.dataframe(
     stations_df[DISPLAY_COLUMNS].rename(

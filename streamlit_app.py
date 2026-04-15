@@ -262,7 +262,7 @@ def build_official_map_plotly(stations_df: pd.DataFrame) -> go.Figure:
             x=1.01, y=1,
         ),
         height=680,
-        dragmode="zoom",
+        dragmode="pan",
     )
     return fig
 

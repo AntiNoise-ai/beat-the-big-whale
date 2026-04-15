@@ -113,26 +113,43 @@ def recommend(
     """Rank stations for an industry profile.
 
     value_mode=False (default): raw weighted score — rewards large, central stations.
-    value_mode=True: audience fit ÷ footfall — surfaces hidden-gem stations that
-        match the demographic well but have lower footfall (and thus likely lower
-        ad cost and less noise from competing brands).
+    value_mode=True: audience fit ÷ (1 + footfall) among stations that actually
+        fit the industry profile well (top 60% by audience fit).
+        Surfaces hidden-gem stations that match the demographic well but have
+        lower footfall (and thus likely lower ad cost and less competition).
     """
     weights = profile_for(industry)
     request = BusinessRequest(industry=industry)
-    ranked = []
     station_vectors = stations or load_station_vectors()
+
+    # Pre-compute audience_fit for all stations so we can set a quality floor
+    def audience_fit(station: StationFeatureVector) -> float:
+        return sum(
+            station.features[f] * weights.get(f, 0.0)
+            for f in station.features
+            if f not in _REACH_FEATURES
+        )
+
+    if value_mode:
+        all_fits = sorted(audience_fit(s) for s in station_vectors)
+        # Only consider stations in the top 60% by audience fit for this profile
+        quality_floor = all_fits[int(len(all_fits) * 0.40)]
+    else:
+        quality_floor = None
+
+    ranked = []
     for station in station_vectors:
         breakdown = {
             feature: round(station.features[feature] * weights.get(feature, 0.0), 3)
             for feature in station.features
         }
         if value_mode:
-            # Audience fit: demographic + POI features only (no footfall/centrality bias)
-            audience_fit = sum(
-                v for f, v in breakdown.items() if f not in _REACH_FEATURES
-            )
-            footfall = max(station.features.get("footfall_proxy", 0.1), 0.1)
-            score = round(audience_fit / footfall, 3)
+            fit = audience_fit(station)
+            if fit < quality_floor:
+                continue  # skip low-quality matches entirely
+            # Softer denominator: 1 + footfall avoids explosion at zero footfall
+            footfall = station.features.get("footfall_proxy", 0.0)
+            score = round(fit / (1 + footfall), 3)
         else:
             score = round(sum(breakdown.values()), 3)
 

@@ -83,19 +83,23 @@ LINE_COLORS = {
     "Waterloo & City": [147, 206, 186],
 }
 
+_SCALE = 4.5 / 2.2  # ratio between new and original render scale
+def _s(x: int, y: int) -> dict:
+    return {"x": round(x * _SCALE), "y": round(y * _SCALE)}
+
 SCHEMATIC_STATION_POSITIONS = {
-    "Liverpool Street": {"x": 1351, "y": 808},
-    "Oxford Circus": {"x": 1013, "y": 871},
-    "Tottenham Court Road": {"x": 1119, "y": 924},
-    "Monument": {"x": 1316, "y": 965},
-    "Piccadilly Circus": {"x": 1087, "y": 991},
-    "Bank": {"x": 1300, "y": 932},
-    "Leicester Square": {"x": 1121, "y": 1034},
-    "Moorgate": {"x": 1274, "y": 852},
-    "Barbican": {"x": 1230, "y": 884},
-    "Aldgate": {"x": 1460, "y": 912},
-    "Blackfriars": {"x": 1189, "y": 1039},
-    "St. Paul's": {"x": 1228, "y": 949},
+    "Liverpool Street": _s(1351, 808),
+    "Oxford Circus": _s(1013, 871),
+    "Tottenham Court Road": _s(1119, 924),
+    "Monument": _s(1316, 965),
+    "Piccadilly Circus": _s(1087, 991),
+    "Bank": _s(1300, 932),
+    "Leicester Square": _s(1121, 1034),
+    "Moorgate": _s(1274, 852),
+    "Barbican": _s(1230, 884),
+    "Aldgate": _s(1460, 912),
+    "Blackfriars": _s(1189, 1039),
+    "St. Paul's": _s(1228, 949),
 }
 
 
@@ -189,7 +193,7 @@ def get_official_tfl_map_image() -> bytes:
     if not png_path.exists() or png_path.stat().st_mtime < pdf_path.stat().st_mtime:
         pdf = pdfium.PdfDocument(str(pdf_path))
         page = pdf[0]
-        image = page.render(scale=2.2).to_pil()
+        image = page.render(scale=4.5).to_pil()
         image.save(png_path)
 
     return png_path.read_bytes()
@@ -258,7 +262,7 @@ def build_official_map_plotly(stations_df: pd.DataFrame) -> go.Figure:
             x=1.01, y=1,
         ),
         height=680,
-        dragmode="pan",
+        dragmode="zoom",
     )
     return fig
 
@@ -385,7 +389,11 @@ with classic_tab:
     get_official_tfl_map_image()
     covered_count = int(stations_df["station_name"].isin(SCHEMATIC_STATION_POSITIONS).sum())
     st.caption("Official TfL schematic Tube map — hover over markers for details, scroll to zoom, drag to pan.")
-    st.plotly_chart(build_official_map_plotly(stations_df), use_container_width=True)
+    st.plotly_chart(
+        build_official_map_plotly(stations_df),
+        use_container_width=True,
+        config={"scrollZoom": True, "displayModeBar": True, "modeBarButtonsToAdd": ["resetScale2d"]},
+    )
     st.write(f"Overlay coverage: {covered_count}/{min(len(stations_df), 8)} top stations currently mapped onto the schematic view")
     st.markdown("Top recommended stations on that map:")
     for idx, row in stations_df.head(8).iterrows():

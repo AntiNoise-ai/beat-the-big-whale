@@ -113,9 +113,9 @@ def load_station_frame() -> pd.DataFrame:
 
 
 @st.cache_data
-def load_results(industry: str, top_k: int) -> tuple[pd.DataFrame, pd.DataFrame]:
+def load_results(industry: str, top_k: int, value_mode: bool = False) -> tuple[pd.DataFrame, pd.DataFrame]:
     station_frame = load_station_frame()
-    result = recommend(industry=industry, top_k=top_k, stations=load_vectors())
+    result = recommend(industry=industry, top_k=top_k, stations=load_vectors(), value_mode=value_mode)
 
     station_rows = []
     for rec in result.stations:
@@ -350,16 +350,43 @@ with st.sidebar:
     st.header("Campaign settings")
     industry = st.selectbox("Business profile", BUSINESS_PROFILES, index=BUSINESS_PROFILES.index("luxury_retail"))
     top_k = st.slider("Top stations", min_value=3, max_value=20, value=8)
+    ranking_mode = st.radio(
+        "Ranking mode",
+        ["🎯 Reach  —  raw score", "💎 Value  —  hidden gems"],
+        index=0,
+        help=(
+            "**Reach**: ranks by total weighted score. Surfaces the biggest, most central stations.\n\n"
+            "**Value / Hidden gems**: ranks by audience fit ÷ footfall. "
+            "Surfaces stations where your target demographic is strong but overall "
+            "footfall (and thus likely ad cost) is lower — the ones competitors overlook."
+        ),
+    )
+    value_mode = ranking_mode.startswith("💎")
     st.info("Proxy-based strategy tool for underdog teams, not an ROI guarantee.")
 
-stations_df, line_df = load_results(industry, top_k)
+stations_df, line_df = load_results(industry, top_k, value_mode)
 line_focus_options = ["All"] + line_df["line"].tolist()
 focus_line = st.selectbox("Map focus", line_focus_options, index=0)
+
+if value_mode:
+    st.info(
+        "💎 **Value mode** — scoring = audience fit ÷ footfall. "
+        "These stations match your profile well but are smaller, cheaper, and less contested. "
+        "Scores are not comparable to Reach mode.",
+        icon=None,
+    )
+else:
+    st.info(
+        "🎯 **Reach mode** — scoring = total weighted profile score. "
+        "Surfaces the biggest, most central stations for maximum impressions.",
+        icon=None,
+    )
 
 best_station = stations_df.iloc[0]
 col1, col2, col3 = st.columns(3)
 col1.metric("Top station", best_station["station_name"])
-col2.metric("Top score", f"{best_station['score']:.2f}")
+score_label = "Value score" if value_mode else "Reach score"
+col2.metric(score_label, f"{best_station['score']:.2f}")
 col3.metric("Top station footfall", f"{best_station['annualised_total_m']:.1f}M annual")
 
 st.subheader("Map views")

@@ -100,11 +100,23 @@ def load_station_vectors(path: Path = DATA_PATH) -> list[StationFeatureVector]:
     return [StationFeatureVector(**row) for row in rows]
 
 
+# Features that measure "size" rather than audience fit — excluded from value numerator
+_REACH_FEATURES = {"footfall_proxy", "zone_centrality"}
+
+
 def recommend(
     industry: str,
     top_k: int = 5,
     stations: list[StationFeatureVector] | None = None,
+    value_mode: bool = False,
 ) -> RecommendationBundle:
+    """Rank stations for an industry profile.
+
+    value_mode=False (default): raw weighted score — rewards large, central stations.
+    value_mode=True: audience fit ÷ footfall — surfaces hidden-gem stations that
+        match the demographic well but have lower footfall (and thus likely lower
+        ad cost and less noise from competing brands).
+    """
     weights = profile_for(industry)
     request = BusinessRequest(industry=industry)
     ranked = []
@@ -114,11 +126,20 @@ def recommend(
             feature: round(station.features[feature] * weights.get(feature, 0.0), 3)
             for feature in station.features
         }
-        score = round(sum(breakdown.values()), 3)
+        if value_mode:
+            # Audience fit: demographic + POI features only (no footfall/centrality bias)
+            audience_fit = sum(
+                v for f, v in breakdown.items() if f not in _REACH_FEATURES
+            )
+            footfall = max(station.features.get("footfall_proxy", 0.1), 0.1)
+            score = round(audience_fit / footfall, 3)
+        else:
+            score = round(sum(breakdown.values()), 3)
+
         top_reasons = [
             f"{FEATURE_LABELS[name]} ({value:.2f} weighted score)"
             for name, value in sorted(breakdown.items(), key=lambda item: item[1], reverse=True)
-            if value > 0
+            if value > 0 and name not in _REACH_FEATURES
         ][:3]
         ranked.append(
             StationRecommendation(

@@ -7,7 +7,7 @@ from pathlib import Path
 from .models import BusinessRequest, RecommendationBundle, StationFeatureVector, StationRecommendation
 from .profiles import profile_for
 
-DATA_PATH = Path(__file__).resolve().parents[2] / "data" / "sample_stations.json"
+DATA_PATH = Path(__file__).resolve().parents[2] / "data" / "processed" / "station_feature_vectors_real.json"
 
 FEATURE_LABELS = {
     "resident_density": "strong nearby resident density",
